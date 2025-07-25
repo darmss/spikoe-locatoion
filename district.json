@@ -1,0 +1,6026 @@
+[
+  {
+    "id": "2634D629-9D81-4866-9F85-7F2E77C1130F",
+    "city_id": "323B51FC-8A32-4FE2-9B13-3C4D8D50D670",
+    "name": "GAMBIR",
+    "initial": "K"
+  },
+  {
+    "id": "E193ED03-B110-4365-8B7C-9ECEC4F70E29",
+    "city_id": "323B51FC-8A32-4FE2-9B13-3C4D8D50D670",
+    "name": "TANAH ABANG",
+    "initial": "K"
+  },
+  {
+    "id": "261AEF54-08B5-4E36-9966-DADCD3E4FAB2",
+    "city_id": "323B51FC-8A32-4FE2-9B13-3C4D8D50D670",
+    "name": "MENTENG",
+    "initial": "K"
+  },
+  {
+    "id": "236925BD-A005-4249-A7A5-2A98E9EAE941",
+    "city_id": "323B51FC-8A32-4FE2-9B13-3C4D8D50D670",
+    "name": "SENEN",
+    "initial": "K"
+  },
+  {
+    "id": "BB559CF8-CAA6-4276-BCA8-3DCF5325A554",
+    "city_id": "323B51FC-8A32-4FE2-9B13-3C4D8D50D670",
+    "name": "CEMPAKA PUTIH",
+    "initial": "K"
+  },
+  {
+    "id": "96DA699C-B322-4774-BBEA-62F81B19D816",
+    "city_id": "323B51FC-8A32-4FE2-9B13-3C4D8D50D670",
+    "name": "JOHAR BARU",
+    "initial": "K"
+  },
+  {
+    "id": "F842D0F1-7930-4746-8E0B-9E50CF7566C7",
+    "city_id": "323B51FC-8A32-4FE2-9B13-3C4D8D50D670",
+    "name": "KEMAYORAN",
+    "initial": "K"
+  },
+  {
+    "id": "485FA30E-B828-4AF1-9C4F-F7EFC7309F50",
+    "city_id": "323B51FC-8A32-4FE2-9B13-3C4D8D50D670",
+    "name": "SAWAH BESAR",
+    "initial": "K"
+  },
+  {
+    "id": "92A11390-CF4F-4CEE-9D92-531710484245",
+    "city_id": "127FA1BF-B28F-49DA-A202-B1EF937869F1",
+    "name": "TAMAN SARI",
+    "initial": "K"
+  },
+  {
+    "id": "9787158A-EC30-4184-A58D-FE1AE1CE5862",
+    "city_id": "127FA1BF-B28F-49DA-A202-B1EF937869F1",
+    "name": "TAMBORA",
+    "initial": "K"
+  },
+  {
+    "id": "7A97336E-8063-4FC3-9740-E1DF1B371E88",
+    "city_id": "127FA1BF-B28F-49DA-A202-B1EF937869F1",
+    "name": "PAL MERAH",
+    "initial": "K"
+  },
+  {
+    "id": "D19CF667-9B59-4D76-83F1-EEEE31382054",
+    "city_id": "127FA1BF-B28F-49DA-A202-B1EF937869F1",
+    "name": "GROGOL PETAMBURAN",
+    "initial": "K"
+  },
+  {
+    "id": "374D4FCC-C78E-49D4-8AF9-7045EEA2BAF7",
+    "city_id": "127FA1BF-B28F-49DA-A202-B1EF937869F1",
+    "name": "KEBON JERUK",
+    "initial": "K"
+  },
+  {
+    "id": "4476A097-D7EF-4C05-9E5F-D6D42B4F9E24",
+    "city_id": "127FA1BF-B28F-49DA-A202-B1EF937869F1",
+    "name": "KEMBANGAN",
+    "initial": "K"
+  },
+  {
+    "id": "C74DEDBE-1411-40DC-B22E-A1DCA9965C0B",
+    "city_id": "127FA1BF-B28F-49DA-A202-B1EF937869F1",
+    "name": "CENGKARENG",
+    "initial": "K"
+  },
+  {
+    "id": "D0921505-EAF8-4314-8D6B-FF9753B2D3DE",
+    "city_id": "127FA1BF-B28F-49DA-A202-B1EF937869F1",
+    "name": "KALIDERES",
+    "initial": "K"
+  },
+  {
+    "id": "CC45CE84-3282-45D2-80E9-B2D7FDBA3ED0",
+    "city_id": "4DF9937E-F875-4A61-8B02-72A275CB8DED",
+    "name": "KEBAYORAN BARU",
+    "initial": "K"
+  },
+  {
+    "id": "5E03A3E2-7EF4-4E85-B539-31933429A383",
+    "city_id": "4DF9937E-F875-4A61-8B02-72A275CB8DED",
+    "name": "KEBAYORAN LAMA",
+    "initial": "K"
+  },
+  {
+    "id": "B9FC6DAF-8930-4346-9BF2-B04D88DA1B80",
+    "city_id": "4DF9937E-F875-4A61-8B02-72A275CB8DED",
+    "name": "PESANGGRAHAN",
+    "initial": "K"
+  },
+  {
+    "id": "0415BC90-F82B-4705-97B3-656AB8CC175A",
+    "city_id": "4DF9937E-F875-4A61-8B02-72A275CB8DED",
+    "name": "CILANDAK",
+    "initial": "K"
+  },
+  {
+    "id": "E3019E1A-69C8-4F05-BC36-F662F8A17173",
+    "city_id": "4DF9937E-F875-4A61-8B02-72A275CB8DED",
+    "name": "PASAR MINGGU",
+    "initial": "K"
+  },
+  {
+    "id": "177723CF-4D93-4040-B127-013818FB805A",
+    "city_id": "4DF9937E-F875-4A61-8B02-72A275CB8DED",
+    "name": "JAGAKARSA",
+    "initial": "K"
+  },
+  {
+    "id": "82BC27DD-E924-437D-86C5-D5E810CA967C",
+    "city_id": "4DF9937E-F875-4A61-8B02-72A275CB8DED",
+    "name": "MAMPANG PRAPATAN",
+    "initial": "K"
+  },
+  {
+    "id": "CED41574-05A1-493A-8EDA-96FC613FCE38",
+    "city_id": "4DF9937E-F875-4A61-8B02-72A275CB8DED",
+    "name": "PANCORAN",
+    "initial": "K"
+  },
+  {
+    "id": "2C55E9F5-74F3-4EC9-808E-A7DD796909B2",
+    "city_id": "4DF9937E-F875-4A61-8B02-72A275CB8DED",
+    "name": "TEBET",
+    "initial": "K"
+  },
+  {
+    "id": "436BEEE7-DEF9-488B-A17D-578745E76A1D",
+    "city_id": "4DF9937E-F875-4A61-8B02-72A275CB8DED",
+    "name": "SETIABUDI",
+    "initial": "K"
+  },
+  {
+    "id": "1C3364DB-91F9-4A14-B290-AFD68B2D9304",
+    "city_id": "7EF04DBF-FCF6-4E4B-8071-311B8452BD40",
+    "name": "MATRAMAN",
+    "initial": "K"
+  },
+  {
+    "id": "A11B8578-753D-479A-8843-0991C9E6413D",
+    "city_id": "7EF04DBF-FCF6-4E4B-8071-311B8452BD40",
+    "name": "PULOGADUNG",
+    "initial": "K"
+  },
+  {
+    "id": "A5F518BC-2059-47F0-BE16-ACEC39589D55",
+    "city_id": "7EF04DBF-FCF6-4E4B-8071-311B8452BD40",
+    "name": "JATINEGARA",
+    "initial": "K"
+  },
+  {
+    "id": "29A0E7B2-DAB8-400D-873A-8B9904930EE0",
+    "city_id": "7EF04DBF-FCF6-4E4B-8071-311B8452BD40",
+    "name": "DUREN SAWIT",
+    "initial": "K"
+  },
+  {
+    "id": "14006F66-059B-4785-BB79-CF637528197F",
+    "city_id": "7EF04DBF-FCF6-4E4B-8071-311B8452BD40",
+    "name": "KRAMATJATI",
+    "initial": "K"
+  },
+  {
+    "id": "429F048B-7EAE-4EA5-ABA4-C8B1DD9E8B87",
+    "city_id": "7EF04DBF-FCF6-4E4B-8071-311B8452BD40",
+    "name": "MAKASAR",
+    "initial": "K"
+  },
+  {
+    "id": "1E536636-CC2A-4DF7-BAE4-A74ACD10E287",
+    "city_id": "7EF04DBF-FCF6-4E4B-8071-311B8452BD40",
+    "name": "PASAR REBO",
+    "initial": "K"
+  },
+  {
+    "id": "4C322A37-D69B-4AB3-B87B-829C8C4007AD",
+    "city_id": "7EF04DBF-FCF6-4E4B-8071-311B8452BD40",
+    "name": "CIRACAS",
+    "initial": "K"
+  },
+  {
+    "id": "D62A08CE-0E9B-431D-B0EC-0BF042C9971D",
+    "city_id": "7EF04DBF-FCF6-4E4B-8071-311B8452BD40",
+    "name": "CIPAYUNG",
+    "initial": "K"
+  },
+  {
+    "id": "18A29A3A-C467-45E4-B0B0-64E00546CDD8",
+    "city_id": "7EF04DBF-FCF6-4E4B-8071-311B8452BD40",
+    "name": "CAKUNG",
+    "initial": "K"
+  },
+  {
+    "id": "AFCB9D99-A530-4358-AC10-39C8132D5F6E",
+    "city_id": "5A6C378A-4EA0-44B0-9B11-797C8EC354BC",
+    "name": "CILINCING",
+    "initial": "K"
+  },
+  {
+    "id": "12D661D7-97E7-4FA7-B771-8D44E88C30D5",
+    "city_id": "5A6C378A-4EA0-44B0-9B11-797C8EC354BC",
+    "name": "KOJA",
+    "initial": "K"
+  },
+  {
+    "id": "767D897C-2E7C-407B-B148-0BED1FF23EE7",
+    "city_id": "5A6C378A-4EA0-44B0-9B11-797C8EC354BC",
+    "name": "KELAPA GADING",
+    "initial": "K"
+  },
+  {
+    "id": "81E76D83-1E76-495F-8F42-C70E777CD63D",
+    "city_id": "5A6C378A-4EA0-44B0-9B11-797C8EC354BC",
+    "name": "TANJUNG PRIOK",
+    "initial": "K"
+  },
+  {
+    "id": "25344417-BBA6-4C4A-BDF7-755AD6522476",
+    "city_id": "5A6C378A-4EA0-44B0-9B11-797C8EC354BC",
+    "name": "PADEMANGAN",
+    "initial": "K"
+  },
+  {
+    "id": "0B146FA9-DC3E-4F87-A734-AAD7B388A7B0",
+    "city_id": "5A6C378A-4EA0-44B0-9B11-797C8EC354BC",
+    "name": "PENJARINGAN",
+    "initial": "K"
+  },
+  {
+    "id": "0B898B0E-DCE2-48C8-BCE5-E3E42F77EA5A",
+    "city_id": "ABCBB0D4-6106-4970-9F68-D596E037C5C3",
+    "name": "TANGERANG",
+    "initial": "K"
+  },
+  {
+    "id": "141280B5-9973-41A4-AFEE-FA9D0864D19B",
+    "city_id": "ABCBB0D4-6106-4970-9F68-D596E037C5C3",
+    "name": "KARAWACI",
+    "initial": "K"
+  },
+  {
+    "id": "69DD7AAB-7760-4CB0-B07B-2ABE0A583954",
+    "city_id": "ABCBB0D4-6106-4970-9F68-D596E037C5C3",
+    "name": "BATUCEPER",
+    "initial": "K"
+  },
+  {
+    "id": "E4CA98EA-BA75-481E-9F3D-F9A56CFB1027",
+    "city_id": "ABCBB0D4-6106-4970-9F68-D596E037C5C3",
+    "name": "NEGLASARI",
+    "initial": "K"
+  },
+  {
+    "id": "B0187767-ADD5-4BC4-B8E8-D4E3B25644F1",
+    "city_id": "ABCBB0D4-6106-4970-9F68-D596E037C5C3",
+    "name": "BENDA",
+    "initial": "K"
+  },
+  {
+    "id": "E965A11C-38E1-4245-8562-B8383CE2E254",
+    "city_id": "ABCBB0D4-6106-4970-9F68-D596E037C5C3",
+    "name": "PERIUK",
+    "initial": "K"
+  },
+  {
+    "id": "E43C7AA1-3118-4991-84EC-FB9BECDC828E",
+    "city_id": "ABCBB0D4-6106-4970-9F68-D596E037C5C3",
+    "name": "JATIUWUNG",
+    "initial": "K"
+  },
+  {
+    "id": "6A4BC27D-2C9E-4504-A87B-2BEE0CD98006",
+    "city_id": "ABCBB0D4-6106-4970-9F68-D596E037C5C3",
+    "name": "CIBODAS",
+    "initial": "K"
+  },
+  {
+    "id": "DFEBBF09-7855-48D0-B76D-DC3DC5F26778",
+    "city_id": "ABCBB0D4-6106-4970-9F68-D596E037C5C3",
+    "name": "CIPONDOH",
+    "initial": "K"
+  },
+  {
+    "id": "AA84E5B5-2868-459F-9576-DFC9CEF69E53",
+    "city_id": "ABCBB0D4-6106-4970-9F68-D596E037C5C3",
+    "name": "PINANG",
+    "initial": "K"
+  },
+  {
+    "id": "CCA4228A-0AC0-4F5E-9E9B-94C04D69B1F7",
+    "city_id": "ABCBB0D4-6106-4970-9F68-D596E037C5C3",
+    "name": "CILEDUG",
+    "initial": "K"
+  },
+  {
+    "id": "6DF92AE3-4FB0-4B1E-AFE7-0CB5E4595397",
+    "city_id": "ABCBB0D4-6106-4970-9F68-D596E037C5C3",
+    "name": "LARANGAN",
+    "initial": "K"
+  },
+  {
+    "id": "9420D056-4525-4833-9D81-157B9E05B915",
+    "city_id": "ABCBB0D4-6106-4970-9F68-D596E037C5C3",
+    "name": "KARANG TENGAH",
+    "initial": "K"
+  },
+  {
+    "id": "C1356415-5A94-41B0-A5A1-42C6B283C3D1",
+    "city_id": "6D39FF3F-EFF4-4051-A679-7DC85B679EB4",
+    "name": "KOSAMBI",
+    "initial": "K"
+  },
+  {
+    "id": "AA99CF8B-911E-4D6C-911A-CC3ADDFCBFA7",
+    "city_id": "769662D1-1838-428A-9F26-7674B435D12B",
+    "name": "PONDOK AREN",
+    "initial": "K"
+  },
+  {
+    "id": "03FC741F-ACB5-4F24-A401-438A42CC27AB",
+    "city_id": "769662D1-1838-428A-9F26-7674B435D12B",
+    "name": "SERPONG",
+    "initial": "K"
+  },
+  {
+    "id": "11043681-049B-442E-9078-4C25322606CB",
+    "city_id": "769662D1-1838-428A-9F26-7674B435D12B",
+    "name": "SETU",
+    "initial": "K"
+  },
+  {
+    "id": "8AEC58B8-477F-4F44-A9F4-EB11B5823AE0",
+    "city_id": "769662D1-1838-428A-9F26-7674B435D12B",
+    "name": "SERPONG UTARA",
+    "initial": "K"
+  },
+  {
+    "id": "3BDCE439-344B-40B4-8CE3-A280CB5AE4D3",
+    "city_id": "6D39FF3F-EFF4-4051-A679-7DC85B679EB4",
+    "name": "PAGEDANGAN",
+    "initial": "K"
+  },
+  {
+    "id": "96CED3A6-E4E6-4B22-995E-687EB2BF140E",
+    "city_id": "6D39FF3F-EFF4-4051-A679-7DC85B679EB4",
+    "name": "CISAUK",
+    "initial": "K"
+  },
+  {
+    "id": "1B026A95-AA3C-4C8D-9052-B78190A6C982",
+    "city_id": "769662D1-1838-428A-9F26-7674B435D12B",
+    "name": "CIPUTAT",
+    "initial": "K"
+  },
+  {
+    "id": "9CB6A21E-37FC-462C-88AD-DD6BC981FFA7",
+    "city_id": "769662D1-1838-428A-9F26-7674B435D12B",
+    "name": "CIPUTAT TIMUR",
+    "initial": "K"
+  },
+  {
+    "id": "F3DBE9CB-0A43-4D32-A705-914E9D868A9C",
+    "city_id": "769662D1-1838-428A-9F26-7674B435D12B",
+    "name": "PAMULANG",
+    "initial": "K"
+  },
+  {
+    "id": "F6D14E18-2B9A-4E1B-8BD9-0E6F937A672B",
+    "city_id": "6D39FF3F-EFF4-4051-A679-7DC85B679EB4",
+    "name": "TELUKNAGA",
+    "initial": "K"
+  },
+  {
+    "id": "069B2FEB-4666-4793-BF7A-2E1B80B89B74",
+    "city_id": "6D39FF3F-EFF4-4051-A679-7DC85B679EB4",
+    "name": "SEPATAN",
+    "initial": "K"
+  },
+  {
+    "id": "FD025C56-79B3-494B-9817-0DF8D99F0381",
+    "city_id": "6D39FF3F-EFF4-4051-A679-7DC85B679EB4",
+    "name": "SEPATAN TIMUR",
+    "initial": "K"
+  },
+  {
+    "id": "3BA95C74-6B88-49B8-B6C3-77EC2DF17BCF",
+    "city_id": "6D39FF3F-EFF4-4051-A679-7DC85B679EB4",
+    "name": "RAJEG",
+    "initial": "K"
+  },
+  {
+    "id": "F0031512-D96B-4DF6-856A-A6B6AD57B860",
+    "city_id": "6D39FF3F-EFF4-4051-A679-7DC85B679EB4",
+    "name": "SINDANG JAYA",
+    "initial": "K"
+  },
+  {
+    "id": "8FB48E1F-1B3F-4FD5-99E4-EAD9066372F5",
+    "city_id": "6D39FF3F-EFF4-4051-A679-7DC85B679EB4",
+    "name": "PASAR KEMIS",
+    "initial": "K"
+  },
+  {
+    "id": "D8004CC6-4DB8-411D-97D2-77D1EA5D6E64",
+    "city_id": "6D39FF3F-EFF4-4051-A679-7DC85B679EB4",
+    "name": "BALARAJA",
+    "initial": "K"
+  },
+  {
+    "id": "FFD2B2CE-1E78-4064-B260-4DF671313F56",
+    "city_id": "6D39FF3F-EFF4-4051-A679-7DC85B679EB4",
+    "name": "CIKUPA",
+    "initial": "K"
+  },
+  {
+    "id": "D181987A-E570-477B-9D5F-5A4B277B4C41",
+    "city_id": "6D39FF3F-EFF4-4051-A679-7DC85B679EB4",
+    "name": "PANONGAN",
+    "initial": "K"
+  },
+  {
+    "id": "EDF08894-9502-4033-8A73-AF0987C7C82C",
+    "city_id": "6D39FF3F-EFF4-4051-A679-7DC85B679EB4",
+    "name": "TIGARAKSA",
+    "initial": "K"
+  },
+  {
+    "id": "B547087D-63E4-4D6E-B99B-EC7DD4BE3AB2",
+    "city_id": "6D39FF3F-EFF4-4051-A679-7DC85B679EB4",
+    "name": "CISOKA",
+    "initial": "K"
+  },
+  {
+    "id": "8E563014-1591-4F83-870F-57BB7F2F1F17",
+    "city_id": "6D39FF3F-EFF4-4051-A679-7DC85B679EB4",
+    "name": "CURUG",
+    "initial": "K"
+  },
+  {
+    "id": "36A2A0AF-3A46-4078-88B3-2238886552CA",
+    "city_id": "6D39FF3F-EFF4-4051-A679-7DC85B679EB4",
+    "name": "KELAPA DUA",
+    "initial": "K"
+  },
+  {
+    "id": "CB6C2C09-EDC1-41EC-9689-687028CA7CAB",
+    "city_id": "6D39FF3F-EFF4-4051-A679-7DC85B679EB4",
+    "name": "LEGOK",
+    "initial": "K"
+  },
+  {
+    "id": "2FFEEE13-86A1-4C56-BA67-14A2076A441A",
+    "city_id": "B3825995-9666-4ACC-9A30-A405CBB61FA2",
+    "name": "CIGOMBONG",
+    "initial": "K"
+  },
+  {
+    "id": "23C0635B-3E48-4502-A341-AEA1E9735FF0",
+    "city_id": "91707474-7CA0-48DE-B4F4-757094A14C35",
+    "name": "BOGOR BARAT",
+    "initial": "K"
+  },
+  {
+    "id": "5355A8FF-4279-446C-961C-E9441617423F",
+    "city_id": "91707474-7CA0-48DE-B4F4-757094A14C35",
+    "name": "BOGOR TENGAH",
+    "initial": "K"
+  },
+  {
+    "id": "2FCADE6B-B63F-455D-828B-01CAFA6B3943",
+    "city_id": "91707474-7CA0-48DE-B4F4-757094A14C35",
+    "name": "BOGOR SELATAN",
+    "initial": "K"
+  },
+  {
+    "id": "54B7C2CA-E734-4331-B4F5-4D9C04534E52",
+    "city_id": "91707474-7CA0-48DE-B4F4-757094A14C35",
+    "name": "BOGOR TIMUR",
+    "initial": "K"
+  },
+  {
+    "id": "B363AA62-81CD-49A8-9650-7B93BCF03010",
+    "city_id": "91707474-7CA0-48DE-B4F4-757094A14C35",
+    "name": "BOGOR UTARA",
+    "initial": "K"
+  },
+  {
+    "id": "62FCEFD0-3EE6-4EAE-B8B8-E6604F97A764",
+    "city_id": "91707474-7CA0-48DE-B4F4-757094A14C35",
+    "name": "TANAH SAREAL",
+    "initial": "K"
+  },
+  {
+    "id": "D936D190-E9B5-4538-A5B8-DA8EEE41F33A",
+    "city_id": "B3825995-9666-4ACC-9A30-A405CBB61FA2",
+    "name": "GUNUNG SINDUR",
+    "initial": "K"
+  },
+  {
+    "id": "D9574CA1-7981-426F-B53D-7E678B55847F",
+    "city_id": "D20B1706-6987-4485-83D6-C854FE9765F1",
+    "name": "SUKMAJAYA",
+    "initial": "K"
+  },
+  {
+    "id": "66BA8628-D2C1-441D-B812-EE18AD377807",
+    "city_id": "D20B1706-6987-4485-83D6-C854FE9765F1",
+    "name": "CILODONG",
+    "initial": "K"
+  },
+  {
+    "id": "AAFD15CE-ABB8-4CDE-A6C7-4026AE1DB808",
+    "city_id": "D20B1706-6987-4485-83D6-C854FE9765F1",
+    "name": "BEJI",
+    "initial": "K"
+  },
+  {
+    "id": "6D3A949D-05BD-405F-89C4-CAC5AD9DFE14",
+    "city_id": "D20B1706-6987-4485-83D6-C854FE9765F1",
+    "name": "PANCORAN MAS",
+    "initial": "K"
+  },
+  {
+    "id": "400212FA-98CF-4082-B144-33C982C4A8EE",
+    "city_id": "D20B1706-6987-4485-83D6-C854FE9765F1",
+    "name": "CIPAYUNG",
+    "initial": "K"
+  },
+  {
+    "id": "686860EB-B2AF-4288-B82D-A88B42F4600C",
+    "city_id": "D20B1706-6987-4485-83D6-C854FE9765F1",
+    "name": "TAPOS",
+    "initial": "K"
+  },
+  {
+    "id": "AF7FB308-E840-4C53-8134-A535345D51ED",
+    "city_id": "D20B1706-6987-4485-83D6-C854FE9765F1",
+    "name": "CIMANGGIS",
+    "initial": "K"
+  },
+  {
+    "id": "4C85D04C-9490-4F41-8F64-24A91AB7E0D6",
+    "city_id": "D20B1706-6987-4485-83D6-C854FE9765F1",
+    "name": "SAWANGAN",
+    "initial": "K"
+  },
+  {
+    "id": "FE8C5570-3B35-4F2B-8ECC-EA7818F23630",
+    "city_id": "D20B1706-6987-4485-83D6-C854FE9765F1",
+    "name": "CINERE",
+    "initial": "K"
+  },
+  {
+    "id": "E6F72F9D-13B1-4135-84E3-49761BB5DEB8",
+    "city_id": "D20B1706-6987-4485-83D6-C854FE9765F1",
+    "name": "LIMO",
+    "initial": "K"
+  },
+  {
+    "id": "5BCEED29-11EB-47D5-92B8-22B7D8BFD0EC",
+    "city_id": "D20B1706-6987-4485-83D6-C854FE9765F1",
+    "name": "BOJONGSARI",
+    "initial": "K"
+  },
+  {
+    "id": "D4F2ABBA-DC97-4254-88A5-AAA1FACE73F3",
+    "city_id": "B3825995-9666-4ACC-9A30-A405CBB61FA2",
+    "name": "CIOMAS",
+    "initial": "K"
+  },
+  {
+    "id": "090943CB-C934-47ED-AA6F-AEBB060000D1",
+    "city_id": "B3825995-9666-4ACC-9A30-A405CBB61FA2",
+    "name": "TAMANSARI",
+    "initial": "K"
+  },
+  {
+    "id": "86CBBD84-829D-4E9E-A57D-5DB0ACF85ED4",
+    "city_id": "B3825995-9666-4ACC-9A30-A405CBB61FA2",
+    "name": "CIAMPEA",
+    "initial": "K"
+  },
+  {
+    "id": "1B06A295-F2D0-45FA-826D-D5215BB049B5",
+    "city_id": "B3825995-9666-4ACC-9A30-A405CBB61FA2",
+    "name": "DRAMAGA",
+    "initial": "K"
+  },
+  {
+    "id": "B5B3B76D-94ED-4A80-8E36-57AA62FABAAD",
+    "city_id": "B3825995-9666-4ACC-9A30-A405CBB61FA2",
+    "name": "SUKARAJA",
+    "initial": "K"
+  },
+  {
+    "id": "C65A41BB-3694-4331-A005-1B0065748F0B",
+    "city_id": "B3825995-9666-4ACC-9A30-A405CBB61FA2",
+    "name": "CIAWI",
+    "initial": "K"
+  },
+  {
+    "id": "01947C49-854E-4D56-86BF-E4ABE3C4E688",
+    "city_id": "B3825995-9666-4ACC-9A30-A405CBB61FA2",
+    "name": "CARINGIN",
+    "initial": "K"
+  },
+  {
+    "id": "1A64D4EA-AA36-4FCD-AF55-31B6569EFF89",
+    "city_id": "B3825995-9666-4ACC-9A30-A405CBB61FA2",
+    "name": "CIJERUK",
+    "initial": "K"
+  },
+  {
+    "id": "13E22406-6BA5-470F-8B33-E1C1E932F0D3",
+    "city_id": "B3825995-9666-4ACC-9A30-A405CBB61FA2",
+    "name": "MEGAMENDUNG",
+    "initial": "K"
+  },
+  {
+    "id": "00238370-5BF9-4F02-9B12-474BC5F9DE1C",
+    "city_id": "B3825995-9666-4ACC-9A30-A405CBB61FA2",
+    "name": "BABAKAN MADANG",
+    "initial": "K"
+  },
+  {
+    "id": "2B419848-B5E5-4523-B4C2-F3276A967964",
+    "city_id": "B3825995-9666-4ACC-9A30-A405CBB61FA2",
+    "name": "CITEUREUP",
+    "initial": "K"
+  },
+  {
+    "id": "26A169E7-B548-463E-BCC5-86E9760D8F58",
+    "city_id": "B3825995-9666-4ACC-9A30-A405CBB61FA2",
+    "name": "CILEUNGSI",
+    "initial": "K"
+  },
+  {
+    "id": "5386B8AF-8751-4C98-9C5B-032B09BA1C38",
+    "city_id": "B3825995-9666-4ACC-9A30-A405CBB61FA2",
+    "name": "CIBINONG",
+    "initial": "K"
+  },
+  {
+    "id": "369467C3-2DF2-466A-9893-65AFBD7DAF7E",
+    "city_id": "B3825995-9666-4ACC-9A30-A405CBB61FA2",
+    "name": "BOJONG GEDE",
+    "initial": "K"
+  },
+  {
+    "id": "5F46BEE7-A6EF-4F02-84DE-0DCFFCC4F7CC",
+    "city_id": "B3825995-9666-4ACC-9A30-A405CBB61FA2",
+    "name": "GUNUNG PUTRI",
+    "initial": "K"
+  },
+  {
+    "id": "A3E2541C-596F-4E2F-964A-2F0FA5968238",
+    "city_id": "F7730F42-8E2E-45FF-AF7C-B399B0ADCD7F",
+    "name": "BEKASI TIMUR",
+    "initial": "K"
+  },
+  {
+    "id": "88D2EADB-E75A-4560-BFCC-04E5CF2966CE",
+    "city_id": "F7730F42-8E2E-45FF-AF7C-B399B0ADCD7F",
+    "name": "RAWA LUMBU",
+    "initial": "K"
+  },
+  {
+    "id": "26815627-B050-4BFD-9495-268FC88AC28F",
+    "city_id": "F7730F42-8E2E-45FF-AF7C-B399B0ADCD7F",
+    "name": "BEKASI UTARA",
+    "initial": "K"
+  },
+  {
+    "id": "3183EEEC-C782-46C1-ACB5-86AC2B86728E",
+    "city_id": "F7730F42-8E2E-45FF-AF7C-B399B0ADCD7F",
+    "name": "MEDAN SATRIA",
+    "initial": "K"
+  },
+  {
+    "id": "3FBA42C8-5580-4D3E-9584-BA986B90A930",
+    "city_id": "F7730F42-8E2E-45FF-AF7C-B399B0ADCD7F",
+    "name": "BEKASI BARAT",
+    "initial": "K"
+  },
+  {
+    "id": "FB031B24-8362-4771-903F-635B14BF01D6",
+    "city_id": "F7730F42-8E2E-45FF-AF7C-B399B0ADCD7F",
+    "name": "BEKASI SELATAN",
+    "initial": "K"
+  },
+  {
+    "id": "879E718A-D22C-4CA9-BE21-A0E45BB05859",
+    "city_id": "F7730F42-8E2E-45FF-AF7C-B399B0ADCD7F",
+    "name": "BANTAR GEBANG",
+    "initial": "K"
+  },
+  {
+    "id": "01C03291-A48F-4F05-88AF-87AE553E08AE",
+    "city_id": "F7730F42-8E2E-45FF-AF7C-B399B0ADCD7F",
+    "name": "MUSTIKA JAYA",
+    "initial": "K"
+  },
+  {
+    "id": "2EB62CF3-8A43-4AF8-A965-CEEE05124720",
+    "city_id": "6EA7B461-DFC7-4A16-B350-4B05D1DCE5D2",
+    "name": "TARUMAJAYA",
+    "initial": "K"
+  },
+  {
+    "id": "39024515-5CF0-47A4-A662-0FF4151C238B",
+    "city_id": "6EA7B461-DFC7-4A16-B350-4B05D1DCE5D2",
+    "name": "SETU",
+    "initial": "K"
+  },
+  {
+    "id": "58130E0B-87D4-4326-A790-DB1B6B5FA1B6",
+    "city_id": "6EA7B461-DFC7-4A16-B350-4B05D1DCE5D2",
+    "name": "SERANG BARU",
+    "initial": "K"
+  },
+  {
+    "id": "EED9F764-270E-476D-936F-D5A0CE21891A",
+    "city_id": "F7730F42-8E2E-45FF-AF7C-B399B0ADCD7F",
+    "name": "PONDOK GEDE",
+    "initial": "K"
+  },
+  {
+    "id": "89387F2A-1E9E-4B44-9E56-64238645EFC1",
+    "city_id": "F7730F42-8E2E-45FF-AF7C-B399B0ADCD7F",
+    "name": "PONDOK MELATI",
+    "initial": "K"
+  },
+  {
+    "id": "61B78C17-83BF-4B5E-B13B-0E263B027A90",
+    "city_id": "F7730F42-8E2E-45FF-AF7C-B399B0ADCD7F",
+    "name": "JATIASIH",
+    "initial": "K"
+  },
+  {
+    "id": "BB7CE8AE-E68A-49AA-89ED-21259BFBDC17",
+    "city_id": "F7730F42-8E2E-45FF-AF7C-B399B0ADCD7F",
+    "name": "JATI SEMPURNA",
+    "initial": "K"
+  },
+  {
+    "id": "04B2ACF0-F8CD-4DBA-AE88-ACF492878E2A",
+    "city_id": "6EA7B461-DFC7-4A16-B350-4B05D1DCE5D2",
+    "name": "TAMBUN SELATAN",
+    "initial": "K"
+  },
+  {
+    "id": "004D594D-048F-427A-8B9A-216E4AB33361",
+    "city_id": "6EA7B461-DFC7-4A16-B350-4B05D1DCE5D2",
+    "name": "TAMBUN UTARA",
+    "initial": "K"
+  },
+  {
+    "id": "0DBD8A1C-7AD6-4187-A992-E6F98AD75EFF",
+    "city_id": "6EA7B461-DFC7-4A16-B350-4B05D1DCE5D2",
+    "name": "CIBITUNG",
+    "initial": "K"
+  },
+  {
+    "id": "C12BAD89-32BF-46E2-B8C9-546CF151EDE2",
+    "city_id": "6EA7B461-DFC7-4A16-B350-4B05D1DCE5D2",
+    "name": "CIKARANG BARAT",
+    "initial": "K"
+  },
+  {
+    "id": "EADAA0D5-819F-4C88-BC12-3E9D985FC994",
+    "city_id": "6EA7B461-DFC7-4A16-B350-4B05D1DCE5D2",
+    "name": "CIKARANG PUSAT",
+    "initial": "K"
+  },
+  {
+    "id": "B3811EB9-7A5C-4EEF-8CF0-9EAA7CA2A9C6",
+    "city_id": "6EA7B461-DFC7-4A16-B350-4B05D1DCE5D2",
+    "name": "CIKARANG SELATAN",
+    "initial": "K"
+  },
+  {
+    "id": "A8C66829-B0CF-4264-A570-AAC0F0FDF054",
+    "city_id": "6EA7B461-DFC7-4A16-B350-4B05D1DCE5D2",
+    "name": "CIKARANG TIMUR",
+    "initial": "K"
+  },
+  {
+    "id": "93402DAA-F4B5-4EB2-B81A-55C202A10447",
+    "city_id": "6EA7B461-DFC7-4A16-B350-4B05D1DCE5D2",
+    "name": "CIKARANG UTARA",
+    "initial": "K"
+  },
+  {
+    "id": "996D54B5-A1F4-4272-B3E6-39BBC9B8EEDC",
+    "city_id": "6EA7B461-DFC7-4A16-B350-4B05D1DCE5D2",
+    "name": "KEDUNG WARINGIN",
+    "initial": "K"
+  },
+  {
+    "id": "A043CFFB-1EF5-4CAF-8139-5FFF726A3275",
+    "city_id": "6EA7B461-DFC7-4A16-B350-4B05D1DCE5D2",
+    "name": "BABELAN",
+    "initial": "K"
+  },
+  {
+    "id": "9D8CAD6F-95A8-491F-B364-64A3A85F894B",
+    "city_id": "2F762ED4-E92D-4F7F-8556-6823753BDCC7",
+    "name": "MEDAN BARAT",
+    "initial": "K"
+  },
+  {
+    "id": "24C2A36A-196B-40AC-A176-5ACB0A0BE6FB",
+    "city_id": "2F762ED4-E92D-4F7F-8556-6823753BDCC7",
+    "name": "MEDAN PETISAH",
+    "initial": "K"
+  },
+  {
+    "id": "C379371F-CBF4-4190-9CE9-9FD70D4AE6AD",
+    "city_id": "2F762ED4-E92D-4F7F-8556-6823753BDCC7",
+    "name": "MEDAN SUNGGAL",
+    "initial": "K"
+  },
+  {
+    "id": "C2AF27E7-C8E9-4588-BB4F-0F92D8AAAEA8",
+    "city_id": "2F762ED4-E92D-4F7F-8556-6823753BDCC7",
+    "name": "MEDAN HELVETIA",
+    "initial": "K"
+  },
+  {
+    "id": "63603D51-AC8F-4B16-A26A-A733904F05C0",
+    "city_id": "2F762ED4-E92D-4F7F-8556-6823753BDCC7",
+    "name": "MEDAN SELAYANG",
+    "initial": "K"
+  },
+  {
+    "id": "65C3D519-001E-44A7-9DBB-ACFC768FD57A",
+    "city_id": "2F762ED4-E92D-4F7F-8556-6823753BDCC7",
+    "name": "MEDAN TUNTUNGAN",
+    "initial": "K"
+  },
+  {
+    "id": "8E522064-F3CB-4900-BD44-C6FC1863C2E4",
+    "city_id": "2F762ED4-E92D-4F7F-8556-6823753BDCC7",
+    "name": "MEDAN JOHOR",
+    "initial": "K"
+  },
+  {
+    "id": "D0524CE8-2BFB-42EA-B083-FB498A73CAF4",
+    "city_id": "2F762ED4-E92D-4F7F-8556-6823753BDCC7",
+    "name": "MEDAN AMPLAS",
+    "initial": "K"
+  },
+  {
+    "id": "6CE173EB-A92E-4EA1-9A23-06A4FE32E66E",
+    "city_id": "2F762ED4-E92D-4F7F-8556-6823753BDCC7",
+    "name": "MEDAN MAIMUN",
+    "initial": "K"
+  },
+  {
+    "id": "8A9A38DA-DA6D-4E95-A9F9-68B947386B00",
+    "city_id": "2F762ED4-E92D-4F7F-8556-6823753BDCC7",
+    "name": "MEDAN POLONIA",
+    "initial": "K"
+  },
+  {
+    "id": "F023E358-222D-4E42-A1D9-6FE1E3136B40",
+    "city_id": "2F762ED4-E92D-4F7F-8556-6823753BDCC7",
+    "name": "MEDAN BARU",
+    "initial": "K"
+  },
+  {
+    "id": "EB4FB6B1-B551-4547-865E-33987A225A25",
+    "city_id": "2F762ED4-E92D-4F7F-8556-6823753BDCC7",
+    "name": "MEDAN KOTA",
+    "initial": "K"
+  },
+  {
+    "id": "30B02A4A-A819-4DF6-BE2A-2F3FFF1214B8",
+    "city_id": "2F762ED4-E92D-4F7F-8556-6823753BDCC7",
+    "name": "MEDAN AREA",
+    "initial": "K"
+  },
+  {
+    "id": "10E9F7DD-A693-4654-92E6-F307AD8F262E",
+    "city_id": "2F762ED4-E92D-4F7F-8556-6823753BDCC7",
+    "name": "MEDAN TEMBUNG",
+    "initial": "K"
+  },
+  {
+    "id": "B6060279-6D1E-4710-81B4-D7D4ECB1C3A1",
+    "city_id": "2F762ED4-E92D-4F7F-8556-6823753BDCC7",
+    "name": "MEDAN DENAI",
+    "initial": "K"
+  },
+  {
+    "id": "47F6540B-DD3F-48A2-A875-7B2D5070BAEB",
+    "city_id": "2F762ED4-E92D-4F7F-8556-6823753BDCC7",
+    "name": "MEDAN TIMUR",
+    "initial": "K"
+  },
+  {
+    "id": "323EFCDB-92B1-421C-98AC-9BAFD28438EB",
+    "city_id": "2F762ED4-E92D-4F7F-8556-6823753BDCC7",
+    "name": "MEDAN PERJUANGAN",
+    "initial": "K"
+  },
+  {
+    "id": "E1EC07EE-F7A3-4FF6-A49D-56A20CDC5902",
+    "city_id": "2F762ED4-E92D-4F7F-8556-6823753BDCC7",
+    "name": "MEDAN DELI",
+    "initial": "K"
+  },
+  {
+    "id": "2F00F6AE-1F93-4666-A705-FAF7E7A6B7BE",
+    "city_id": "2F762ED4-E92D-4F7F-8556-6823753BDCC7",
+    "name": "MEDAN MARELAN",
+    "initial": "K"
+  },
+  {
+    "id": "4C46498E-F73F-4498-A096-AF650821323C",
+    "city_id": "466EEC3E-75D4-4A23-B6FA-870532B74398",
+    "name": "DELI TUA",
+    "initial": "K"
+  },
+  {
+    "id": "30940CC0-EE2B-4359-B8D8-1F3E95B1813A",
+    "city_id": "466EEC3E-75D4-4A23-B6FA-870532B74398",
+    "name": "NAMORAMBE",
+    "initial": "K"
+  },
+  {
+    "id": "88A806A5-2AD7-42B6-903A-FC680AEBCAF7",
+    "city_id": "466EEC3E-75D4-4A23-B6FA-870532B74398",
+    "name": "PATUMBAK",
+    "initial": "K"
+  },
+  {
+    "id": "3857CCC0-3714-42D8-BE19-3C78269F4463",
+    "city_id": "466EEC3E-75D4-4A23-B6FA-870532B74398",
+    "name": "PERCUT SEI TUAN",
+    "initial": "K"
+  },
+  {
+    "id": "148DA593-6CE6-4420-A070-F60BD7643534",
+    "city_id": "C3B4060D-CBBA-401F-B79E-EA1BED4AD4B4",
+    "name": "SYIAH KUALA",
+    "initial": "K"
+  },
+  {
+    "id": "74993DA3-EFF7-4BF1-9BD9-B2F31B0DC610",
+    "city_id": "C3B4060D-CBBA-401F-B79E-EA1BED4AD4B4",
+    "name": "ULEE KARENG",
+    "initial": "K"
+  },
+  {
+    "id": "5563F467-5BDF-40DC-9360-ECF38C37DA92",
+    "city_id": "C3B4060D-CBBA-401F-B79E-EA1BED4AD4B4",
+    "name": "KUTA ALAM",
+    "initial": "K"
+  },
+  {
+    "id": "72D2BA54-FB22-4265-9FDD-A7039024E4BD",
+    "city_id": "C3B4060D-CBBA-401F-B79E-EA1BED4AD4B4",
+    "name": "KUTA RAJA",
+    "initial": "K"
+  },
+  {
+    "id": "F980BD7E-B3F1-4B21-ACF2-0BC436DE4FF8",
+    "city_id": "C3B4060D-CBBA-401F-B79E-EA1BED4AD4B4",
+    "name": "JAYA BARU",
+    "initial": "K"
+  },
+  {
+    "id": "5E8924DA-938E-47F5-8205-09885AA7F89E",
+    "city_id": "C3B4060D-CBBA-401F-B79E-EA1BED4AD4B4",
+    "name": "MEURAXA",
+    "initial": "K"
+  },
+  {
+    "id": "195267D7-0A23-4212-822F-D80262D414EE",
+    "city_id": "C3B4060D-CBBA-401F-B79E-EA1BED4AD4B4",
+    "name": "BANDA RAYA",
+    "initial": "K"
+  },
+  {
+    "id": "677C91FC-8C79-49D8-9C71-01C1C1D59E9A",
+    "city_id": "C3B4060D-CBBA-401F-B79E-EA1BED4AD4B4",
+    "name": "BAITURRAHMAN",
+    "initial": "K"
+  },
+  {
+    "id": "FB9FF8D1-8F90-4228-8EBF-B1F736704A5C",
+    "city_id": "C3B4060D-CBBA-401F-B79E-EA1BED4AD4B4",
+    "name": "LUENG BATA",
+    "initial": "K"
+  },
+  {
+    "id": "D9656DB7-7E78-4AC4-8349-C2DFDC242DB8",
+    "city_id": "EC634164-F304-4051-9F89-E3111482EF82",
+    "name": "PEUKAN BADA",
+    "initial": "K"
+  },
+  {
+    "id": "49BB4DB9-97F2-49B0-9C66-1802AE576A72",
+    "city_id": "EC634164-F304-4051-9F89-E3111482EF82",
+    "name": "DARUL IMARAH",
+    "initial": "K"
+  },
+  {
+    "id": "F750D5FA-4D58-497E-80CF-BFCB664E3716",
+    "city_id": "EC634164-F304-4051-9F89-E3111482EF82",
+    "name": "BLANG BINTANG",
+    "initial": "K"
+  },
+  {
+    "id": "8FE00E4B-9B70-4413-9D5F-57127FFD8886",
+    "city_id": "EC634164-F304-4051-9F89-E3111482EF82",
+    "name": "KRUENG BARONA JAYA",
+    "initial": "K"
+  },
+  {
+    "id": "D0A54423-F9A6-4E07-8C16-CDFC39F6189A",
+    "city_id": "EC634164-F304-4051-9F89-E3111482EF82",
+    "name": "INGIN JAYA",
+    "initial": "K"
+  },
+  {
+    "id": "89D20DF4-0438-4F91-8CA9-EEF07F52E2B9",
+    "city_id": "EC634164-F304-4051-9F89-E3111482EF82",
+    "name": "KUTA BARO",
+    "initial": "K"
+  },
+  {
+    "id": "46188CA4-25BD-4F73-93AE-E236D05BAEB4",
+    "city_id": "EC634164-F304-4051-9F89-E3111482EF82",
+    "name": "BAITUSSALAM",
+    "initial": "K"
+  },
+  {
+    "id": "5C0C8530-83F2-4577-B40D-88D6BE412293",
+    "city_id": "EC634164-F304-4051-9F89-E3111482EF82",
+    "name": "DARUSSALAM",
+    "initial": "K"
+  },
+  {
+    "id": "D42690A3-B482-47ED-99CB-A5AFE3787A79",
+    "city_id": "5A7C80CE-1C9B-4174-888D-B20AE28460F1",
+    "name": "SUKAKARYA",
+    "initial": "K"
+  },
+  {
+    "id": "3149BC3E-553C-4E0E-9685-EE3A9667BC2D",
+    "city_id": "5A7C80CE-1C9B-4174-888D-B20AE28460F1",
+    "name": "SUKAJAYA",
+    "initial": "K"
+  },
+  {
+    "id": "15638269-AC3F-47D3-9C53-E8B4934E8733",
+    "city_id": "7D36D034-A8D0-4ABB-BE66-64B1472A2EA4",
+    "name": "PADANG BARAT",
+    "initial": "K"
+  },
+  {
+    "id": "2E0401AD-0377-49F7-BF94-AA7E792CEEBB",
+    "city_id": "7D36D034-A8D0-4ABB-BE66-64B1472A2EA4",
+    "name": "PADANG TIMUR",
+    "initial": "K"
+  },
+  {
+    "id": "9433C6D1-2E59-4700-9C7B-2C40BF745D59",
+    "city_id": "7D36D034-A8D0-4ABB-BE66-64B1472A2EA4",
+    "name": "PADANG UTARA",
+    "initial": "K"
+  },
+  {
+    "id": "0AF2F75A-041B-4A11-AB50-7567EF6E3D28",
+    "city_id": "7D36D034-A8D0-4ABB-BE66-64B1472A2EA4",
+    "name": "NANGGALO",
+    "initial": "K"
+  },
+  {
+    "id": "3DC904F5-12A9-4D9B-8597-46F08D0B0EE3",
+    "city_id": "7D36D034-A8D0-4ABB-BE66-64B1472A2EA4",
+    "name": "KURANJI",
+    "initial": "K"
+  },
+  {
+    "id": "881FC20D-46C6-49ED-950A-FF1E175D6B53",
+    "city_id": "7D36D034-A8D0-4ABB-BE66-64B1472A2EA4",
+    "name": "PAUH",
+    "initial": "K"
+  },
+  {
+    "id": "E6DDBBD6-8864-47CF-9999-D4A10E2D6F2A",
+    "city_id": "7D36D034-A8D0-4ABB-BE66-64B1472A2EA4",
+    "name": "KOTO TANGAH",
+    "initial": "K"
+  },
+  {
+    "id": "4457AD92-FB43-44C0-961A-242BA26BA449",
+    "city_id": "7D36D034-A8D0-4ABB-BE66-64B1472A2EA4",
+    "name": "PADANG SELATAN",
+    "initial": "K"
+  },
+  {
+    "id": "650D7CFD-4262-4211-8F79-F641D74EEF21",
+    "city_id": "7D36D034-A8D0-4ABB-BE66-64B1472A2EA4",
+    "name": "LUBUK BEGALUNG",
+    "initial": "K"
+  },
+  {
+    "id": "521F3F36-D287-4856-8957-BC1FFF0A72EA",
+    "city_id": "7D36D034-A8D0-4ABB-BE66-64B1472A2EA4",
+    "name": "LUBUK KILANGAN",
+    "initial": "K"
+  },
+  {
+    "id": "13C501A2-67AE-40C1-9D15-CE5C1E592CFA",
+    "city_id": "7D36D034-A8D0-4ABB-BE66-64B1472A2EA4",
+    "name": "BUNGUS TELUK KABUNG",
+    "initial": "K"
+  },
+  {
+    "id": "0C3B3510-3CB2-43FB-AA47-8E40808CC101",
+    "city_id": "8063E80F-E692-482C-9825-635DCB6054FF",
+    "name": "PEKANBARU KOTA",
+    "initial": "K"
+  },
+  {
+    "id": "90E54C8F-345F-4167-912E-8BEB4AEFEC8E",
+    "city_id": "8063E80F-E692-482C-9825-635DCB6054FF",
+    "name": "SUKAJADI",
+    "initial": "K"
+  },
+  {
+    "id": "AE2E79DC-2F94-462A-896B-B9391F99ABE1",
+    "city_id": "8063E80F-E692-482C-9825-635DCB6054FF",
+    "name": "MARPOYAN DAMAI",
+    "initial": "K"
+  },
+  {
+    "id": "D9F4B488-F665-41BF-A650-99E044B8A775",
+    "city_id": "8063E80F-E692-482C-9825-635DCB6054FF",
+    "name": "SAIL",
+    "initial": "K"
+  },
+  {
+    "id": "066B885C-ECE5-472C-8967-45646BAA7604",
+    "city_id": "8063E80F-E692-482C-9825-635DCB6054FF",
+    "name": "LIMA PULUH",
+    "initial": "K"
+  },
+  {
+    "id": "9EDB9179-1049-441B-93D5-240B0D282D4A",
+    "city_id": "8063E80F-E692-482C-9825-635DCB6054FF",
+    "name": "SENAPELAN",
+    "initial": "K"
+  },
+  {
+    "id": "CD61ADE9-CC49-4883-860D-95AB14C1CDEC",
+    "city_id": "8063E80F-E692-482C-9825-635DCB6054FF",
+    "name": "RUMBAI PESISIR",
+    "initial": "K"
+  },
+  {
+    "id": "4F3F0FCD-2538-4A3D-A9A0-5B9DF54B45FD",
+    "city_id": "8063E80F-E692-482C-9825-635DCB6054FF",
+    "name": "RUMBAI",
+    "initial": "K"
+  },
+  {
+    "id": "3EE54BFD-2DFF-4BC9-A50C-38776B4A95A7",
+    "city_id": "8063E80F-E692-482C-9825-635DCB6054FF",
+    "name": "TENAYAN RAYA",
+    "initial": "K"
+  },
+  {
+    "id": "19E2AE16-A761-4F37-A073-2079D681CE6E",
+    "city_id": "8063E80F-E692-482C-9825-635DCB6054FF",
+    "name": "BUKIT RAYA",
+    "initial": "K"
+  },
+  {
+    "id": "12A768EE-123B-45E5-92D8-7DEACCE72194",
+    "city_id": "8063E80F-E692-482C-9825-635DCB6054FF",
+    "name": "TAMPAN",
+    "initial": "K"
+  },
+  {
+    "id": "A2B7306C-CD1F-4952-A2B7-5D6AF4EFEC3E",
+    "city_id": "8063E80F-E692-482C-9825-635DCB6054FF",
+    "name": "PAYUNG SEKAKI",
+    "initial": "K"
+  },
+  {
+    "id": "B0ED1391-C6C4-4379-9876-513413F24A43",
+    "city_id": "A3D9824E-590B-47CF-9A7E-A306DF6208EF",
+    "name": "ILIR TIMUR II",
+    "initial": "K"
+  },
+  {
+    "id": "C3C3C724-7C8C-4CF8-9B76-F5AB6D14F939",
+    "city_id": "A3D9824E-590B-47CF-9A7E-A306DF6208EF",
+    "name": "KALIDONI",
+    "initial": "K"
+  },
+  {
+    "id": "3877A521-C1CF-4D31-B360-1D3F344EEECB",
+    "city_id": "A3D9824E-590B-47CF-9A7E-A306DF6208EF",
+    "name": "ILIR TIMUR I",
+    "initial": "K"
+  },
+  {
+    "id": "4FA5EBEA-7A15-4E09-8F07-F2AD6B02E9AC",
+    "city_id": "A3D9824E-590B-47CF-9A7E-A306DF6208EF",
+    "name": "KEMUNING",
+    "initial": "K"
+  },
+  {
+    "id": "87ABE2A9-1C7F-4CD9-8999-A82CC1E165AD",
+    "city_id": "A3D9824E-590B-47CF-9A7E-A306DF6208EF",
+    "name": "BUKIT KECIL",
+    "initial": "K"
+  },
+  {
+    "id": "78533F28-796F-4A90-9137-FB50FCA170A2",
+    "city_id": "A3D9824E-590B-47CF-9A7E-A306DF6208EF",
+    "name": "ILIR BARAT I",
+    "initial": "K"
+  },
+  {
+    "id": "7132FF83-B302-4944-8777-1E404E995570",
+    "city_id": "A3D9824E-590B-47CF-9A7E-A306DF6208EF",
+    "name": "ILIR BARAT II",
+    "initial": "K"
+  },
+  {
+    "id": "D709F51B-D6D1-408C-9117-5AB5DDC2A766",
+    "city_id": "A3D9824E-590B-47CF-9A7E-A306DF6208EF",
+    "name": "GANDUS",
+    "initial": "K"
+  },
+  {
+    "id": "0C1E0F6F-1898-4D74-B196-765E70FD2C93",
+    "city_id": "A3D9824E-590B-47CF-9A7E-A306DF6208EF",
+    "name": "ALANG-ALANG LEBAR",
+    "initial": "K"
+  },
+  {
+    "id": "EAFD8EAD-30BA-4973-BA14-214A1654DAC7",
+    "city_id": "A3D9824E-590B-47CF-9A7E-A306DF6208EF",
+    "name": "SUKARAMI",
+    "initial": "K"
+  },
+  {
+    "id": "3843C3B2-F5E1-421C-AC42-B3DE7E4017FE",
+    "city_id": "A3D9824E-590B-47CF-9A7E-A306DF6208EF",
+    "name": "SEMATANG BORANG",
+    "initial": "K"
+  },
+  {
+    "id": "0E2BCF9D-BD7B-4079-9037-C911EFE8EE16",
+    "city_id": "A3D9824E-590B-47CF-9A7E-A306DF6208EF",
+    "name": "SAKO",
+    "initial": "K"
+  },
+  {
+    "id": "41CC6CAD-8199-4B36-B4E0-14CD0E73C50C",
+    "city_id": "A3D9824E-590B-47CF-9A7E-A306DF6208EF",
+    "name": "SEBERANG ULU I",
+    "initial": "K"
+  },
+  {
+    "id": "B645F499-B5B3-4952-86DA-4422F74F9D21",
+    "city_id": "A3D9824E-590B-47CF-9A7E-A306DF6208EF",
+    "name": "KERTAPATI",
+    "initial": "K"
+  },
+  {
+    "id": "5DF3EEFB-ABAD-416B-B5D0-C5742ACA18C6",
+    "city_id": "A3D9824E-590B-47CF-9A7E-A306DF6208EF",
+    "name": "SEBERANG ULU II",
+    "initial": "K"
+  },
+  {
+    "id": "83DB9DD1-42A4-4128-BC2B-1CBDBCADCFF2",
+    "city_id": "A3D9824E-590B-47CF-9A7E-A306DF6208EF",
+    "name": "PLAJU",
+    "initial": "K"
+  },
+  {
+    "id": "A0F409AC-35B2-4592-B52A-B231B0948878",
+    "city_id": "8BDAF7C2-D4E0-40C4-89E5-08DA1881A6B0",
+    "name": "TALANG KELAPA",
+    "initial": "K"
+  },
+  {
+    "id": "6A5747AF-D9C5-4A86-BFA9-E4D1CFDF9255",
+    "city_id": "9AB0664C-DBFC-4EFC-B995-1CE382312070",
+    "name": "METRO PUSAT",
+    "initial": "K"
+  },
+  {
+    "id": "74F24934-DA0D-4FBF-AFEF-05860D845A4F",
+    "city_id": "9AB0664C-DBFC-4EFC-B995-1CE382312070",
+    "name": "METRO TIMUR",
+    "initial": "K"
+  },
+  {
+    "id": "EEF6ACEF-72AA-4D15-A553-423F3B74EFF6",
+    "city_id": "9AB0664C-DBFC-4EFC-B995-1CE382312070",
+    "name": "METRO BARAT",
+    "initial": "K"
+  },
+  {
+    "id": "92226982-DA24-4025-A4C4-A634F26433A6",
+    "city_id": "9AB0664C-DBFC-4EFC-B995-1CE382312070",
+    "name": "METRO UTARA",
+    "initial": "K"
+  },
+  {
+    "id": "40F5702B-6D2D-4160-A7CC-50040377D05B",
+    "city_id": "9AB0664C-DBFC-4EFC-B995-1CE382312070",
+    "name": "METRO SELATAN",
+    "initial": "K"
+  },
+  {
+    "id": "84ED3E64-085E-48F3-80C5-A1906CD82490",
+    "city_id": "A00C837A-9E2B-44B0-A76F-013F05B18429",
+    "name": "ENGGAL",
+    "initial": "K"
+  },
+  {
+    "id": "5F86CAE7-D4DE-4BAE-B65F-E6D31A87CC29",
+    "city_id": "A00C837A-9E2B-44B0-A76F-013F05B18429",
+    "name": "TANJUNGKARANG PUSAT",
+    "initial": "K"
+  },
+  {
+    "id": "A2DB9865-9F77-43E9-84D9-E9ACA4AFE2FE",
+    "city_id": "A00C837A-9E2B-44B0-A76F-013F05B18429",
+    "name": "KEDATON",
+    "initial": "K"
+  },
+  {
+    "id": "3EF7A362-42E6-4B59-8BA9-D393EBBBA97F",
+    "city_id": "A00C837A-9E2B-44B0-A76F-013F05B18429",
+    "name": "TANJUNGKARANG TIMUR",
+    "initial": "K"
+  },
+  {
+    "id": "1A378DC7-685B-4195-A952-203BDC3F8CE6",
+    "city_id": "A00C837A-9E2B-44B0-A76F-013F05B18429",
+    "name": "KEDAMAIAN",
+    "initial": "K"
+  },
+  {
+    "id": "AA0CE449-7996-410C-8146-8BDBEE905B20",
+    "city_id": "A00C837A-9E2B-44B0-A76F-013F05B18429",
+    "name": "SUKABUMI",
+    "initial": "K"
+  },
+  {
+    "id": "69A0AFD5-064D-4181-8FF4-78130D8C57D6",
+    "city_id": "A00C837A-9E2B-44B0-A76F-013F05B18429",
+    "name": "WAY HALIM",
+    "initial": "K"
+  },
+  {
+    "id": "CCE1316F-3B79-47F9-AD38-57C9E467054F",
+    "city_id": "A00C837A-9E2B-44B0-A76F-013F05B18429",
+    "name": "SUKARAME",
+    "initial": "K"
+  },
+  {
+    "id": "0DBD5FED-6CB8-4D20-B2AA-D742B4F507DA",
+    "city_id": "A00C837A-9E2B-44B0-A76F-013F05B18429",
+    "name": "TANJUNG SENANG",
+    "initial": "K"
+  },
+  {
+    "id": "750508D8-5184-4374-870C-3597EF0F6496",
+    "city_id": "A00C837A-9E2B-44B0-A76F-013F05B18429",
+    "name": "LABUHAN RATU",
+    "initial": "K"
+  },
+  {
+    "id": "8EBDEFD5-2D8D-4134-B814-FE3ADB73CFD3",
+    "city_id": "A00C837A-9E2B-44B0-A76F-013F05B18429",
+    "name": "RAJABASA",
+    "initial": "K"
+  },
+  {
+    "id": "69CA1768-53AE-4A19-8E76-02FDFA49A9CF",
+    "city_id": "A00C837A-9E2B-44B0-A76F-013F05B18429",
+    "name": "TANJUNGKARANG BARAT",
+    "initial": "K"
+  },
+  {
+    "id": "57A86040-F9B4-49F6-9EDD-4BF8A70A5E43",
+    "city_id": "A00C837A-9E2B-44B0-A76F-013F05B18429",
+    "name": "LANGKAPURA",
+    "initial": "K"
+  },
+  {
+    "id": "8916D606-874A-4CE2-8A4D-63D7B6FD43D5",
+    "city_id": "A00C837A-9E2B-44B0-A76F-013F05B18429",
+    "name": "KEMILING",
+    "initial": "K"
+  },
+  {
+    "id": "EED225FD-7B40-4BFD-A035-4C4A4742E661",
+    "city_id": "A00C837A-9E2B-44B0-A76F-013F05B18429",
+    "name": "TELUKBETUNG SELATAN",
+    "initial": "K"
+  },
+  {
+    "id": "947B4FD2-8C1D-4678-AE91-C3DB5841E565",
+    "city_id": "A00C837A-9E2B-44B0-A76F-013F05B18429",
+    "name": "TELUKBETUNG UTARA",
+    "initial": "K"
+  },
+  {
+    "id": "1D9EDE61-C71B-4B5D-BB58-7C21BF803484",
+    "city_id": "A00C837A-9E2B-44B0-A76F-013F05B18429",
+    "name": "BUMI WARAS",
+    "initial": "K"
+  },
+  {
+    "id": "5FB87607-5689-4812-A5D4-CEF519207E45",
+    "city_id": "A00C837A-9E2B-44B0-A76F-013F05B18429",
+    "name": "TELUKBETUNG TIMUR",
+    "initial": "K"
+  },
+  {
+    "id": "A02CA252-D467-4EFA-AC80-DBFD9D6A6CF2",
+    "city_id": "A00C837A-9E2B-44B0-A76F-013F05B18429",
+    "name": "TELUKBETUNG BARAT",
+    "initial": "K"
+  },
+  {
+    "id": "1751F258-6686-4CB3-BD51-BA5C2B1B78D2",
+    "city_id": "A00C837A-9E2B-44B0-A76F-013F05B18429",
+    "name": "PANJANG",
+    "initial": "K"
+  },
+  {
+    "id": "248C504C-1167-41F6-A23D-46A829A99BF9",
+    "city_id": "D50138C7-1E87-4C7C-8160-59875745B8BD",
+    "name": "JATI AGUNG",
+    "initial": "K"
+  },
+  {
+    "id": "5084C6DB-BC9B-42E2-9EAD-9AE5365B32EC",
+    "city_id": "25A226BD-9FDB-4F32-BB0A-9050F58FAE47",
+    "name": "PASAR JAMBI",
+    "initial": "K"
+  },
+  {
+    "id": "C12C3912-98DE-4DBD-9501-8E0D1ADB3A39",
+    "city_id": "25A226BD-9FDB-4F32-BB0A-9050F58FAE47",
+    "name": "DANAU SIPIN",
+    "initial": "K"
+  },
+  {
+    "id": "6A1CA661-7D7E-4400-922B-D570397A0719",
+    "city_id": "25A226BD-9FDB-4F32-BB0A-9050F58FAE47",
+    "name": "TELANAIPURA",
+    "initial": "K"
+  },
+  {
+    "id": "F52A7855-5029-4E24-9520-3F5DF2EA58A5",
+    "city_id": "25A226BD-9FDB-4F32-BB0A-9050F58FAE47",
+    "name": "ALAM BARAJO",
+    "initial": "K"
+  },
+  {
+    "id": "5D67E010-BE1E-472E-8E96-AA591923225F",
+    "city_id": "25A226BD-9FDB-4F32-BB0A-9050F58FAE47",
+    "name": "KOTA BARU",
+    "initial": "K"
+  },
+  {
+    "id": "E274F27A-0126-45B3-948A-A88B032A8939",
+    "city_id": "25A226BD-9FDB-4F32-BB0A-9050F58FAE47",
+    "name": "JAMBI SELATAN",
+    "initial": "K"
+  },
+  {
+    "id": "2A299AD6-C497-495E-857A-068766076E0E",
+    "city_id": "25A226BD-9FDB-4F32-BB0A-9050F58FAE47",
+    "name": "JELUTUNG",
+    "initial": "K"
+  },
+  {
+    "id": "BC045F90-7051-4812-801E-9AAE5AF29356",
+    "city_id": "25A226BD-9FDB-4F32-BB0A-9050F58FAE47",
+    "name": "PAAL MERAH",
+    "initial": "K"
+  },
+  {
+    "id": "5F36C69D-D2C7-478A-86D8-3110F8C224E9",
+    "city_id": "25A226BD-9FDB-4F32-BB0A-9050F58FAE47",
+    "name": "JAMBI TIMUR",
+    "initial": "K"
+  },
+  {
+    "id": "A3A116BA-8846-4E2E-8B47-0336D0EB60DF",
+    "city_id": "25A226BD-9FDB-4F32-BB0A-9050F58FAE47",
+    "name": "PELAYANGAN",
+    "initial": "K"
+  },
+  {
+    "id": "8163F50C-7DCC-4700-9D36-C794A557D27F",
+    "city_id": "25A226BD-9FDB-4F32-BB0A-9050F58FAE47",
+    "name": "DANAU TELUK",
+    "initial": "K"
+  },
+  {
+    "id": "B4A00382-9BA9-4B4D-98BD-4862E316CC1E",
+    "city_id": "10A1FA40-9D30-43F3-950A-4AB1F17CD438",
+    "name": "TELUK SEGARA",
+    "initial": "K"
+  },
+  {
+    "id": "B366BA6E-5AB4-45FC-BB53-FCCD6C7EC66F",
+    "city_id": "10A1FA40-9D30-43F3-950A-4AB1F17CD438",
+    "name": "SUNGAI SERUT",
+    "initial": "K"
+  },
+  {
+    "id": "E4D3F363-919A-4CF3-8B0C-E3833259D507",
+    "city_id": "10A1FA40-9D30-43F3-950A-4AB1F17CD438",
+    "name": "MUARA BANGKA HULU",
+    "initial": "K"
+  },
+  {
+    "id": "5DC0F499-B2C1-4339-B7EE-1F10D15DEAA3",
+    "city_id": "10A1FA40-9D30-43F3-950A-4AB1F17CD438",
+    "name": "SELEBAR",
+    "initial": "K"
+  },
+  {
+    "id": "4BB850CA-0FD7-44BC-9997-3F0AD936AA9F",
+    "city_id": "10A1FA40-9D30-43F3-950A-4AB1F17CD438",
+    "name": "KAMPUNG MELAYU",
+    "initial": "K"
+  },
+  {
+    "id": "A38759D9-D76B-4435-997B-C976084CEAA9",
+    "city_id": "10A1FA40-9D30-43F3-950A-4AB1F17CD438",
+    "name": "RATU SAMBAN",
+    "initial": "K"
+  },
+  {
+    "id": "BDC018F6-BEB8-421B-B8BD-9C610E177333",
+    "city_id": "10A1FA40-9D30-43F3-950A-4AB1F17CD438",
+    "name": "GADING CEMPAKA",
+    "initial": "K"
+  },
+  {
+    "id": "581D0FE1-6A08-4596-81FC-953012680D01",
+    "city_id": "10A1FA40-9D30-43F3-950A-4AB1F17CD438",
+    "name": "SINGARAN PATI",
+    "initial": "K"
+  },
+  {
+    "id": "3269B2D0-2697-40D2-A0FD-79A282CB36BF",
+    "city_id": "10A1FA40-9D30-43F3-950A-4AB1F17CD438",
+    "name": "RATU AGUNG",
+    "initial": "K"
+  },
+  {
+    "id": "E87F4732-F095-4FA0-8854-E4682ED682FA",
+    "city_id": "44DA545E-FB9B-4BCB-A6E1-08A08936DA43",
+    "name": "SUMUR BANDUNG",
+    "initial": "K"
+  },
+  {
+    "id": "9846E087-EF73-49C6-B5F0-599A1FC1449D",
+    "city_id": "44DA545E-FB9B-4BCB-A6E1-08A08936DA43",
+    "name": "BANDUNG WETAN",
+    "initial": "K"
+  },
+  {
+    "id": "CDFCE960-3E68-4BB1-9B76-AF5CD6A258DE",
+    "city_id": "44DA545E-FB9B-4BCB-A6E1-08A08936DA43",
+    "name": "CIBEUNYING KIDUL",
+    "initial": "K"
+  },
+  {
+    "id": "82CD53F5-BB05-4980-A4E9-E103028A25AC",
+    "city_id": "44DA545E-FB9B-4BCB-A6E1-08A08936DA43",
+    "name": "CIBEUNYING KALER",
+    "initial": "K"
+  },
+  {
+    "id": "82771398-F67F-4B3F-997E-83C6B9692A6C",
+    "city_id": "44DA545E-FB9B-4BCB-A6E1-08A08936DA43",
+    "name": "COBLONG",
+    "initial": "K"
+  },
+  {
+    "id": "82394F9C-E029-4E7B-841C-53357485FECC",
+    "city_id": "44DA545E-FB9B-4BCB-A6E1-08A08936DA43",
+    "name": "CIDADAP",
+    "initial": "K"
+  },
+  {
+    "id": "6D75346A-D4B4-4A12-AAA3-53B7544CFD87",
+    "city_id": "44DA545E-FB9B-4BCB-A6E1-08A08936DA43",
+    "name": "SUKASARI",
+    "initial": "K"
+  },
+  {
+    "id": "DB4C9ECB-2055-4399-95E0-10EBFBF27204",
+    "city_id": "44DA545E-FB9B-4BCB-A6E1-08A08936DA43",
+    "name": "SUKAJADI",
+    "initial": "K"
+  },
+  {
+    "id": "01507E0C-15E3-47D9-A0DF-6706A01AB9E4",
+    "city_id": "44DA545E-FB9B-4BCB-A6E1-08A08936DA43",
+    "name": "CICENDO",
+    "initial": "K"
+  },
+  {
+    "id": "CDA89B59-1E9B-433C-9293-A481E25ACAFC",
+    "city_id": "44DA545E-FB9B-4BCB-A6E1-08A08936DA43",
+    "name": "ANDIR",
+    "initial": "K"
+  },
+  {
+    "id": "C8BD7221-B816-4B23-926B-19CFCE2E045C",
+    "city_id": "713FCCE2-1CCF-4298-A85C-B7F6EB360D92",
+    "name": "CIMENYAN",
+    "initial": "K"
+  },
+  {
+    "id": "7B33BB2B-7FBD-4C27-A907-F9B98B59CA50",
+    "city_id": "44DA545E-FB9B-4BCB-A6E1-08A08936DA43",
+    "name": "MANDALAJATI",
+    "initial": "K"
+  },
+  {
+    "id": "47C8D13E-E286-4EE6-B1A4-E7ED482C74F4",
+    "city_id": "44DA545E-FB9B-4BCB-A6E1-08A08936DA43",
+    "name": "BANDUNG KULON",
+    "initial": "K"
+  },
+  {
+    "id": "B34B3F32-5F61-4195-AFB4-EC38A9D5662C",
+    "city_id": "713FCCE2-1CCF-4298-A85C-B7F6EB360D92",
+    "name": "MARGAASIH",
+    "initial": "K"
+  },
+  {
+    "id": "4EF2DB7A-84D3-4A22-A3B9-4C150D4B60D4",
+    "city_id": "44DA545E-FB9B-4BCB-A6E1-08A08936DA43",
+    "name": "BABAKAN CIPARAY",
+    "initial": "K"
+  },
+  {
+    "id": "D97E8635-3459-4894-9F22-4A146BE5D92A",
+    "city_id": "713FCCE2-1CCF-4298-A85C-B7F6EB360D92",
+    "name": "MARGAHAYU",
+    "initial": "K"
+  },
+  {
+    "id": "9EE959A5-9466-4286-BF72-3882EDFAEFF7",
+    "city_id": "44DA545E-FB9B-4BCB-A6E1-08A08936DA43",
+    "name": "BOJONGLOA KALER",
+    "initial": "K"
+  },
+  {
+    "id": "6813D592-31B5-497E-B1D0-CBFA7C063F64",
+    "city_id": "44DA545E-FB9B-4BCB-A6E1-08A08936DA43",
+    "name": "BOJONGLOA KIDUL",
+    "initial": "K"
+  },
+  {
+    "id": "69502D2C-BEB1-4B62-8663-ADE39D45B04D",
+    "city_id": "713FCCE2-1CCF-4298-A85C-B7F6EB360D92",
+    "name": "CANGKUANG",
+    "initial": "K"
+  },
+  {
+    "id": "1E517518-CF9C-4225-B39D-57481138ECA0",
+    "city_id": "713FCCE2-1CCF-4298-A85C-B7F6EB360D92",
+    "name": "DAYEUHKOLOT",
+    "initial": "K"
+  },
+  {
+    "id": "D570E1AD-6683-4553-A765-47FF79A66336",
+    "city_id": "44DA545E-FB9B-4BCB-A6E1-08A08936DA43",
+    "name": "ASTANA ANYAR",
+    "initial": "K"
+  },
+  {
+    "id": "FA1ADBB3-0310-490B-8EBF-EE3317AB1218",
+    "city_id": "44DA545E-FB9B-4BCB-A6E1-08A08936DA43",
+    "name": "REGOL",
+    "initial": "K"
+  },
+  {
+    "id": "FE114D68-6EEA-48E3-853F-47C2D439077D",
+    "city_id": "44DA545E-FB9B-4BCB-A6E1-08A08936DA43",
+    "name": "BANDUNG KIDUL",
+    "initial": "K"
+  },
+  {
+    "id": "B884CECD-81C7-40E5-8555-B100EF5EB444",
+    "city_id": "713FCCE2-1CCF-4298-A85C-B7F6EB360D92",
+    "name": "BALEENDAH",
+    "initial": "K"
+  },
+  {
+    "id": "FCED861F-53B9-47EB-81DD-9B49FCC6FD39",
+    "city_id": "44DA545E-FB9B-4BCB-A6E1-08A08936DA43",
+    "name": "LENGKONG",
+    "initial": "K"
+  },
+  {
+    "id": "CB37B755-77F3-42A5-BA81-84FFB753B40B",
+    "city_id": "44DA545E-FB9B-4BCB-A6E1-08A08936DA43",
+    "name": "BATUNUNGGAL",
+    "initial": "K"
+  },
+  {
+    "id": "909C727A-2802-4887-935A-4EE0DD0D4C2A",
+    "city_id": "44DA545E-FB9B-4BCB-A6E1-08A08936DA43",
+    "name": "KIARACONDONG",
+    "initial": "K"
+  },
+  {
+    "id": "C6770F89-42E0-45FC-84B6-A2A5BDD53AB8",
+    "city_id": "44DA545E-FB9B-4BCB-A6E1-08A08936DA43",
+    "name": "BUAHBATU",
+    "initial": "K"
+  },
+  {
+    "id": "344270C4-A5A6-4F40-ABAC-737556252198",
+    "city_id": "713FCCE2-1CCF-4298-A85C-B7F6EB360D92",
+    "name": "BOJONGSOANG",
+    "initial": "K"
+  },
+  {
+    "id": "E3C4EC7F-B594-4567-B22B-CEB128229740",
+    "city_id": "44DA545E-FB9B-4BCB-A6E1-08A08936DA43",
+    "name": "ANTAPANI",
+    "initial": "K"
+  },
+  {
+    "id": "9FFAE062-D9A7-48C9-A698-AE0556AB4108",
+    "city_id": "44DA545E-FB9B-4BCB-A6E1-08A08936DA43",
+    "name": "RANCASARI",
+    "initial": "K"
+  },
+  {
+    "id": "476EB3A8-65EF-4348-A7E5-203F0B1A0CBE",
+    "city_id": "44DA545E-FB9B-4BCB-A6E1-08A08936DA43",
+    "name": "ARCAMANIK",
+    "initial": "K"
+  },
+  {
+    "id": "61C9D345-0B7F-47B8-865B-A16594F4B8F8",
+    "city_id": "44DA545E-FB9B-4BCB-A6E1-08A08936DA43",
+    "name": "GEDEBAGE",
+    "initial": "K"
+  },
+  {
+    "id": "2E4F84E1-F219-4BD4-A432-3CAF7B4E7C07",
+    "city_id": "44DA545E-FB9B-4BCB-A6E1-08A08936DA43",
+    "name": "CINAMBO",
+    "initial": "K"
+  },
+  {
+    "id": "DCFE119A-5926-4519-A042-709153736997",
+    "city_id": "713FCCE2-1CCF-4298-A85C-B7F6EB360D92",
+    "name": "SOLOKANJERUK",
+    "initial": "K"
+  },
+  {
+    "id": "1BB0A266-16AB-4445-925E-796F8A7B2403",
+    "city_id": "713FCCE2-1CCF-4298-A85C-B7F6EB360D92",
+    "name": "PAMEUNGPEUK",
+    "initial": "K"
+  },
+  {
+    "id": "DC7A41AE-18D2-4598-B3F6-58AEDEBC42D6",
+    "city_id": "713FCCE2-1CCF-4298-A85C-B7F6EB360D92",
+    "name": "BANJARAN",
+    "initial": "K"
+  },
+  {
+    "id": "75AD4BD1-1375-498E-B508-5F49A6FD9AC8",
+    "city_id": "713FCCE2-1CCF-4298-A85C-B7F6EB360D92",
+    "name": "ARJASARI",
+    "initial": "K"
+  },
+  {
+    "id": "5BCB7114-0D7D-40DE-B0A8-417ECD2CD3FE",
+    "city_id": "713FCCE2-1CCF-4298-A85C-B7F6EB360D92",
+    "name": "CIPARAY",
+    "initial": "K"
+  },
+  {
+    "id": "66CF786D-FA98-4FED-A850-289168B6D117",
+    "city_id": "713FCCE2-1CCF-4298-A85C-B7F6EB360D92",
+    "name": "MAJALAYA",
+    "initial": "K"
+  },
+  {
+    "id": "380ED5C0-4235-423D-A858-B0E426C18014",
+    "city_id": "7CE937E9-2B84-427A-84AD-A0292E3B7D9F",
+    "name": "LEMBANG",
+    "initial": "K"
+  },
+  {
+    "id": "09DAB990-99E5-4C18-96C7-622E2EF34AEB",
+    "city_id": "713FCCE2-1CCF-4298-A85C-B7F6EB360D92",
+    "name": "RANCAEKEK",
+    "initial": "K"
+  },
+  {
+    "id": "669AD7B6-3961-4FB0-8F72-44564482477A",
+    "city_id": "713FCCE2-1CCF-4298-A85C-B7F6EB360D92",
+    "name": "CICALENGKA",
+    "initial": "K"
+  },
+  {
+    "id": "02AF7003-F9C1-40F5-8EA3-BD5E2F0D89E7",
+    "city_id": "6410201A-7CF9-41E0-9289-9A039FE3B433",
+    "name": "CIMAHI UTARA",
+    "initial": "K"
+  },
+  {
+    "id": "C30B8F7D-B71D-4664-BFBE-22FE1EF00A66",
+    "city_id": "6410201A-7CF9-41E0-9289-9A039FE3B433",
+    "name": "CIMAHI TENGAH",
+    "initial": "K"
+  },
+  {
+    "id": "4BCEE0B2-88F5-470D-ABFE-8028AF75B7D9",
+    "city_id": "6410201A-7CF9-41E0-9289-9A039FE3B433",
+    "name": "CIMAHI SELATAN",
+    "initial": "K"
+  },
+  {
+    "id": "1C716FFC-C07C-428F-BCD1-51683C1C620D",
+    "city_id": "7CE937E9-2B84-427A-84AD-A0292E3B7D9F",
+    "name": "CISARUA",
+    "initial": "K"
+  },
+  {
+    "id": "15F83920-EE74-4471-B268-5C15A7861F10",
+    "city_id": "7CE937E9-2B84-427A-84AD-A0292E3B7D9F",
+    "name": "NGAMPRAH",
+    "initial": "K"
+  },
+  {
+    "id": "AC5BA67C-7BDA-4E99-A01A-BCC02333B8D0",
+    "city_id": "7CE937E9-2B84-427A-84AD-A0292E3B7D9F",
+    "name": "PADALARANG",
+    "initial": "K"
+  },
+  {
+    "id": "05E4C2C5-439A-4F80-B8D8-EDF102275E77",
+    "city_id": "7CE937E9-2B84-427A-84AD-A0292E3B7D9F",
+    "name": "PARONGPONG",
+    "initial": "K"
+  },
+  {
+    "id": "896D9E37-A29A-411B-B55D-EDDE430E60C5",
+    "city_id": "7CE937E9-2B84-427A-84AD-A0292E3B7D9F",
+    "name": "BATUJAJAR",
+    "initial": "K"
+  },
+  {
+    "id": "C30E241F-48C5-4FB0-823E-D577923FDEB7",
+    "city_id": "7CE937E9-2B84-427A-84AD-A0292E3B7D9F",
+    "name": "CILILIN",
+    "initial": "K"
+  },
+  {
+    "id": "0BD385F6-B9C0-4E71-A74C-A8FB426A7026",
+    "city_id": "44DA545E-FB9B-4BCB-A6E1-08A08936DA43",
+    "name": "UJUNG BERUNG",
+    "initial": "K"
+  },
+  {
+    "id": "DE40BEBB-D46E-4BAE-B26B-C8551B83B1C2",
+    "city_id": "44DA545E-FB9B-4BCB-A6E1-08A08936DA43",
+    "name": "CIBIRU",
+    "initial": "K"
+  },
+  {
+    "id": "A4EE5ED0-B396-4A7A-94B7-862725B178D1",
+    "city_id": "44DA545E-FB9B-4BCB-A6E1-08A08936DA43",
+    "name": "PANYILEUKAN",
+    "initial": "K"
+  },
+  {
+    "id": "DEB6D883-5617-46A2-8611-5A67B21D65B5",
+    "city_id": "713FCCE2-1CCF-4298-A85C-B7F6EB360D92",
+    "name": "CILENGKRANG",
+    "initial": "K"
+  },
+  {
+    "id": "66C63AE1-50D1-4314-8DD6-0FC9C294F080",
+    "city_id": "713FCCE2-1CCF-4298-A85C-B7F6EB360D92",
+    "name": "CILEUNYI",
+    "initial": "K"
+  },
+  {
+    "id": "2DA89A26-D6D7-4B08-849B-1F5FAD2E4436",
+    "city_id": "713FCCE2-1CCF-4298-A85C-B7F6EB360D92",
+    "name": "KUTAWARINGIN",
+    "initial": "K"
+  },
+  {
+    "id": "FB791B1C-9999-473F-95CF-1039411E5D5D",
+    "city_id": "713FCCE2-1CCF-4298-A85C-B7F6EB360D92",
+    "name": "SOREANG",
+    "initial": "K"
+  },
+  {
+    "id": "C98B528E-60ED-4D5C-99DE-6E238EDB34E7",
+    "city_id": "713FCCE2-1CCF-4298-A85C-B7F6EB360D92",
+    "name": "KATAPANG",
+    "initial": "K"
+  },
+  {
+    "id": "64764DCF-1F0B-4272-9386-A5B69230B446",
+    "city_id": "713FCCE2-1CCF-4298-A85C-B7F6EB360D92",
+    "name": "PASIRJAMBU",
+    "initial": "K"
+  },
+  {
+    "id": "918299A2-DE8F-4FEC-9B83-12DE61BAF451",
+    "city_id": "4455AB13-3AAB-491F-8ADA-1BC391AD21EF",
+    "name": "PURWAKARTA",
+    "initial": "K"
+  },
+  {
+    "id": "4296CBE2-F197-487D-A404-BACC90178E6B",
+    "city_id": "4455AB13-3AAB-491F-8ADA-1BC391AD21EF",
+    "name": "PONDOKSALAM",
+    "initial": "K"
+  },
+  {
+    "id": "72655A55-9CCA-4706-8CD3-2917B04AE72C",
+    "city_id": "4455AB13-3AAB-491F-8ADA-1BC391AD21EF",
+    "name": "SUKASARI",
+    "initial": "K"
+  },
+  {
+    "id": "DA1C8297-07F3-49CA-9B3F-189172B2104F",
+    "city_id": "4455AB13-3AAB-491F-8ADA-1BC391AD21EF",
+    "name": "BABAKANCIKAO",
+    "initial": "K"
+  },
+  {
+    "id": "24F48A93-FF83-4E4D-AB64-38C12118C633",
+    "city_id": "4455AB13-3AAB-491F-8ADA-1BC391AD21EF",
+    "name": "JATILUHUR",
+    "initial": "K"
+  },
+  {
+    "id": "53FA2E87-5A0D-4928-AF29-9448DE4CD4CD",
+    "city_id": "4455AB13-3AAB-491F-8ADA-1BC391AD21EF",
+    "name": "PLERED",
+    "initial": "K"
+  },
+  {
+    "id": "B5FF4993-B0CB-4473-A79C-87F3A5427F27",
+    "city_id": "4455AB13-3AAB-491F-8ADA-1BC391AD21EF",
+    "name": "DARANGDAN",
+    "initial": "K"
+  },
+  {
+    "id": "F7D80AAF-9CA2-4184-B558-9E89BE1C2E14",
+    "city_id": "4455AB13-3AAB-491F-8ADA-1BC391AD21EF",
+    "name": "BOJONG",
+    "initial": "K"
+  },
+  {
+    "id": "0E73D1D2-4714-438B-9B9F-5C0D7C36167A",
+    "city_id": "4455AB13-3AAB-491F-8ADA-1BC391AD21EF",
+    "name": "TEGALWARU",
+    "initial": "K"
+  },
+  {
+    "id": "E9E83F3D-4364-4195-AEFD-71D26449F2B0",
+    "city_id": "4455AB13-3AAB-491F-8ADA-1BC391AD21EF",
+    "name": "MANIIS",
+    "initial": "K"
+  },
+  {
+    "id": "A3A9897C-BA17-4BFB-A198-BD6DBEE8EA4B",
+    "city_id": "4455AB13-3AAB-491F-8ADA-1BC391AD21EF",
+    "name": "SUKATANI",
+    "initial": "K"
+  },
+  {
+    "id": "546BA315-8BE1-4329-A9D3-6B6162C3A00D",
+    "city_id": "4455AB13-3AAB-491F-8ADA-1BC391AD21EF",
+    "name": "WADUK JATILUHUR",
+    "initial": "K"
+  },
+  {
+    "id": "77E40B03-FF24-4008-856E-8C52F90716E5",
+    "city_id": "4455AB13-3AAB-491F-8ADA-1BC391AD21EF",
+    "name": "PASAWAHAN",
+    "initial": "K"
+  },
+  {
+    "id": "B294ED9F-EDC7-4973-81E7-2B94D1CE1BA6",
+    "city_id": "4455AB13-3AAB-491F-8ADA-1BC391AD21EF",
+    "name": "WANAYASA",
+    "initial": "K"
+  },
+  {
+    "id": "87734BBB-8281-480A-AA06-512E1C738D7D",
+    "city_id": "4455AB13-3AAB-491F-8ADA-1BC391AD21EF",
+    "name": "KIARAPEDES",
+    "initial": "K"
+  },
+  {
+    "id": "46E3EECB-1F97-4397-8A59-579172C34277",
+    "city_id": "4455AB13-3AAB-491F-8ADA-1BC391AD21EF",
+    "name": "CAMPAKA",
+    "initial": "K"
+  },
+  {
+    "id": "A7D0688E-1976-4F00-9842-CFC6BEBCDE55",
+    "city_id": "4455AB13-3AAB-491F-8ADA-1BC391AD21EF",
+    "name": "BUNGURSARI",
+    "initial": "K"
+  },
+  {
+    "id": "72EB898A-5990-4D40-B678-EA9A482ED06C",
+    "city_id": "4455AB13-3AAB-491F-8ADA-1BC391AD21EF",
+    "name": "CIBATU",
+    "initial": "K"
+  },
+  {
+    "id": "33F91D69-0780-4BA1-8F60-81D1B3898F12",
+    "city_id": "198BF08B-2070-4CAA-8D11-15096277C097",
+    "name": "KARAWANG BARAT",
+    "initial": "K"
+  },
+  {
+    "id": "D390E3DC-2487-4556-AFD4-9232E16D2B8C",
+    "city_id": "198BF08B-2070-4CAA-8D11-15096277C097",
+    "name": "KARAWANG TIMUR",
+    "initial": "K"
+  },
+  {
+    "id": "FD645B4E-0E21-44DB-B72C-FD502DCBB20E",
+    "city_id": "198BF08B-2070-4CAA-8D11-15096277C097",
+    "name": "TELUKJAMBE TIMUR",
+    "initial": "K"
+  },
+  {
+    "id": "EB6DCE0D-674E-4650-9F28-6C2538B7C028",
+    "city_id": "198BF08B-2070-4CAA-8D11-15096277C097",
+    "name": "TELUKJAMBE BARAT",
+    "initial": "K"
+  },
+  {
+    "id": "4A8C5558-07FE-46F7-8FC4-5F133867CE28",
+    "city_id": "198BF08B-2070-4CAA-8D11-15096277C097",
+    "name": "CIAMPEL",
+    "initial": "K"
+  },
+  {
+    "id": "862E4F84-5C0F-44B9-B5CC-98684B4EAE6F",
+    "city_id": "198BF08B-2070-4CAA-8D11-15096277C097",
+    "name": "MAJALAYA",
+    "initial": "K"
+  },
+  {
+    "id": "48AB87A7-9521-471F-865B-760A9F7CDC42",
+    "city_id": "198BF08B-2070-4CAA-8D11-15096277C097",
+    "name": "KLARI",
+    "initial": "K"
+  },
+  {
+    "id": "F33C0323-949C-42B0-9F49-0AB1B74699E1",
+    "city_id": "198BF08B-2070-4CAA-8D11-15096277C097",
+    "name": "PURWASARI",
+    "initial": "K"
+  },
+  {
+    "id": "105BD4A7-7787-4A8D-8CF4-CF5A02739F3A",
+    "city_id": "8589D5AA-3D3E-4E7E-96F7-FBA74A566885",
+    "name": "SERANG",
+    "initial": "K"
+  },
+  {
+    "id": "1E777C76-79AA-47C8-956A-890B31B5FC11",
+    "city_id": "8589D5AA-3D3E-4E7E-96F7-FBA74A566885",
+    "name": "CIPOCOK JAYA",
+    "initial": "K"
+  },
+  {
+    "id": "B37EC7F1-612C-4115-A374-2B3F70642DBA",
+    "city_id": "FA9381BE-71DE-4D07-AB40-881E08DD5674",
+    "name": "KRAMATWATU",
+    "initial": "K"
+  },
+  {
+    "id": "91F6DF81-02FD-4A3E-AECF-6C0DD41D944C",
+    "city_id": "8589D5AA-3D3E-4E7E-96F7-FBA74A566885",
+    "name": "TAKTAKAN",
+    "initial": "K"
+  },
+  {
+    "id": "2192FDCD-8EF9-4CF1-8208-CE96BF6A6014",
+    "city_id": "8589D5AA-3D3E-4E7E-96F7-FBA74A566885",
+    "name": "CURUG",
+    "initial": "K"
+  },
+  {
+    "id": "B6AC4498-D8B3-493B-8D04-F667CA92E1CF",
+    "city_id": "8589D5AA-3D3E-4E7E-96F7-FBA74A566885",
+    "name": "WALANTAKA",
+    "initial": "K"
+  },
+  {
+    "id": "E45F6C92-4358-4AB8-8561-501B4EDD4735",
+    "city_id": "8589D5AA-3D3E-4E7E-96F7-FBA74A566885",
+    "name": "KASEMEN",
+    "initial": "K"
+  },
+  {
+    "id": "DDF0C9AD-8A67-4F6A-AC0D-D8F759EFACB2",
+    "city_id": "EACF63CC-D50F-4BC9-BE57-839FE2197C3E",
+    "name": "JOMBANG",
+    "initial": "K"
+  },
+  {
+    "id": "22867F4D-4456-446B-A01F-4EB5ABBE5589",
+    "city_id": "EACF63CC-D50F-4BC9-BE57-839FE2197C3E",
+    "name": "CILEGON",
+    "initial": "K"
+  },
+  {
+    "id": "B03CF317-D6D5-4160-B3F7-C0EA26DD1497",
+    "city_id": "EACF63CC-D50F-4BC9-BE57-839FE2197C3E",
+    "name": "CIBEBER",
+    "initial": "K"
+  },
+  {
+    "id": "86A192BC-2DC8-49CA-B9F5-BA26B139A6E6",
+    "city_id": "D943F8A2-779A-49AB-B13E-9126E30EADC8",
+    "name": "CIKOLE",
+    "initial": "K"
+  },
+  {
+    "id": "0CE50336-393F-4BE6-98A4-2B1EA79775B0",
+    "city_id": "D943F8A2-779A-49AB-B13E-9126E30EADC8",
+    "name": "GUNUNG PUYUH",
+    "initial": "K"
+  },
+  {
+    "id": "4CA1379D-D8FA-480C-935B-5311FEC81F61",
+    "city_id": "D943F8A2-779A-49AB-B13E-9126E30EADC8",
+    "name": "WARUDOYONG",
+    "initial": "K"
+  },
+  {
+    "id": "6CBC903C-39B9-42A6-88DF-D17D8098D873",
+    "city_id": "5BBCEB3D-40CE-49D4-B32F-07EC324DF5AA",
+    "name": "CISAAT",
+    "initial": "K"
+  },
+  {
+    "id": "0298244B-5B5E-4E35-81F3-81493CD6B11B",
+    "city_id": "D943F8A2-779A-49AB-B13E-9126E30EADC8",
+    "name": "LEMBURSITU",
+    "initial": "K"
+  },
+  {
+    "id": "838C1913-5AD3-420A-957E-51285A50970E",
+    "city_id": "D943F8A2-779A-49AB-B13E-9126E30EADC8",
+    "name": "CITAMIANG",
+    "initial": "K"
+  },
+  {
+    "id": "891DDBE0-E0AE-49B4-B3CA-68E28AF314B7",
+    "city_id": "D943F8A2-779A-49AB-B13E-9126E30EADC8",
+    "name": "CIBEUREUM",
+    "initial": "K"
+  },
+  {
+    "id": "372EC88B-023F-4748-9E31-5B6CB31F485C",
+    "city_id": "D943F8A2-779A-49AB-B13E-9126E30EADC8",
+    "name": "BAROS",
+    "initial": "K"
+  },
+  {
+    "id": "2CFB24E0-B427-48D0-BA3C-8D9BA451CEF4",
+    "city_id": "5BBCEB3D-40CE-49D4-B32F-07EC324DF5AA",
+    "name": "SUKARAJA",
+    "initial": "K"
+  },
+  {
+    "id": "A1A235F3-BC30-45C2-866C-78E59CE7A65A",
+    "city_id": "3B55FAAA-07E6-40C1-A0DA-94D1D515F7C6",
+    "name": "CIANJUR",
+    "initial": "K"
+  },
+  {
+    "id": "7D323630-B21C-492A-AEDF-E645460BF32A",
+    "city_id": "3B55FAAA-07E6-40C1-A0DA-94D1D515F7C6",
+    "name": "CUGENANG",
+    "initial": "K"
+  },
+  {
+    "id": "9B1F1261-4FF2-4D8F-89CA-1642FA0DF5A0",
+    "city_id": "3B55FAAA-07E6-40C1-A0DA-94D1D515F7C6",
+    "name": "CIPANAS",
+    "initial": "K"
+  },
+  {
+    "id": "3BAC652C-C34B-446D-A5A0-2997ECE16370",
+    "city_id": "3B55FAAA-07E6-40C1-A0DA-94D1D515F7C6",
+    "name": "PACET",
+    "initial": "K"
+  },
+  {
+    "id": "A5C8FD1D-4632-43A1-A914-9B4055E4A9BA",
+    "city_id": "3B55FAAA-07E6-40C1-A0DA-94D1D515F7C6",
+    "name": "SUKARESMI",
+    "initial": "K"
+  },
+  {
+    "id": "2C292378-446A-4BDB-A15E-0415A5FCC2B1",
+    "city_id": "3B55FAAA-07E6-40C1-A0DA-94D1D515F7C6",
+    "name": "WARUNGKONDANG",
+    "initial": "K"
+  },
+  {
+    "id": "4CC157B0-3062-41FA-9E8C-7A23A55D2616",
+    "city_id": "3B55FAAA-07E6-40C1-A0DA-94D1D515F7C6",
+    "name": "GEKBRONG",
+    "initial": "K"
+  },
+  {
+    "id": "F042CD8B-78D8-481B-AD0C-2AA5F83C1E26",
+    "city_id": "3B55FAAA-07E6-40C1-A0DA-94D1D515F7C6",
+    "name": "CIBEBER",
+    "initial": "K"
+  },
+  {
+    "id": "83553156-26AF-4D30-8E4A-1551441898E0",
+    "city_id": "3B55FAAA-07E6-40C1-A0DA-94D1D515F7C6",
+    "name": "CAMPAKA",
+    "initial": "K"
+  },
+  {
+    "id": "252ED84D-2B07-4D3B-9AB8-247C38B9B9C4",
+    "city_id": "3B55FAAA-07E6-40C1-A0DA-94D1D515F7C6",
+    "name": "SUKANAGARA",
+    "initial": "K"
+  },
+  {
+    "id": "FA1CF3A6-65BB-4146-8A6D-C95F3C94ADAA",
+    "city_id": "3B55FAAA-07E6-40C1-A0DA-94D1D515F7C6",
+    "name": "TAKOKAK",
+    "initial": "K"
+  },
+  {
+    "id": "43DDADB0-6E03-4CB5-A2D1-34D141198D2D",
+    "city_id": "3B55FAAA-07E6-40C1-A0DA-94D1D515F7C6",
+    "name": "PAGELARAN",
+    "initial": "K"
+  },
+  {
+    "id": "5C7B9CAC-CDA1-449B-A5CC-2E672DF1B96E",
+    "city_id": "3B55FAAA-07E6-40C1-A0DA-94D1D515F7C6",
+    "name": "PASIRKUDA",
+    "initial": "K"
+  },
+  {
+    "id": "682AEA8A-B800-475C-9477-C5F1CD2F9CAD",
+    "city_id": "3B55FAAA-07E6-40C1-A0DA-94D1D515F7C6",
+    "name": "TANGGEUNG",
+    "initial": "K"
+  },
+  {
+    "id": "18F99498-6D6E-4020-AF1C-FEA4908CAB46",
+    "city_id": "3B55FAAA-07E6-40C1-A0DA-94D1D515F7C6",
+    "name": "KADUPANDAK",
+    "initial": "K"
+  },
+  {
+    "id": "1657A657-D8E1-4F49-8B3C-FBE24F7A0A96",
+    "city_id": "3B55FAAA-07E6-40C1-A0DA-94D1D515F7C6",
+    "name": "CAMPAKAMULYA",
+    "initial": "K"
+  },
+  {
+    "id": "90866375-6F62-44AC-B8A8-2F1F5848EC87",
+    "city_id": "3B55FAAA-07E6-40C1-A0DA-94D1D515F7C6",
+    "name": "CIBINONG",
+    "initial": "K"
+  },
+  {
+    "id": "FDE234CC-4A78-4BD8-8D7A-A5B55EC23AB5",
+    "city_id": "3B55FAAA-07E6-40C1-A0DA-94D1D515F7C6",
+    "name": "SINDANGBARANG",
+    "initial": "K"
+  },
+  {
+    "id": "48CDC890-0576-4A77-A695-06B3E146DBCF",
+    "city_id": "3B55FAAA-07E6-40C1-A0DA-94D1D515F7C6",
+    "name": "LELES",
+    "initial": "K"
+  },
+  {
+    "id": "0BD62C33-A94A-4EB5-86E6-FDDF3CE58467",
+    "city_id": "3B55FAAA-07E6-40C1-A0DA-94D1D515F7C6",
+    "name": "NARINGGUL",
+    "initial": "K"
+  },
+  {
+    "id": "11275C40-B20F-4E5E-A488-68F8131CF517",
+    "city_id": "3B55FAAA-07E6-40C1-A0DA-94D1D515F7C6",
+    "name": "CIDAUN",
+    "initial": "K"
+  },
+  {
+    "id": "4A1BD285-B474-4CD6-BF75-73F860A2D5F1",
+    "city_id": "3B55FAAA-07E6-40C1-A0DA-94D1D515F7C6",
+    "name": "AGRABINTA",
+    "initial": "K"
+  },
+  {
+    "id": "EF76EE1D-438F-4CE8-97D6-D24B7D7EC969",
+    "city_id": "3B55FAAA-07E6-40C1-A0DA-94D1D515F7C6",
+    "name": "HAURWANGI",
+    "initial": "K"
+  },
+  {
+    "id": "F74BADB0-61F9-4A82-8727-F5A5976D0509",
+    "city_id": "3B55FAAA-07E6-40C1-A0DA-94D1D515F7C6",
+    "name": "KARANGTENGAH",
+    "initial": "K"
+  },
+  {
+    "id": "38286B4A-BBEB-416E-82EE-0F9E0B0F836B",
+    "city_id": "3B55FAAA-07E6-40C1-A0DA-94D1D515F7C6",
+    "name": "CIRANJANG",
+    "initial": "K"
+  },
+  {
+    "id": "27D46849-5FDE-410B-A039-E9B92596F014",
+    "city_id": "3B55FAAA-07E6-40C1-A0DA-94D1D515F7C6",
+    "name": "BOJONGPICUNG",
+    "initial": "K"
+  },
+  {
+    "id": "7B56C3A2-EF6D-4966-B0E6-D93A456AD493",
+    "city_id": "3B55FAAA-07E6-40C1-A0DA-94D1D515F7C6",
+    "name": "CIJATI",
+    "initial": "K"
+  },
+  {
+    "id": "D43899B1-5CFF-4263-AAE1-5EE32BC0657D",
+    "city_id": "3B55FAAA-07E6-40C1-A0DA-94D1D515F7C6",
+    "name": "CILAKU",
+    "initial": "K"
+  },
+  {
+    "id": "32627A85-4BAD-4E04-A938-128AC9E2F3B4",
+    "city_id": "3B55FAAA-07E6-40C1-A0DA-94D1D515F7C6",
+    "name": "CIKADU",
+    "initial": "K"
+  },
+  {
+    "id": "DBB738BF-7673-497D-B5C1-2FC24D47FECD",
+    "city_id": "3B55FAAA-07E6-40C1-A0DA-94D1D515F7C6",
+    "name": "SUKALUYU",
+    "initial": "K"
+  },
+  {
+    "id": "98385454-25BD-45D2-9BE2-624325C510ED",
+    "city_id": "3B55FAAA-07E6-40C1-A0DA-94D1D515F7C6",
+    "name": "CIKALONGKULON",
+    "initial": "K"
+  },
+  {
+    "id": "0CCC03E1-E899-480C-A2DA-B853333F08CA",
+    "city_id": "3B55FAAA-07E6-40C1-A0DA-94D1D515F7C6",
+    "name": "MANDE",
+    "initial": "K"
+  },
+  {
+    "id": "38A0E455-25F3-402F-8D1B-A3E48B8AF728",
+    "city_id": "5BBCEB3D-40CE-49D4-B32F-07EC324DF5AA",
+    "name": "CICURUG",
+    "initial": "K"
+  },
+  {
+    "id": "12C23968-8414-458D-9677-A8738107B031",
+    "city_id": "835BCA8F-4005-4DF6-BB3B-683F568EF4CD",
+    "name": "GARUT KOTA",
+    "initial": "K"
+  },
+  {
+    "id": "EB7C255C-DD81-4637-866D-436D6343C3EB",
+    "city_id": "835BCA8F-4005-4DF6-BB3B-683F568EF4CD",
+    "name": "TAROGONG KIDUL",
+    "initial": "K"
+  },
+  {
+    "id": "71C91A81-47B0-438E-9A6F-A59D57C3F351",
+    "city_id": "835BCA8F-4005-4DF6-BB3B-683F568EF4CD",
+    "name": "TAROGONG KALER",
+    "initial": "K"
+  },
+  {
+    "id": "82D9B3AB-5E32-41A6-8481-D1EC6647A88F",
+    "city_id": "835BCA8F-4005-4DF6-BB3B-683F568EF4CD",
+    "name": "CILAWU",
+    "initial": "K"
+  },
+  {
+    "id": "5220413F-4FB9-48A8-81F1-CB765BDCF53E",
+    "city_id": "835BCA8F-4005-4DF6-BB3B-683F568EF4CD",
+    "name": "KARANGPAWITAN",
+    "initial": "K"
+  },
+  {
+    "id": "F29874B6-0AEF-442D-BDA2-98A3A1314D71",
+    "city_id": "835BCA8F-4005-4DF6-BB3B-683F568EF4CD",
+    "name": "BANYURESMI",
+    "initial": "K"
+  },
+  {
+    "id": "AC19126C-494A-4BC7-814E-98F7017ED15B",
+    "city_id": "031B6F02-3667-4333-AFC5-8CF8C425A345",
+    "name": "LEMAH WUNGKUK",
+    "initial": "K"
+  },
+  {
+    "id": "9B4DB4B0-2F68-4C71-8B5F-345B871AFA0E",
+    "city_id": "031B6F02-3667-4333-AFC5-8CF8C425A345",
+    "name": "PEKALIPAN",
+    "initial": "K"
+  },
+  {
+    "id": "111A9534-F265-4FF0-B78F-8527F9C93365",
+    "city_id": "031B6F02-3667-4333-AFC5-8CF8C425A345",
+    "name": "KEJAKSAN",
+    "initial": "K"
+  },
+  {
+    "id": "78E44A26-3FD6-403E-88B7-B0DDDEDC9000",
+    "city_id": "031B6F02-3667-4333-AFC5-8CF8C425A345",
+    "name": "KESAMBI",
+    "initial": "K"
+  },
+  {
+    "id": "162A4243-DF77-450A-8C7A-A149B522C171",
+    "city_id": "031B6F02-3667-4333-AFC5-8CF8C425A345",
+    "name": "HARJAMUKTI",
+    "initial": "K"
+  },
+  {
+    "id": "BF49CDD4-D7F1-43F0-BFCA-006754898B41",
+    "city_id": "EDC3460B-FFF4-4D24-87A6-5332BDFD8FDE",
+    "name": "KEDAWUNG",
+    "initial": "K"
+  },
+  {
+    "id": "59B666F4-DD7D-49B9-BE06-F09A5CF30935",
+    "city_id": "EDC3460B-FFF4-4D24-87A6-5332BDFD8FDE",
+    "name": "WERU",
+    "initial": "K"
+  },
+  {
+    "id": "E971F8F9-0F68-4817-83C2-9E4180DE20AE",
+    "city_id": "EDC3460B-FFF4-4D24-87A6-5332BDFD8FDE",
+    "name": "MUNDU",
+    "initial": "K"
+  },
+  {
+    "id": "AC2232E8-952C-435B-A2EB-2E7E3A3F776E",
+    "city_id": "5EA51BEC-575B-49C8-9238-F28D216178D4",
+    "name": "INDRAMAYU",
+    "initial": "K"
+  },
+  {
+    "id": "8509E60B-64B6-416B-A789-D5FE550A3E3B",
+    "city_id": "5EA51BEC-575B-49C8-9238-F28D216178D4",
+    "name": "JATIBARANG",
+    "initial": "K"
+  },
+  {
+    "id": "EEE75D74-FBDE-4471-9206-8A05C1BE3D16",
+    "city_id": "12C6E0FD-9D2E-4482-943C-BBD1A6357C54",
+    "name": "SUMEDANG SELATAN",
+    "initial": "K"
+  },
+  {
+    "id": "96A8C3A1-0744-46C4-AA07-A5329805A8F8",
+    "city_id": "12C6E0FD-9D2E-4482-943C-BBD1A6357C54",
+    "name": "SUMEDANG UTARA",
+    "initial": "K"
+  },
+  {
+    "id": "DA3656E6-5FA1-4329-94D4-8969018C2982",
+    "city_id": "12C6E0FD-9D2E-4482-943C-BBD1A6357C54",
+    "name": "CIMALAKA",
+    "initial": "K"
+  },
+  {
+    "id": "105D7328-ABC1-42A7-A3DA-DB97F7600857",
+    "city_id": "12C6E0FD-9D2E-4482-943C-BBD1A6357C54",
+    "name": "JATINANGOR",
+    "initial": "K"
+  },
+  {
+    "id": "01FD19DF-787D-47F5-A95D-EFA5DCB3A718",
+    "city_id": "12C6E0FD-9D2E-4482-943C-BBD1A6357C54",
+    "name": "TANJUNGSARI",
+    "initial": "K"
+  },
+  {
+    "id": "948DE12F-2613-48E8-9FD3-136C7BE4ACCA",
+    "city_id": "12C6E0FD-9D2E-4482-943C-BBD1A6357C54",
+    "name": "CIMANGGUNG",
+    "initial": "K"
+  },
+  {
+    "id": "AF807F4C-E377-46D3-BF0B-071C6DE60146",
+    "city_id": "7D668E45-CCB3-446A-92AD-E387BB3993C4",
+    "name": "MAJALENGKA",
+    "initial": "K"
+  },
+  {
+    "id": "297727B0-B2D5-45DB-8967-8D18CBAA128C",
+    "city_id": "7D668E45-CCB3-446A-92AD-E387BB3993C4",
+    "name": "KASOKANDEL",
+    "initial": "K"
+  },
+  {
+    "id": "897B6EED-8019-45C4-8620-8E733B05670C",
+    "city_id": "7D668E45-CCB3-446A-92AD-E387BB3993C4",
+    "name": "KADIPATEN",
+    "initial": "K"
+  },
+  {
+    "id": "8AB42937-A2C0-459C-882E-1855982CB04D",
+    "city_id": "7D668E45-CCB3-446A-92AD-E387BB3993C4",
+    "name": "DAWUAN",
+    "initial": "K"
+  },
+  {
+    "id": "4352796D-A546-46D8-A048-849CEB2BE423",
+    "city_id": "7D668E45-CCB3-446A-92AD-E387BB3993C4",
+    "name": "JATIWANGI",
+    "initial": "K"
+  },
+  {
+    "id": "CA5B3CC9-E57C-492B-8D42-44FEE0B7B1D9",
+    "city_id": "7D668E45-CCB3-446A-92AD-E387BB3993C4",
+    "name": "KERTAJATI",
+    "initial": "K"
+  },
+  {
+    "id": "54752C3F-C099-4ED6-93C7-EF7825956AAD",
+    "city_id": "7D668E45-CCB3-446A-92AD-E387BB3993C4",
+    "name": "PANYINGKIRAN",
+    "initial": "K"
+  },
+  {
+    "id": "8277DAE5-96BA-4197-AF60-BEBF0DCA92BB",
+    "city_id": "7D668E45-CCB3-446A-92AD-E387BB3993C4",
+    "name": "MAJA",
+    "initial": "K"
+  },
+  {
+    "id": "278BA9AF-76B8-4C1D-9C72-3839129E467D",
+    "city_id": "7D668E45-CCB3-446A-92AD-E387BB3993C4",
+    "name": "RAJAGALUH",
+    "initial": "K"
+  },
+  {
+    "id": "1F2A2615-1147-4F25-8C0F-C92E2B67AF43",
+    "city_id": "7D668E45-CCB3-446A-92AD-E387BB3993C4",
+    "name": "PALASAH",
+    "initial": "K"
+  },
+  {
+    "id": "1744A68D-1488-4C06-BBBE-408B7F933D9E",
+    "city_id": "7D668E45-CCB3-446A-92AD-E387BB3993C4",
+    "name": "CIGASONG",
+    "initial": "K"
+  },
+  {
+    "id": "D18ADE8E-2830-47E8-8150-52ECCADD7506",
+    "city_id": "3DD89872-1C77-42B2-ABA2-94FCE7846350",
+    "name": "KUNINGAN",
+    "initial": "K"
+  },
+  {
+    "id": "58119F4B-A271-45AF-8587-8CF8AB9BC0D9",
+    "city_id": "3DD89872-1C77-42B2-ABA2-94FCE7846350",
+    "name": "CILIMUS",
+    "initial": "K"
+  },
+  {
+    "id": "3727FDD5-66AD-4BA8-80A8-B2358BB90E69",
+    "city_id": "3DD89872-1C77-42B2-ABA2-94FCE7846350",
+    "name": "CIGUGUR",
+    "initial": "K"
+  },
+  {
+    "id": "F0168F73-9A1E-4410-9C0F-5A67AD0F8480",
+    "city_id": "3DD89872-1C77-42B2-ABA2-94FCE7846350",
+    "name": "KRAMATMULYA",
+    "initial": "K"
+  },
+  {
+    "id": "955FD1EF-3620-4BD1-9651-E765FDD61073",
+    "city_id": "3DD89872-1C77-42B2-ABA2-94FCE7846350",
+    "name": "JALAKSANA",
+    "initial": "K"
+  },
+  {
+    "id": "813EB730-7960-4E7C-924F-F58B48C7B073",
+    "city_id": "3DD89872-1C77-42B2-ABA2-94FCE7846350",
+    "name": "CIGANDAMEKAR",
+    "initial": "K"
+  },
+  {
+    "id": "FC781F36-6C75-4CD9-9C3F-EB86A02B83F3",
+    "city_id": "3DD89872-1C77-42B2-ABA2-94FCE7846350",
+    "name": "KADUGEDE",
+    "initial": "K"
+  },
+  {
+    "id": "AEC63247-E1D4-45D8-BA53-94E268B7FBC9",
+    "city_id": "3DD89872-1C77-42B2-ABA2-94FCE7846350",
+    "name": "NUSAHERANG",
+    "initial": "K"
+  },
+  {
+    "id": "38D4081E-6527-47AB-9965-CE2CD7709C31",
+    "city_id": "3DD89872-1C77-42B2-ABA2-94FCE7846350",
+    "name": "GARAWANGI",
+    "initial": "K"
+  },
+  {
+    "id": "F53F6A5E-495A-49BD-8AAD-E1F5B52D46C4",
+    "city_id": "3DD89872-1C77-42B2-ABA2-94FCE7846350",
+    "name": "SINDANG AGUNG",
+    "initial": "K"
+  },
+  {
+    "id": "97321FD5-DFB6-4FD9-ACC1-220A1838D669",
+    "city_id": "3DD89872-1C77-42B2-ABA2-94FCE7846350",
+    "name": "CIPICUNG",
+    "initial": "K"
+  },
+  {
+    "id": "CA07FA9C-2375-4844-AA21-55782A8A880B",
+    "city_id": "3DD89872-1C77-42B2-ABA2-94FCE7846350",
+    "name": "LURAGUNG",
+    "initial": "K"
+  },
+  {
+    "id": "42241937-8685-4469-8E22-9AA0F4C43763",
+    "city_id": "3DD89872-1C77-42B2-ABA2-94FCE7846350",
+    "name": "CIAWIGEBANG",
+    "initial": "K"
+  },
+  {
+    "id": "ADEE708A-AD1D-4F73-BE7C-47B367E4F3AD",
+    "city_id": "5EEB8B26-57A0-43B7-A5C4-13D99C66A8B4",
+    "name": "TAWANG",
+    "initial": "K"
+  },
+  {
+    "id": "4BD79A4E-B5B9-4AA5-9D6B-6D736DC667AB",
+    "city_id": "5EEB8B26-57A0-43B7-A5C4-13D99C66A8B4",
+    "name": "CIHIDEUNG",
+    "initial": "K"
+  },
+  {
+    "id": "676A2B72-53EB-46EA-9439-041551FBA85E",
+    "city_id": "5EEB8B26-57A0-43B7-A5C4-13D99C66A8B4",
+    "name": "CIPEDES",
+    "initial": "K"
+  },
+  {
+    "id": "EB9CD874-8937-401E-82AD-0ED5F8ED2276",
+    "city_id": "5EEB8B26-57A0-43B7-A5C4-13D99C66A8B4",
+    "name": "BUNGURSARI",
+    "initial": "K"
+  },
+  {
+    "id": "135D1C9E-4D68-488D-8261-0AEA37808474",
+    "city_id": "5EEB8B26-57A0-43B7-A5C4-13D99C66A8B4",
+    "name": "INDIHIANG",
+    "initial": "K"
+  },
+  {
+    "id": "26547CB0-B83D-4DB5-B1D4-7460AA240F1E",
+    "city_id": "061372EE-6301-4D5D-B24E-933D05C01964",
+    "name": "CIAWI",
+    "initial": "K"
+  },
+  {
+    "id": "DA7155BE-75A2-4C14-9FA7-40FAEA553536",
+    "city_id": "5EEB8B26-57A0-43B7-A5C4-13D99C66A8B4",
+    "name": "MANGKUBUMI",
+    "initial": "K"
+  },
+  {
+    "id": "EEE67D75-FDD4-495A-9E93-46377A6E7915",
+    "city_id": "5EEB8B26-57A0-43B7-A5C4-13D99C66A8B4",
+    "name": "KAWALU",
+    "initial": "K"
+  },
+  {
+    "id": "79797B18-7E5D-4103-9AAC-4DCB6209DD9F",
+    "city_id": "5EEB8B26-57A0-43B7-A5C4-13D99C66A8B4",
+    "name": "PURBARATU",
+    "initial": "K"
+  },
+  {
+    "id": "368FC9B5-12FE-4EDE-874B-FD7403F7A148",
+    "city_id": "5EEB8B26-57A0-43B7-A5C4-13D99C66A8B4",
+    "name": "TAMANSARI",
+    "initial": "K"
+  },
+  {
+    "id": "14A537B7-F012-49C0-BF17-DA785B479717",
+    "city_id": "5EEB8B26-57A0-43B7-A5C4-13D99C66A8B4",
+    "name": "CIBEUREUM",
+    "initial": "K"
+  },
+  {
+    "id": "321376BB-E1F1-4456-A00E-1CBD99C2EB4B",
+    "city_id": "23CBCDA9-E3B5-4D78-9868-CAF2A89E051D",
+    "name": "CIAMIS",
+    "initial": "K"
+  },
+  {
+    "id": "71322AFB-BECD-4033-8E26-0E6F51B9F467",
+    "city_id": "23CBCDA9-E3B5-4D78-9868-CAF2A89E051D",
+    "name": "SADANANYA",
+    "initial": "K"
+  },
+  {
+    "id": "A599ED65-04C6-48C7-ACC7-104262FB65E9",
+    "city_id": "23CBCDA9-E3B5-4D78-9868-CAF2A89E051D",
+    "name": "CIJEUNGJING",
+    "initial": "K"
+  },
+  {
+    "id": "43B75E90-7734-4981-8E4A-AF7A284B6488",
+    "city_id": "23CBCDA9-E3B5-4D78-9868-CAF2A89E051D",
+    "name": "BAREGBEG",
+    "initial": "K"
+  },
+  {
+    "id": "37DF5C41-AEBB-40D8-97F6-FFA7CC005E02",
+    "city_id": "6B99F2C7-31DF-4594-9F57-3390FC3687EB",
+    "name": "PURWAHARJA",
+    "initial": "K"
+  },
+  {
+    "id": "ED2D0F41-FC63-4E2A-BA70-666538793E89",
+    "city_id": "E66D0BF2-024F-4D73-A4B3-B02DC6AE271E",
+    "name": "GENUK",
+    "initial": "K"
+  },
+  {
+    "id": "2868BCF2-F1BF-4461-9BA4-5F08657993CA",
+    "city_id": "E66D0BF2-024F-4D73-A4B3-B02DC6AE271E",
+    "name": "PEDURUNGAN",
+    "initial": "K"
+  },
+  {
+    "id": "F2D3F33A-9BED-4D8C-AA00-8C5FC25F5107",
+    "city_id": "E66D0BF2-024F-4D73-A4B3-B02DC6AE271E",
+    "name": "SEMARANG TIMUR",
+    "initial": "K"
+  },
+  {
+    "id": "6AA8A543-D1BD-40EB-8D73-20B1BBCE0B10",
+    "city_id": "E66D0BF2-024F-4D73-A4B3-B02DC6AE271E",
+    "name": "SEMARANG TENGAH",
+    "initial": "K"
+  },
+  {
+    "id": "160A33EF-22E0-41E5-9537-DF102D902118",
+    "city_id": "E66D0BF2-024F-4D73-A4B3-B02DC6AE271E",
+    "name": "SEMARANG BARAT",
+    "initial": "K"
+  },
+  {
+    "id": "0E631520-EC86-4566-9A7F-A1E006B29798",
+    "city_id": "E66D0BF2-024F-4D73-A4B3-B02DC6AE271E",
+    "name": "TUGU",
+    "initial": "K"
+  },
+  {
+    "id": "AB853C43-AD56-4138-8DBF-4479D85D8804",
+    "city_id": "E66D0BF2-024F-4D73-A4B3-B02DC6AE271E",
+    "name": "GAYAMSARI",
+    "initial": "K"
+  },
+  {
+    "id": "1E44627D-63F0-423D-A086-CBEFC0D732E6",
+    "city_id": "E66D0BF2-024F-4D73-A4B3-B02DC6AE271E",
+    "name": "SEMARANG UTARA",
+    "initial": "K"
+  },
+  {
+    "id": "FE9E6EF4-9AE6-4992-A679-2716C5946AAE",
+    "city_id": "E66D0BF2-024F-4D73-A4B3-B02DC6AE271E",
+    "name": "NGALIYAN",
+    "initial": "K"
+  },
+  {
+    "id": "486EDA3D-9948-46FB-B324-6B6C6B3F4762",
+    "city_id": "E66D0BF2-024F-4D73-A4B3-B02DC6AE271E",
+    "name": "MIJEN",
+    "initial": "K"
+  },
+  {
+    "id": "F745422F-643B-4EA9-8ACA-28F94E17586D",
+    "city_id": "E66D0BF2-024F-4D73-A4B3-B02DC6AE271E",
+    "name": "GUNUNGPATI",
+    "initial": "K"
+  },
+  {
+    "id": "6E3B99A2-C6B6-4DDF-9E76-1E0D2B6029D3",
+    "city_id": "E66D0BF2-024F-4D73-A4B3-B02DC6AE271E",
+    "name": "GAJAHMUNGKUR",
+    "initial": "K"
+  },
+  {
+    "id": "D02F25EA-13CE-4515-B579-51685BD6959A",
+    "city_id": "E66D0BF2-024F-4D73-A4B3-B02DC6AE271E",
+    "name": "SEMARANG SELATAN",
+    "initial": "K"
+  },
+  {
+    "id": "9C12F121-DCEE-4F39-A1AE-242B68605054",
+    "city_id": "E66D0BF2-024F-4D73-A4B3-B02DC6AE271E",
+    "name": "CANDISARI",
+    "initial": "K"
+  },
+  {
+    "id": "75EAFF46-C63F-4697-BECF-AE302448C2BC",
+    "city_id": "E66D0BF2-024F-4D73-A4B3-B02DC6AE271E",
+    "name": "BANYUMANIK",
+    "initial": "K"
+  },
+  {
+    "id": "51D80218-A565-4EC2-AF6A-4A9C00C7B317",
+    "city_id": "E66D0BF2-024F-4D73-A4B3-B02DC6AE271E",
+    "name": "TEMBALANG",
+    "initial": "K"
+  },
+  {
+    "id": "24EAEC42-298E-4A30-9858-472AE05144E5",
+    "city_id": "8B1B25B2-27B5-40E4-A365-6EDFA7585DEE",
+    "name": "UNGARAN BARAT",
+    "initial": "K"
+  },
+  {
+    "id": "A8D87E7A-21A2-4E9C-8F3A-041A0636DF00",
+    "city_id": "8B1B25B2-27B5-40E4-A365-6EDFA7585DEE",
+    "name": "UNGARAN TIMUR",
+    "initial": "K"
+  },
+  {
+    "id": "91003569-6720-49F8-8F96-3B503A860616",
+    "city_id": "01587DAF-5920-4B4B-A086-523BB2BE72EF",
+    "name": "SIDOREJO",
+    "initial": "K"
+  },
+  {
+    "id": "2A1F423B-595C-4262-9E28-D7FFECD303F3",
+    "city_id": "01587DAF-5920-4B4B-A086-523BB2BE72EF",
+    "name": "SIDOMUKTI",
+    "initial": "K"
+  },
+  {
+    "id": "427AB4F9-E2D4-4FF9-9E8D-569E09DFFE80",
+    "city_id": "01587DAF-5920-4B4B-A086-523BB2BE72EF",
+    "name": "ARGOMULYO",
+    "initial": "K"
+  },
+  {
+    "id": "BE599545-6E59-4C46-9D06-0A54D9ADD9F5",
+    "city_id": "01587DAF-5920-4B4B-A086-523BB2BE72EF",
+    "name": "TINGKIR",
+    "initial": "K"
+  },
+  {
+    "id": "F3DD67D9-2C60-44E8-A5FC-A074F7ABFDFE",
+    "city_id": "B509EF00-3476-47F1-AE60-AD3043F2DB24",
+    "name": "PEKALONGAN BARAT",
+    "initial": "K"
+  },
+  {
+    "id": "F36932FF-BA48-48A0-BC9F-2BFDFF49F4AE",
+    "city_id": "B509EF00-3476-47F1-AE60-AD3043F2DB24",
+    "name": "PEKALONGAN TIMUR",
+    "initial": "K"
+  },
+  {
+    "id": "C68380B2-E441-41B0-9C9B-AE9F5E981C98",
+    "city_id": "B509EF00-3476-47F1-AE60-AD3043F2DB24",
+    "name": "PEKALONGAN SELATAN",
+    "initial": "K"
+  },
+  {
+    "id": "64F63689-8F0D-4E9E-8AF5-44CC549972AA",
+    "city_id": "B509EF00-3476-47F1-AE60-AD3043F2DB24",
+    "name": "PEKALONGAN UTARA",
+    "initial": "K"
+  },
+  {
+    "id": "BCEBD809-08DA-4DD5-BD68-7E4159B0E3F3",
+    "city_id": "16814EF3-742A-4452-8B4E-2DDE48BEFD2A",
+    "name": "BATANG",
+    "initial": "K"
+  },
+  {
+    "id": "516CBB1C-E4BB-47B3-AC52-6AC7DF9DAA50",
+    "city_id": "03272E11-45FE-4C05-9154-6804472EE631",
+    "name": "KENDAL",
+    "initial": "K"
+  },
+  {
+    "id": "122B1946-D329-4D0B-8ABE-740217F12B97",
+    "city_id": "03272E11-45FE-4C05-9154-6804472EE631",
+    "name": "ROWOSARI",
+    "initial": "K"
+  },
+  {
+    "id": "967BAAB3-957A-4A6F-8B2A-B371B71B9512",
+    "city_id": "03272E11-45FE-4C05-9154-6804472EE631",
+    "name": "PATEBON",
+    "initial": "K"
+  },
+  {
+    "id": "54FE9420-BCFF-4C38-97AF-C2C583F49810",
+    "city_id": "03272E11-45FE-4C05-9154-6804472EE631",
+    "name": "CEPIRING",
+    "initial": "K"
+  },
+  {
+    "id": "A537E370-A6A4-4281-B8E5-A9F93EC34659",
+    "city_id": "03272E11-45FE-4C05-9154-6804472EE631",
+    "name": "KANGKUNG",
+    "initial": "K"
+  },
+  {
+    "id": "31A65893-4ED2-4AC7-A66A-DE4622E54D30",
+    "city_id": "03272E11-45FE-4C05-9154-6804472EE631",
+    "name": "WELERI",
+    "initial": "K"
+  },
+  {
+    "id": "39FF1723-636D-418F-B229-6A67D500D60B",
+    "city_id": "03272E11-45FE-4C05-9154-6804472EE631",
+    "name": "GEMUH",
+    "initial": "K"
+  },
+  {
+    "id": "B82C8190-AF15-4C76-BE15-A8B4A571E0FF",
+    "city_id": "03272E11-45FE-4C05-9154-6804472EE631",
+    "name": "NGAMPEL",
+    "initial": "K"
+  },
+  {
+    "id": "09D7141A-4EC3-4A64-95FB-5AB18B994861",
+    "city_id": "03272E11-45FE-4C05-9154-6804472EE631",
+    "name": "PEGANDON",
+    "initial": "K"
+  },
+  {
+    "id": "333FAB7B-B820-417F-9183-3B2C2C49E7BB",
+    "city_id": "03272E11-45FE-4C05-9154-6804472EE631",
+    "name": "RINGINARUM",
+    "initial": "K"
+  },
+  {
+    "id": "7B4889BB-BDD5-478D-9F49-14EF80B9EB0C",
+    "city_id": "03272E11-45FE-4C05-9154-6804472EE631",
+    "name": "PAGERUYUNG",
+    "initial": "K"
+  },
+  {
+    "id": "613ECBEB-B9D6-4E3D-B270-2EC05EC252D8",
+    "city_id": "03272E11-45FE-4C05-9154-6804472EE631",
+    "name": "PLANTUNGAN",
+    "initial": "K"
+  },
+  {
+    "id": "D6DCB2BF-F9FB-45AD-A2BA-E3541FB02C31",
+    "city_id": "03272E11-45FE-4C05-9154-6804472EE631",
+    "name": "SUKOREJO",
+    "initial": "K"
+  },
+  {
+    "id": "E6FDF1FA-7D12-4214-8175-39BB0217D247",
+    "city_id": "03272E11-45FE-4C05-9154-6804472EE631",
+    "name": "PATEAN",
+    "initial": "K"
+  },
+  {
+    "id": "1A8AD093-1E6A-498B-A94A-317C362C6883",
+    "city_id": "03272E11-45FE-4C05-9154-6804472EE631",
+    "name": "BRANGSONG",
+    "initial": "K"
+  },
+  {
+    "id": "83631C0C-B72B-4C79-B0DB-978FB5A8D948",
+    "city_id": "03272E11-45FE-4C05-9154-6804472EE631",
+    "name": "KALIWUNGU SELATAN",
+    "initial": "K"
+  },
+  {
+    "id": "E3BBECDA-CB43-4EB2-8B70-E80B2CBE8A8B",
+    "city_id": "03272E11-45FE-4C05-9154-6804472EE631",
+    "name": "KALIWUNGU",
+    "initial": "K"
+  },
+  {
+    "id": "C393BF65-12D5-489E-AF58-D935D0348245",
+    "city_id": "03272E11-45FE-4C05-9154-6804472EE631",
+    "name": "BOJA",
+    "initial": "K"
+  },
+  {
+    "id": "F688B768-2CD3-4019-8B46-840F97054F7A",
+    "city_id": "03272E11-45FE-4C05-9154-6804472EE631",
+    "name": "SINGOROJO",
+    "initial": "K"
+  },
+  {
+    "id": "87E5F3CB-9D20-4DB5-9D46-60AF21016A2F",
+    "city_id": "03272E11-45FE-4C05-9154-6804472EE631",
+    "name": "LIMBANGAN",
+    "initial": "K"
+  },
+  {
+    "id": "A1E8D56F-2FCD-411B-86B4-200D0B262B17",
+    "city_id": "6431B451-B45D-4FBC-9B2B-551C86749A7A",
+    "name": "TEGAL BARAT",
+    "initial": "K"
+  },
+  {
+    "id": "1FFC0C41-044D-47CD-81B6-A5ED8F91B558",
+    "city_id": "ED672F03-B897-48F0-9EDA-7B6C94A86342",
+    "name": "ADIWERNA",
+    "initial": "K"
+  },
+  {
+    "id": "D1ED56DB-A98B-4450-9C8D-9A13F55E0525",
+    "city_id": "6431B451-B45D-4FBC-9B2B-551C86749A7A",
+    "name": "TEGAL TIMUR",
+    "initial": "K"
+  },
+  {
+    "id": "1E2BB1FA-319A-443F-AF9A-161E3A1C8B4B",
+    "city_id": "6431B451-B45D-4FBC-9B2B-551C86749A7A",
+    "name": "TEGAL SELATAN",
+    "initial": "K"
+  },
+  {
+    "id": "71150E16-C53A-4C93-969B-379F474DBA63",
+    "city_id": "6431B451-B45D-4FBC-9B2B-551C86749A7A",
+    "name": "MARGADANA",
+    "initial": "K"
+  },
+  {
+    "id": "64712472-3A5E-4BAE-AD6A-CD2ACB6A9B60",
+    "city_id": "ED672F03-B897-48F0-9EDA-7B6C94A86342",
+    "name": "KRAMAT",
+    "initial": "K"
+  },
+  {
+    "id": "B0D84AC9-B003-47D3-902B-F1C19386DF64",
+    "city_id": "ED672F03-B897-48F0-9EDA-7B6C94A86342",
+    "name": "DUKUHTURI",
+    "initial": "K"
+  },
+  {
+    "id": "C202FBCE-9D86-404E-B450-5BF3E22328E7",
+    "city_id": "ED672F03-B897-48F0-9EDA-7B6C94A86342",
+    "name": "TALANG",
+    "initial": "K"
+  },
+  {
+    "id": "84047BD7-8E2E-4F0E-8468-8EE03D66DAA2",
+    "city_id": "6DBA6081-0247-408B-AB1D-89CAE70A4948",
+    "name": "BUMIAYU",
+    "initial": "K"
+  },
+  {
+    "id": "D8B7C757-450C-4556-924A-4450E9355BEA",
+    "city_id": "3A7FC9D9-10F5-45BB-BA18-7B18C1AB4A9D",
+    "name": "COMAL",
+    "initial": "K"
+  },
+  {
+    "id": "D5688023-50AB-4FA5-8547-FDA09FF15D8D",
+    "city_id": "ED672F03-B897-48F0-9EDA-7B6C94A86342",
+    "name": "SLAWI",
+    "initial": "K"
+  },
+  {
+    "id": "2A1E1E16-C7D2-497E-8F2F-4034971DCC62",
+    "city_id": "E0FB1EEE-9878-470C-964C-D311753AD305",
+    "name": "PURWOKERTO TIMUR",
+    "initial": "K"
+  },
+  {
+    "id": "3FE9604A-4FCC-4818-9545-DD3E772B9A28",
+    "city_id": "E0FB1EEE-9878-470C-964C-D311753AD305",
+    "name": "PURWOKERTO UTARA",
+    "initial": "K"
+  },
+  {
+    "id": "0FC0F54E-956A-41B1-886A-A310BCDCBCAB",
+    "city_id": "E0FB1EEE-9878-470C-964C-D311753AD305",
+    "name": "BATURRADEN",
+    "initial": "K"
+  },
+  {
+    "id": "2B65F7DC-9C2B-4272-96E8-EF296A83EA92",
+    "city_id": "E0FB1EEE-9878-470C-964C-D311753AD305",
+    "name": "PURWOKERTO BARAT",
+    "initial": "K"
+  },
+  {
+    "id": "5275CF55-21A8-4009-8552-CDCD249BF665",
+    "city_id": "E0FB1EEE-9878-470C-964C-D311753AD305",
+    "name": "PURWOKERTO SELATAN",
+    "initial": "K"
+  },
+  {
+    "id": "E76C8BB4-98AB-455F-917A-714093F95899",
+    "city_id": "E0FB1EEE-9878-470C-964C-D311753AD305",
+    "name": "KEDUNGBANTENG",
+    "initial": "K"
+  },
+  {
+    "id": "EC6FDD26-08F6-42DA-9A7D-90DAA69DF110",
+    "city_id": "E0FB1EEE-9878-470C-964C-D311753AD305",
+    "name": "KARANGLEWAS",
+    "initial": "K"
+  },
+  {
+    "id": "DC1A15FB-C05D-423D-8ED0-5F86DB91C86D",
+    "city_id": "E0FB1EEE-9878-470C-964C-D311753AD305",
+    "name": "AJIBARANG",
+    "initial": "K"
+  },
+  {
+    "id": "A17D1EF7-A65E-45D6-AB74-E8E7794DDAA9",
+    "city_id": "E0FB1EEE-9878-470C-964C-D311753AD305",
+    "name": "PEKUNCEN",
+    "initial": "K"
+  },
+  {
+    "id": "95A11D37-1C67-4C48-8210-DB500A64C629",
+    "city_id": "E0FB1EEE-9878-470C-964C-D311753AD305",
+    "name": "PATIKRAJA",
+    "initial": "K"
+  },
+  {
+    "id": "27D60C6F-1B1C-4282-8ECA-FAE8D994BA36",
+    "city_id": "E0FB1EEE-9878-470C-964C-D311753AD305",
+    "name": "KEBASEN",
+    "initial": "K"
+  },
+  {
+    "id": "DF120A49-1776-482D-A310-62418849D1E9",
+    "city_id": "E0FB1EEE-9878-470C-964C-D311753AD305",
+    "name": "JATILAWANG",
+    "initial": "K"
+  },
+  {
+    "id": "FB0CDC12-F41C-43C8-B51F-D885A0B03E7D",
+    "city_id": "E0FB1EEE-9878-470C-964C-D311753AD305",
+    "name": "WANGON",
+    "initial": "K"
+  },
+  {
+    "id": "090EB25D-B753-453A-9EB7-A00C454888AF",
+    "city_id": "E0FB1EEE-9878-470C-964C-D311753AD305",
+    "name": "SOKARAJA",
+    "initial": "K"
+  },
+  {
+    "id": "F52AC6CE-E299-4958-896E-89962BCB0ED3",
+    "city_id": "E0FB1EEE-9878-470C-964C-D311753AD305",
+    "name": "KEMBARAN",
+    "initial": "K"
+  },
+  {
+    "id": "CDF707D2-3FE8-4674-9C48-E89051F37018",
+    "city_id": "E0FB1EEE-9878-470C-964C-D311753AD305",
+    "name": "SUMBANG",
+    "initial": "K"
+  },
+  {
+    "id": "92968B55-6F70-4238-84CC-F5CF5B2CF7E9",
+    "city_id": "E0FB1EEE-9878-470C-964C-D311753AD305",
+    "name": "KALIBAGOR",
+    "initial": "K"
+  },
+  {
+    "id": "305B0136-51F2-4C72-BBB9-2CC45012A37C",
+    "city_id": "E0FB1EEE-9878-470C-964C-D311753AD305",
+    "name": "BANYUMAS",
+    "initial": "K"
+  },
+  {
+    "id": "FF6399BE-99D5-4CA0-A40C-28D49A6B84DE",
+    "city_id": "E0FB1EEE-9878-470C-964C-D311753AD305",
+    "name": "SOMAGEDE",
+    "initial": "K"
+  },
+  {
+    "id": "4025C763-4677-405A-B6A1-B3209613EBB9",
+    "city_id": "E0FB1EEE-9878-470C-964C-D311753AD305",
+    "name": "KEMRANJEN",
+    "initial": "K"
+  },
+  {
+    "id": "B5529A8B-E10F-415D-A1BD-3F6A6FAAE442",
+    "city_id": "E0FB1EEE-9878-470C-964C-D311753AD305",
+    "name": "SUMPIUH",
+    "initial": "K"
+  },
+  {
+    "id": "0483A5B0-0ED6-4F6F-94CB-6B63884951E6",
+    "city_id": "4A0FBA58-2C9A-4664-9ABF-C8D7030AE6CE",
+    "name": "CILACAP SELATAN",
+    "initial": "K"
+  },
+  {
+    "id": "A7C13107-0E91-4FC8-B336-6F94AA1A2ADA",
+    "city_id": "4A0FBA58-2C9A-4664-9ABF-C8D7030AE6CE",
+    "name": "CILACAP TENGAH",
+    "initial": "K"
+  },
+  {
+    "id": "523616F6-2FFE-461C-99E8-231D9BA51F16",
+    "city_id": "4A0FBA58-2C9A-4664-9ABF-C8D7030AE6CE",
+    "name": "CILACAP UTARA",
+    "initial": "K"
+  },
+  {
+    "id": "15A1605C-3F79-49B1-8638-CD4A8929AC3A",
+    "city_id": "4A0FBA58-2C9A-4664-9ABF-C8D7030AE6CE",
+    "name": "JERUKLEGI",
+    "initial": "K"
+  },
+  {
+    "id": "B3365A73-BBF6-4DFC-B539-57D741C8BE96",
+    "city_id": "4A0FBA58-2C9A-4664-9ABF-C8D7030AE6CE",
+    "name": "ADIPALA",
+    "initial": "K"
+  },
+  {
+    "id": "2DCE8E6C-4267-4B1E-82A6-B48D48354256",
+    "city_id": "4A0FBA58-2C9A-4664-9ABF-C8D7030AE6CE",
+    "name": "KESUGIHAN",
+    "initial": "K"
+  },
+  {
+    "id": "A49759E6-A6BA-4CC5-A87D-C8D131932DD9",
+    "city_id": "4A0FBA58-2C9A-4664-9ABF-C8D7030AE6CE",
+    "name": "KROYA",
+    "initial": "K"
+  },
+  {
+    "id": "91152297-DFF9-40BA-899A-7C658A6317CD",
+    "city_id": "BC23D02E-C0B1-43C1-B3F6-D2B1A0C32C2D",
+    "name": "PURBALINGGA",
+    "initial": "K"
+  },
+  {
+    "id": "8D258E86-7665-4D47-94D3-4EC6D5346C32",
+    "city_id": "BC23D02E-C0B1-43C1-B3F6-D2B1A0C32C2D",
+    "name": "KALIMANAH",
+    "initial": "K"
+  },
+  {
+    "id": "2572473D-B060-4E63-9EFC-C03AE3BCB1AF",
+    "city_id": "BC23D02E-C0B1-43C1-B3F6-D2B1A0C32C2D",
+    "name": "KALIGONDANG",
+    "initial": "K"
+  },
+  {
+    "id": "A01C6E08-3797-4F0F-BBAA-45F80731A52E",
+    "city_id": "BC23D02E-C0B1-43C1-B3F6-D2B1A0C32C2D",
+    "name": "KUTASARI",
+    "initial": "K"
+  },
+  {
+    "id": "5C18A408-9D5B-42A4-8CFA-C2CDCDF874D2",
+    "city_id": "BC23D02E-C0B1-43C1-B3F6-D2B1A0C32C2D",
+    "name": "BOJONGSARI",
+    "initial": "K"
+  },
+  {
+    "id": "9DD9B842-F282-4392-B529-7C4D02DCC5D7",
+    "city_id": "BC23D02E-C0B1-43C1-B3F6-D2B1A0C32C2D",
+    "name": "PADAMARA",
+    "initial": "K"
+  },
+  {
+    "id": "706B7D75-7901-450D-9485-85DA7F4A5801",
+    "city_id": "BC23D02E-C0B1-43C1-B3F6-D2B1A0C32C2D",
+    "name": "KEMANGKON",
+    "initial": "K"
+  },
+  {
+    "id": "FAAD9BBF-1434-454A-B55A-FB2BAA164C83",
+    "city_id": "BC23D02E-C0B1-43C1-B3F6-D2B1A0C32C2D",
+    "name": "BUKATEJA",
+    "initial": "K"
+  },
+  {
+    "id": "2B70BFFC-5391-47CD-AF26-3E09FB9F855A",
+    "city_id": "8C6DF241-058A-4BB4-BF35-2D49D6D6453E",
+    "name": "BANJARNEGARA",
+    "initial": "K"
+  },
+  {
+    "id": "C8B64CA1-D714-40EF-8748-8732C84B5515",
+    "city_id": "8C6DF241-058A-4BB4-BF35-2D49D6D6453E",
+    "name": "PAGEDONGAN",
+    "initial": "K"
+  },
+  {
+    "id": "BAEB0482-BFFD-4536-908A-773D7569414F",
+    "city_id": "8C6DF241-058A-4BB4-BF35-2D49D6D6453E",
+    "name": "BANJARMANGU",
+    "initial": "K"
+  },
+  {
+    "id": "B237193A-23D7-4259-8DEC-1928305A59AE",
+    "city_id": "8C6DF241-058A-4BB4-BF35-2D49D6D6453E",
+    "name": "BAWANG",
+    "initial": "K"
+  },
+  {
+    "id": "BB19B281-AD71-43B2-9714-84265C0F91E5",
+    "city_id": "8C6DF241-058A-4BB4-BF35-2D49D6D6453E",
+    "name": "MANDIRAJA",
+    "initial": "K"
+  },
+  {
+    "id": "C6BA13CE-E780-4A46-9309-480B7041B91B",
+    "city_id": "8C6DF241-058A-4BB4-BF35-2D49D6D6453E",
+    "name": "MADUKARA",
+    "initial": "K"
+  },
+  {
+    "id": "088381F2-D2EC-47C4-8FA5-13E64E5D2AC4",
+    "city_id": "F4192B5D-9EDE-4090-8DE4-20279C000DD0",
+    "name": "KEBUMEN",
+    "initial": "K"
+  },
+  {
+    "id": "BE7E1633-D061-4A19-A3F1-97C62CE46EF5",
+    "city_id": "F4192B5D-9EDE-4090-8DE4-20279C000DD0",
+    "name": "ALIAN",
+    "initial": "K"
+  },
+  {
+    "id": "97402DD8-3492-4C20-AD73-9FED0B24DEB3",
+    "city_id": "F4192B5D-9EDE-4090-8DE4-20279C000DD0",
+    "name": "KARANGSAMBUNG",
+    "initial": "K"
+  },
+  {
+    "id": "0FC7300A-1D0B-4631-9B9D-F62B315D7B6F",
+    "city_id": "F4192B5D-9EDE-4090-8DE4-20279C000DD0",
+    "name": "SADANG",
+    "initial": "K"
+  },
+  {
+    "id": "CBB73653-7103-4883-B705-E76945C040D3",
+    "city_id": "F4192B5D-9EDE-4090-8DE4-20279C000DD0",
+    "name": "PEJAGOAN",
+    "initial": "K"
+  },
+  {
+    "id": "E13D9922-CEA6-4FB2-B53A-94230E595922",
+    "city_id": "F4192B5D-9EDE-4090-8DE4-20279C000DD0",
+    "name": "SRUWENG",
+    "initial": "K"
+  },
+  {
+    "id": "9F5C3E38-D42F-4D88-94C5-433E89E87D81",
+    "city_id": "F4192B5D-9EDE-4090-8DE4-20279C000DD0",
+    "name": "ADIMULYO",
+    "initial": "K"
+  },
+  {
+    "id": "58A04C22-745C-4AE5-B846-3FF8E7BCA7DB",
+    "city_id": "F4192B5D-9EDE-4090-8DE4-20279C000DD0",
+    "name": "KARANGANYAR",
+    "initial": "K"
+  },
+  {
+    "id": "A91B70AB-6DC6-467E-9801-AF9DD3911E36",
+    "city_id": "F4192B5D-9EDE-4090-8DE4-20279C000DD0",
+    "name": "KARANGGAYAM",
+    "initial": "K"
+  },
+  {
+    "id": "B004BB05-E02C-4808-8459-6E08F947844E",
+    "city_id": "F4192B5D-9EDE-4090-8DE4-20279C000DD0",
+    "name": "KUWARASAN",
+    "initial": "K"
+  },
+  {
+    "id": "75294B36-CF87-4B5E-922C-6BE31AD1CB15",
+    "city_id": "F4192B5D-9EDE-4090-8DE4-20279C000DD0",
+    "name": "KLIRONG",
+    "initial": "K"
+  },
+  {
+    "id": "1F1BFEAB-3E2D-48C7-82F0-F827943BFA27",
+    "city_id": "F4192B5D-9EDE-4090-8DE4-20279C000DD0",
+    "name": "PETANAHAN",
+    "initial": "K"
+  },
+  {
+    "id": "75FD90C4-6A67-4586-AD1A-7BE495026C7D",
+    "city_id": "F4192B5D-9EDE-4090-8DE4-20279C000DD0",
+    "name": "PURING",
+    "initial": "K"
+  },
+  {
+    "id": "D683B29D-3CFA-4A65-A3EC-93A11EB7C23C",
+    "city_id": "F4192B5D-9EDE-4090-8DE4-20279C000DD0",
+    "name": "PONCOWARNO",
+    "initial": "K"
+  },
+  {
+    "id": "B0858D6E-50C8-4D3A-8852-A1598DD741A5",
+    "city_id": "F4192B5D-9EDE-4090-8DE4-20279C000DD0",
+    "name": "BULUSPESANTREN",
+    "initial": "K"
+  },
+  {
+    "id": "237BEFF6-3848-4E05-A4EE-87471986F6D7",
+    "city_id": "F4192B5D-9EDE-4090-8DE4-20279C000DD0",
+    "name": "AMBAL",
+    "initial": "K"
+  },
+  {
+    "id": "07252AE5-E96F-40B3-AB0C-D74D86B614F7",
+    "city_id": "F4192B5D-9EDE-4090-8DE4-20279C000DD0",
+    "name": "KUTOWINANGUN",
+    "initial": "K"
+  },
+  {
+    "id": "CCAECC1F-FE96-4CF1-9E0C-EEA5E59EB7D8",
+    "city_id": "F4192B5D-9EDE-4090-8DE4-20279C000DD0",
+    "name": "PADURESO",
+    "initial": "K"
+  },
+  {
+    "id": "FD8A37AB-FA65-40A3-8ABB-D3197D58343F",
+    "city_id": "F4192B5D-9EDE-4090-8DE4-20279C000DD0",
+    "name": "BONOROWO",
+    "initial": "K"
+  },
+  {
+    "id": "6C827BC4-8F66-492F-91B3-0ED7B606FEF2",
+    "city_id": "F4192B5D-9EDE-4090-8DE4-20279C000DD0",
+    "name": "MIRIT",
+    "initial": "K"
+  },
+  {
+    "id": "D697CFA3-574C-4984-9E26-162158E92E8A",
+    "city_id": "F4192B5D-9EDE-4090-8DE4-20279C000DD0",
+    "name": "PREMBUN",
+    "initial": "K"
+  },
+  {
+    "id": "10D35B9E-FAEA-46F9-B47C-05D35C60B565",
+    "city_id": "F4192B5D-9EDE-4090-8DE4-20279C000DD0",
+    "name": "GOMBONG",
+    "initial": "K"
+  },
+  {
+    "id": "316A3C38-0116-443C-B768-1754679BF8D3",
+    "city_id": "F4192B5D-9EDE-4090-8DE4-20279C000DD0",
+    "name": "SEMPOR",
+    "initial": "K"
+  },
+  {
+    "id": "5CC85F4F-DB8C-4E0E-AD88-34D659CAC9F3",
+    "city_id": "F4192B5D-9EDE-4090-8DE4-20279C000DD0",
+    "name": "ROWOKELE",
+    "initial": "K"
+  },
+  {
+    "id": "43BBA40F-923A-4F1C-A2B0-71F906C9C4FA",
+    "city_id": "F4192B5D-9EDE-4090-8DE4-20279C000DD0",
+    "name": "AYAH",
+    "initial": "K"
+  },
+  {
+    "id": "8764EAF7-665A-4352-BB90-BC3F2E17FABC",
+    "city_id": "F4192B5D-9EDE-4090-8DE4-20279C000DD0",
+    "name": "BUAYAN",
+    "initial": "K"
+  },
+  {
+    "id": "837CB86E-229A-4911-93B1-6C752A86D90C",
+    "city_id": "9D91A436-57F5-472B-8B31-9A3A5899872A",
+    "name": "PAKUALAMAN",
+    "initial": "K"
+  },
+  {
+    "id": "875D96BC-F035-4B41-B7C9-9A64D116289C",
+    "city_id": "9D91A436-57F5-472B-8B31-9A3A5899872A",
+    "name": "GONDOMANAN",
+    "initial": "K"
+  },
+  {
+    "id": "BD33743C-AFB6-4320-9AB8-F478991E7484",
+    "city_id": "9D91A436-57F5-472B-8B31-9A3A5899872A",
+    "name": "KRATON",
+    "initial": "K"
+  },
+  {
+    "id": "9C67A756-7366-44BD-ABDB-060D687ECC81",
+    "city_id": "9D91A436-57F5-472B-8B31-9A3A5899872A",
+    "name": "MANTRIJERON",
+    "initial": "K"
+  },
+  {
+    "id": "100FD509-0C48-44A2-85BB-5BB7DCE869AB",
+    "city_id": "9D91A436-57F5-472B-8B31-9A3A5899872A",
+    "name": "MERGANGSAN",
+    "initial": "K"
+  },
+  {
+    "id": "D6F7840A-78BB-474B-978B-B285E241CE74",
+    "city_id": "9D91A436-57F5-472B-8B31-9A3A5899872A",
+    "name": "UMBULHARJO",
+    "initial": "K"
+  },
+  {
+    "id": "A9EF0EB5-50A1-4120-AF4E-2356F039329E",
+    "city_id": "9D91A436-57F5-472B-8B31-9A3A5899872A",
+    "name": "KOTAGEDE",
+    "initial": "K"
+  },
+  {
+    "id": "EC76951C-593A-4C93-B632-86DA42CC55DD",
+    "city_id": "A5362403-D059-4F8E-951D-B7A669A19EB5",
+    "name": "KASIHAN",
+    "initial": "K"
+  },
+  {
+    "id": "E9D67097-3C80-4135-BB0D-61270D1A234D",
+    "city_id": "A5362403-D059-4F8E-951D-B7A669A19EB5",
+    "name": "SEWON",
+    "initial": "K"
+  },
+  {
+    "id": "22AB2916-96AE-44CB-8002-8F649221B7E7",
+    "city_id": "A5362403-D059-4F8E-951D-B7A669A19EB5",
+    "name": "BANGUNTAPAN",
+    "initial": "K"
+  },
+  {
+    "id": "0CA5A921-8177-4EBE-8495-7329FAEB372A",
+    "city_id": "9D91A436-57F5-472B-8B31-9A3A5899872A",
+    "name": "DANUREJAN",
+    "initial": "K"
+  },
+  {
+    "id": "BC298940-B4AA-4F28-931A-F72A564A1016",
+    "city_id": "9D91A436-57F5-472B-8B31-9A3A5899872A",
+    "name": "GONDOKUSUMAN",
+    "initial": "K"
+  },
+  {
+    "id": "701ECD61-972E-41B5-BAF4-51C1730F0146",
+    "city_id": "9D91A436-57F5-472B-8B31-9A3A5899872A",
+    "name": "JETIS",
+    "initial": "K"
+  },
+  {
+    "id": "7F29E1F0-B257-4400-82A2-246779AEDBD7",
+    "city_id": "9D91A436-57F5-472B-8B31-9A3A5899872A",
+    "name": "TEGALREJO",
+    "initial": "K"
+  },
+  {
+    "id": "0E57038B-A3F2-4321-B2C3-DE0D2FC5A6D8",
+    "city_id": "9D91A436-57F5-472B-8B31-9A3A5899872A",
+    "name": "WIROBRAJAN",
+    "initial": "K"
+  },
+  {
+    "id": "3E1D4F0B-FBB6-440C-96DF-3DCF75175685",
+    "city_id": "9D91A436-57F5-472B-8B31-9A3A5899872A",
+    "name": "NGAMPILAN",
+    "initial": "K"
+  },
+  {
+    "id": "131BA1E8-00E8-49E0-94A2-5D762208874B",
+    "city_id": "9D91A436-57F5-472B-8B31-9A3A5899872A",
+    "name": "GEDONGTENGEN",
+    "initial": "K"
+  },
+  {
+    "id": "0F1F1B11-53EE-4BC4-80AC-7C64A23D19F2",
+    "city_id": "0D12B2FC-AE81-4D38-8D15-A60E29A7C3C5",
+    "name": "DEPOK",
+    "initial": "K"
+  },
+  {
+    "id": "10845D9B-9B9F-49B0-9AF8-041B83C2E02F",
+    "city_id": "0D12B2FC-AE81-4D38-8D15-A60E29A7C3C5",
+    "name": "MLATI",
+    "initial": "K"
+  },
+  {
+    "id": "54EA7094-0677-4D98-8E6E-3450BC1545A6",
+    "city_id": "0D12B2FC-AE81-4D38-8D15-A60E29A7C3C5",
+    "name": "GAMPING",
+    "initial": "K"
+  },
+  {
+    "id": "DA28C178-7921-403D-8CF7-BA0E89FFB8B0",
+    "city_id": "0D12B2FC-AE81-4D38-8D15-A60E29A7C3C5",
+    "name": "SLEMAN",
+    "initial": "K"
+  },
+  {
+    "id": "6F8570E7-7A73-4687-8585-61646661ADB1",
+    "city_id": "0D12B2FC-AE81-4D38-8D15-A60E29A7C3C5",
+    "name": "KALASAN",
+    "initial": "K"
+  },
+  {
+    "id": "0D0092B6-5632-4FBD-86FF-76D73595EBE4",
+    "city_id": "0D12B2FC-AE81-4D38-8D15-A60E29A7C3C5",
+    "name": "PRAMBANAN",
+    "initial": "K"
+  },
+  {
+    "id": "9C7957CD-B875-41B3-911D-99E500378CD4",
+    "city_id": "0D12B2FC-AE81-4D38-8D15-A60E29A7C3C5",
+    "name": "BERBAH",
+    "initial": "K"
+  },
+  {
+    "id": "A5584F48-5B63-4F0A-B7F3-7C02A4C76578",
+    "city_id": "0D12B2FC-AE81-4D38-8D15-A60E29A7C3C5",
+    "name": "NGAGLIK",
+    "initial": "K"
+  },
+  {
+    "id": "97AF8484-F8EC-418A-9A2B-ABB62E98BD2C",
+    "city_id": "0D12B2FC-AE81-4D38-8D15-A60E29A7C3C5",
+    "name": "NGEMPLAK",
+    "initial": "K"
+  },
+  {
+    "id": "3215A25B-CE4C-4667-8E20-DAD9D90BF1E2",
+    "city_id": "A5362403-D059-4F8E-951D-B7A669A19EB5",
+    "name": "BANTUL",
+    "initial": "K"
+  },
+  {
+    "id": "DE1F3554-341E-47C8-BFA2-F9CB45811C56",
+    "city_id": "214D672C-206A-4735-9FA6-4CCC74A8D832",
+    "name": "WONOSARI",
+    "initial": "K"
+  },
+  {
+    "id": "7ADB536B-C49A-45F2-B752-95F16BA44B3D",
+    "city_id": "214D672C-206A-4735-9FA6-4CCC74A8D832",
+    "name": "PLAYEN",
+    "initial": "K"
+  },
+  {
+    "id": "B6B36774-D90E-4190-9015-44C666704E2E",
+    "city_id": "9AA2CEBC-16C4-4262-A94E-DFFF00102864",
+    "name": "MAGELANG TENGAH",
+    "initial": "K"
+  },
+  {
+    "id": "01B1C56A-1CE1-4FEF-93D2-264FBEEAB71A",
+    "city_id": "9AA2CEBC-16C4-4262-A94E-DFFF00102864",
+    "name": "MAGELANG UTARA",
+    "initial": "K"
+  },
+  {
+    "id": "E3AC57D8-C11C-41F5-B671-9C5FBC8E0D4C",
+    "city_id": "9AA2CEBC-16C4-4262-A94E-DFFF00102864",
+    "name": "MAGELANG SELATAN",
+    "initial": "K"
+  },
+  {
+    "id": "7AEAE942-A63E-47B4-AFD9-1989E18AF5F8",
+    "city_id": "92F6897B-4E9F-4732-B52C-398A9AA1BFA3",
+    "name": "BANDONGAN",
+    "initial": "K"
+  },
+  {
+    "id": "B3593DAA-E335-4966-B8DC-9B3617DC92A5",
+    "city_id": "92F6897B-4E9F-4732-B52C-398A9AA1BFA3",
+    "name": "MERTOYUDAN",
+    "initial": "K"
+  },
+  {
+    "id": "B36B2737-8DF3-4521-A44B-54AAC72C84C3",
+    "city_id": "92F6897B-4E9F-4732-B52C-398A9AA1BFA3",
+    "name": "MUNTILAN",
+    "initial": "K"
+  },
+  {
+    "id": "1518C6FB-A516-46E7-8496-6F536021D35F",
+    "city_id": "92F6897B-4E9F-4732-B52C-398A9AA1BFA3",
+    "name": "MUNGKID",
+    "initial": "K"
+  },
+  {
+    "id": "D45BDA2D-338A-4D8E-9EB6-8C747CD118BB",
+    "city_id": "8018589F-B7C2-4E06-9CFC-844A8F8922F2",
+    "name": "PASAR KLIWON",
+    "initial": "K"
+  },
+  {
+    "id": "034DC745-5058-4F75-B83C-FE0931D5D0DB",
+    "city_id": "8018589F-B7C2-4E06-9CFC-844A8F8922F2",
+    "name": "JEBRES",
+    "initial": "K"
+  },
+  {
+    "id": "C5BE3CFF-B480-417B-949C-3F191137AE4E",
+    "city_id": "8018589F-B7C2-4E06-9CFC-844A8F8922F2",
+    "name": "BANJARSARI",
+    "initial": "K"
+  },
+  {
+    "id": "591CE215-DC18-4C39-92B1-E44C1E9AED18",
+    "city_id": "8018589F-B7C2-4E06-9CFC-844A8F8922F2",
+    "name": "LAWEYAN",
+    "initial": "K"
+  },
+  {
+    "id": "BD9FDB50-E462-4118-A44A-DB10B07F6FD0",
+    "city_id": "8018589F-B7C2-4E06-9CFC-844A8F8922F2",
+    "name": "SERENGAN",
+    "initial": "K"
+  },
+  {
+    "id": "9FEA3E12-ECAD-4D1C-B337-0A740AE4BE20",
+    "city_id": "0ED15940-7D96-46FC-A07E-1F858803DF5B",
+    "name": "KARTASURA",
+    "initial": "K"
+  },
+  {
+    "id": "21308AEB-CE01-47D9-971A-06C4AA7D3374",
+    "city_id": "00AAC39D-DC46-4E3E-AA01-8ABA440BBAA8",
+    "name": "COLOMADU",
+    "initial": "K"
+  },
+  {
+    "id": "EBA012DC-20F3-4923-BC94-7E95FBDFFAF6",
+    "city_id": "0CD8B9C1-3840-44AE-9131-BF91B51CB349",
+    "name": "BOYOLALI",
+    "initial": "K"
+  },
+  {
+    "id": "7E05A62C-8F95-4597-95E3-B37927218950",
+    "city_id": "0CD8B9C1-3840-44AE-9131-BF91B51CB349",
+    "name": "KARANGGEDE",
+    "initial": "K"
+  },
+  {
+    "id": "359A9AE8-8292-4DF4-8824-4DE80FD30684",
+    "city_id": "0CD8B9C1-3840-44AE-9131-BF91B51CB349",
+    "name": "AMPEL",
+    "initial": "K"
+  },
+  {
+    "id": "D58446F6-1BF4-4FFD-8206-980AD4A180C5",
+    "city_id": "0CD8B9C1-3840-44AE-9131-BF91B51CB349",
+    "name": "MOJOSONGO",
+    "initial": "K"
+  },
+  {
+    "id": "EECA8015-520B-408F-8800-E3252774117D",
+    "city_id": "0CD8B9C1-3840-44AE-9131-BF91B51CB349",
+    "name": "MUSUK",
+    "initial": "K"
+  },
+  {
+    "id": "14A81CCB-0432-409D-81FC-F3A9557F51A2",
+    "city_id": "0CD8B9C1-3840-44AE-9131-BF91B51CB349",
+    "name": "CEPOGO",
+    "initial": "K"
+  },
+  {
+    "id": "F3E4D86A-2CA6-4B30-B200-7EF02C45A68E",
+    "city_id": "0CD8B9C1-3840-44AE-9131-BF91B51CB349",
+    "name": "SELO",
+    "initial": "K"
+  },
+  {
+    "id": "B8AA307E-5736-4E83-9044-BDC657179321",
+    "city_id": "0CD8B9C1-3840-44AE-9131-BF91B51CB349",
+    "name": "TERAS",
+    "initial": "K"
+  },
+  {
+    "id": "F1EEDB56-349D-42D9-BCE3-FFBB07FFD858",
+    "city_id": "0CD8B9C1-3840-44AE-9131-BF91B51CB349",
+    "name": "BANYUDONO",
+    "initial": "K"
+  },
+  {
+    "id": "42F4051F-1208-4393-BB49-617B086E9683",
+    "city_id": "0CD8B9C1-3840-44AE-9131-BF91B51CB349",
+    "name": "SAWIT",
+    "initial": "K"
+  },
+  {
+    "id": "3C590C05-7F15-47EE-A19B-467C3FB651B7",
+    "city_id": "0CD8B9C1-3840-44AE-9131-BF91B51CB349",
+    "name": "NGEMPLAK",
+    "initial": "K"
+  },
+  {
+    "id": "00E8D9B5-C378-492A-BC8F-3F6589119DE6",
+    "city_id": "0CD8B9C1-3840-44AE-9131-BF91B51CB349",
+    "name": "SAMBI",
+    "initial": "K"
+  },
+  {
+    "id": "86A953B3-293C-4A42-8286-B8BBC7CBB2A7",
+    "city_id": "0CD8B9C1-3840-44AE-9131-BF91B51CB349",
+    "name": "SIMO",
+    "initial": "K"
+  },
+  {
+    "id": "09CB7F37-C4BD-4582-91FA-C09A4A310922",
+    "city_id": "0CD8B9C1-3840-44AE-9131-BF91B51CB349",
+    "name": "NOGOSARI",
+    "initial": "K"
+  },
+  {
+    "id": "D00ABF5B-5F07-42A3-AD55-F25EF35517D6",
+    "city_id": "0CD8B9C1-3840-44AE-9131-BF91B51CB349",
+    "name": "WONOSEGORO",
+    "initial": "K"
+  },
+  {
+    "id": "9C7747EE-2D62-4B1C-9986-1F955D460D49",
+    "city_id": "0CD8B9C1-3840-44AE-9131-BF91B51CB349",
+    "name": "KEMUSU",
+    "initial": "K"
+  },
+  {
+    "id": "E2A332C1-030E-4A4B-858E-8242A34193A7",
+    "city_id": "0CD8B9C1-3840-44AE-9131-BF91B51CB349",
+    "name": "ANDONG",
+    "initial": "K"
+  },
+  {
+    "id": "C899FD56-490D-45EE-9756-FB7D86041353",
+    "city_id": "0CD8B9C1-3840-44AE-9131-BF91B51CB349",
+    "name": "KLEGO",
+    "initial": "K"
+  },
+  {
+    "id": "28115426-7CF5-4F43-A1BB-0107ED8289EA",
+    "city_id": "0CD8B9C1-3840-44AE-9131-BF91B51CB349",
+    "name": "JUWANGI",
+    "initial": "K"
+  },
+  {
+    "id": "8252F12C-A2F1-4EEB-831B-D054877DE848",
+    "city_id": "E37F79D9-0A08-4336-B7C2-33CF389BCDA1",
+    "name": "PRAMBANAN",
+    "initial": "K"
+  },
+  {
+    "id": "896050E9-7061-422F-B024-F42FDF796A52",
+    "city_id": "0ED15940-7D96-46FC-A07E-1F858803DF5B",
+    "name": "GROGOL",
+    "initial": "K"
+  },
+  {
+    "id": "7A14D74C-A491-433C-B5F7-0B5A5740F0C7",
+    "city_id": "0ED15940-7D96-46FC-A07E-1F858803DF5B",
+    "name": "MOJOLABAN",
+    "initial": "K"
+  },
+  {
+    "id": "D89987A3-575E-403C-8418-749982F5B2EA",
+    "city_id": "0ED15940-7D96-46FC-A07E-1F858803DF5B",
+    "name": "BAKI",
+    "initial": "K"
+  },
+  {
+    "id": "54795575-33A2-41A7-B673-131852CC4F4F",
+    "city_id": "F78259B8-0C57-4E98-A366-D5C62518E051",
+    "name": "BLORA",
+    "initial": "K"
+  },
+  {
+    "id": "4B68474C-495A-480E-81CE-96667741FE6E",
+    "city_id": "F78259B8-0C57-4E98-A366-D5C62518E051",
+    "name": "KOTA BLORA",
+    "initial": "K"
+  },
+  {
+    "id": "9D1489C8-A94D-4AB5-9F76-CDFBABE528E5",
+    "city_id": "F78259B8-0C57-4E98-A366-D5C62518E051",
+    "name": "TUNJUNGAN",
+    "initial": "K"
+  },
+  {
+    "id": "F5991D4C-2D00-4AE0-BCDC-816271DB7C9B",
+    "city_id": "F78259B8-0C57-4E98-A366-D5C62518E051",
+    "name": "BANJAREJO",
+    "initial": "K"
+  },
+  {
+    "id": "686FE156-BA36-4F38-8D50-EA06AC8C0545",
+    "city_id": "F78259B8-0C57-4E98-A366-D5C62518E051",
+    "name": "NGAWEN",
+    "initial": "K"
+  },
+  {
+    "id": "B47F0FAB-2BCB-4B6B-AB96-757AB1B793BC",
+    "city_id": "F78259B8-0C57-4E98-A366-D5C62518E051",
+    "name": "KUNDURAN",
+    "initial": "K"
+  },
+  {
+    "id": "DFE6E1CA-CE9A-45F4-816D-75229CB6147D",
+    "city_id": "F78259B8-0C57-4E98-A366-D5C62518E051",
+    "name": "TODANAN",
+    "initial": "K"
+  },
+  {
+    "id": "EFE4E53B-73E0-4900-9A5A-C02F40261992",
+    "city_id": "F78259B8-0C57-4E98-A366-D5C62518E051",
+    "name": "JAPAH",
+    "initial": "K"
+  },
+  {
+    "id": "178ED730-9BF6-4378-8E8F-136716B24FBC",
+    "city_id": "F78259B8-0C57-4E98-A366-D5C62518E051",
+    "name": "JEPON",
+    "initial": "K"
+  },
+  {
+    "id": "6DD026AE-5381-48A5-8835-A30432822EC5",
+    "city_id": "F78259B8-0C57-4E98-A366-D5C62518E051",
+    "name": "BOGOREJO",
+    "initial": "K"
+  },
+  {
+    "id": "17305B81-35D6-4CA1-A7E0-12A581540AF7",
+    "city_id": "F78259B8-0C57-4E98-A366-D5C62518E051",
+    "name": "CEPU",
+    "initial": "K"
+  },
+  {
+    "id": "F35E8FCD-E417-4F9A-9F0E-8DA7752A5E40",
+    "city_id": "F78259B8-0C57-4E98-A366-D5C62518E051",
+    "name": "SAMBONG",
+    "initial": "K"
+  },
+  {
+    "id": "582D1E46-8CBF-4C7A-B7E1-1C5DC2B5CB9C",
+    "city_id": "F78259B8-0C57-4E98-A366-D5C62518E051",
+    "name": "JIKEN",
+    "initial": "K"
+  },
+  {
+    "id": "113C8727-67B6-4730-B833-B5972F55768F",
+    "city_id": "F78259B8-0C57-4E98-A366-D5C62518E051",
+    "name": "KEDUNGTUBAN",
+    "initial": "K"
+  },
+  {
+    "id": "0A8792E2-D2D9-406A-9EC1-D55C9BE3C794",
+    "city_id": "F78259B8-0C57-4E98-A366-D5C62518E051",
+    "name": "RANDUBLATUNG",
+    "initial": "K"
+  },
+  {
+    "id": "3E2E7B7A-3159-4A73-9081-57748539C384",
+    "city_id": "F78259B8-0C57-4E98-A366-D5C62518E051",
+    "name": "KRADENAN",
+    "initial": "K"
+  },
+  {
+    "id": "6DF75E44-735D-4629-AB16-A8E7ECCBB9A3",
+    "city_id": "F78259B8-0C57-4E98-A366-D5C62518E051",
+    "name": "JATI",
+    "initial": "K"
+  },
+  {
+    "id": "938AD534-C6CE-4D4C-B7BA-9CE1AD448F2B",
+    "city_id": "F0ADD342-F085-4749-8D79-5FC837C1CD33",
+    "name": "PATI",
+    "initial": "K"
+  },
+  {
+    "id": "8FE6E5CB-46A9-485A-8826-12DCC89176F2",
+    "city_id": "F0ADD342-F085-4749-8D79-5FC837C1CD33",
+    "name": "WEDARIJAKSA",
+    "initial": "K"
+  },
+  {
+    "id": "C1F6A99F-592F-4146-97C1-D7DF3F1105E3",
+    "city_id": "F0ADD342-F085-4749-8D79-5FC837C1CD33",
+    "name": "TRANGKIL",
+    "initial": "K"
+  },
+  {
+    "id": "BDB9538C-A674-49A0-A73F-0A504E054A59",
+    "city_id": "F0ADD342-F085-4749-8D79-5FC837C1CD33",
+    "name": "MARGOYOSO",
+    "initial": "K"
+  },
+  {
+    "id": "928B1601-D9E1-4CB7-B957-7066D6F77375",
+    "city_id": "F0ADD342-F085-4749-8D79-5FC837C1CD33",
+    "name": "TAYU",
+    "initial": "K"
+  },
+  {
+    "id": "419DD03F-8B97-4C57-94AF-F1A6DCAAB76D",
+    "city_id": "F0ADD342-F085-4749-8D79-5FC837C1CD33",
+    "name": "GUNUNGWUNGKAL",
+    "initial": "K"
+  },
+  {
+    "id": "4444CD90-0104-40D4-A822-60797C97074F",
+    "city_id": "F0ADD342-F085-4749-8D79-5FC837C1CD33",
+    "name": "CLUWAK",
+    "initial": "K"
+  },
+  {
+    "id": "9C654134-F6C7-4089-9BD3-E4DC74280897",
+    "city_id": "F0ADD342-F085-4749-8D79-5FC837C1CD33",
+    "name": "DUKUHSETI",
+    "initial": "K"
+  },
+  {
+    "id": "4A657B4E-EF69-4E1C-9164-CF84B9545EE9",
+    "city_id": "F0ADD342-F085-4749-8D79-5FC837C1CD33",
+    "name": "TLOGOWUNGU",
+    "initial": "K"
+  },
+  {
+    "id": "FA5711D9-A426-4F73-82FA-D7E3C55924B7",
+    "city_id": "F0ADD342-F085-4749-8D79-5FC837C1CD33",
+    "name": "GEMBONG",
+    "initial": "K"
+  },
+  {
+    "id": "D345A3D8-3614-4D34-B06E-370BD627CDA0",
+    "city_id": "F0ADD342-F085-4749-8D79-5FC837C1CD33",
+    "name": "MARGOREJO",
+    "initial": "K"
+  },
+  {
+    "id": "B04F0123-1669-4EF7-B1BB-790F42D79571",
+    "city_id": "F0ADD342-F085-4749-8D79-5FC837C1CD33",
+    "name": "KAYEN",
+    "initial": "K"
+  },
+  {
+    "id": "20315D22-72F1-4AA6-84E1-22CDEB35BE2A",
+    "city_id": "F0ADD342-F085-4749-8D79-5FC837C1CD33",
+    "name": "SUKOLILO",
+    "initial": "K"
+  },
+  {
+    "id": "9565F4F9-43B4-449E-88AB-054800E89080",
+    "city_id": "F0ADD342-F085-4749-8D79-5FC837C1CD33",
+    "name": "GABUS",
+    "initial": "K"
+  },
+  {
+    "id": "BBF63544-0265-454B-BE56-A67FDCB36AD7",
+    "city_id": "F0ADD342-F085-4749-8D79-5FC837C1CD33",
+    "name": "TAMBAKROMO",
+    "initial": "K"
+  },
+  {
+    "id": "14E41D28-DE9A-4C82-9E4A-71645C60E92A",
+    "city_id": "F0ADD342-F085-4749-8D79-5FC837C1CD33",
+    "name": "WINONG",
+    "initial": "K"
+  },
+  {
+    "id": "A6678AE0-7ABC-4152-A145-5C05BE485876",
+    "city_id": "F0ADD342-F085-4749-8D79-5FC837C1CD33",
+    "name": "JAKENAN",
+    "initial": "K"
+  },
+  {
+    "id": "948BE8C9-B4F6-4B4B-A61F-788FF3C8E9E6",
+    "city_id": "F0ADD342-F085-4749-8D79-5FC837C1CD33",
+    "name": "PUCAKWANGI",
+    "initial": "K"
+  },
+  {
+    "id": "FFDF83E2-941F-4A54-BBE6-2226ED4FCC5C",
+    "city_id": "F0ADD342-F085-4749-8D79-5FC837C1CD33",
+    "name": "JAKEN",
+    "initial": "K"
+  },
+  {
+    "id": "115E45E1-BB06-44BD-A03B-17F39D694FCE",
+    "city_id": "F0ADD342-F085-4749-8D79-5FC837C1CD33",
+    "name": "JUWANA",
+    "initial": "K"
+  },
+  {
+    "id": "8DF18226-CE95-4636-9DA5-9412D6F0EF2E",
+    "city_id": "F0ADD342-F085-4749-8D79-5FC837C1CD33",
+    "name": "BATANGAN",
+    "initial": "K"
+  },
+  {
+    "id": "9B977C9A-0BC3-47A2-BB71-E693A5A2DB7A",
+    "city_id": "511BCFA7-4FA4-4069-877C-EEA1400E72AA",
+    "name": "KOTA KUDUS",
+    "initial": "K"
+  },
+  {
+    "id": "A908A881-A251-4A1F-A8D5-CFD57CE501FD",
+    "city_id": "511BCFA7-4FA4-4069-877C-EEA1400E72AA",
+    "name": "BAE",
+    "initial": "K"
+  },
+  {
+    "id": "C7D820BD-E316-4E84-A063-69D19F1E583A",
+    "city_id": "511BCFA7-4FA4-4069-877C-EEA1400E72AA",
+    "name": "KALIWUNGU",
+    "initial": "K"
+  },
+  {
+    "id": "1CF0366A-C713-4B70-AEA1-65B1030AC9BB",
+    "city_id": "511BCFA7-4FA4-4069-877C-EEA1400E72AA",
+    "name": "GEBOG",
+    "initial": "K"
+  },
+  {
+    "id": "BEE3C232-FA5B-4C6C-A34C-462CACC26FDE",
+    "city_id": "511BCFA7-4FA4-4069-877C-EEA1400E72AA",
+    "name": "JATI",
+    "initial": "K"
+  },
+  {
+    "id": "8A37483C-72B7-4244-9A7F-C39D5D526FE1",
+    "city_id": "511BCFA7-4FA4-4069-877C-EEA1400E72AA",
+    "name": "DAWE",
+    "initial": "K"
+  },
+  {
+    "id": "404094B9-37D4-4F27-8A6E-00A68ABAB7FF",
+    "city_id": "511BCFA7-4FA4-4069-877C-EEA1400E72AA",
+    "name": "UNDAAN",
+    "initial": "K"
+  },
+  {
+    "id": "142D8643-076C-48D3-8712-99B3B8D8C7A1",
+    "city_id": "511BCFA7-4FA4-4069-877C-EEA1400E72AA",
+    "name": "MEJOBO",
+    "initial": "K"
+  },
+  {
+    "id": "E38BE093-4CFD-4980-80A4-0971FBCFA759",
+    "city_id": "511BCFA7-4FA4-4069-877C-EEA1400E72AA",
+    "name": "JEKULO",
+    "initial": "K"
+  },
+  {
+    "id": "0780C560-F6CA-4FEB-9604-0E53979E969B",
+    "city_id": "213A15D2-5A1F-4CE0-8E7E-D1348295B7E4",
+    "name": "JEPARA",
+    "initial": "K"
+  },
+  {
+    "id": "047809DE-6894-4010-A792-E75F928A086C",
+    "city_id": "213A15D2-5A1F-4CE0-8E7E-D1348295B7E4",
+    "name": "TAHUNAN",
+    "initial": "K"
+  },
+  {
+    "id": "54156688-FA28-4D74-BE2B-CA8FD7522665",
+    "city_id": "213A15D2-5A1F-4CE0-8E7E-D1348295B7E4",
+    "name": "PAKIS AJI",
+    "initial": "K"
+  },
+  {
+    "id": "49DD1101-AE2D-41B4-AFDD-8FD5AD7ADB0C",
+    "city_id": "213A15D2-5A1F-4CE0-8E7E-D1348295B7E4",
+    "name": "MLONGGO",
+    "initial": "K"
+  },
+  {
+    "id": "5CC4C360-773D-4A2E-AD9B-B81B95ED67CB",
+    "city_id": "213A15D2-5A1F-4CE0-8E7E-D1348295B7E4",
+    "name": "BANGSRI",
+    "initial": "K"
+  },
+  {
+    "id": "922F95A9-7105-4F85-BE83-B8BE5D300DE5",
+    "city_id": "213A15D2-5A1F-4CE0-8E7E-D1348295B7E4",
+    "name": "DONOROJO",
+    "initial": "K"
+  },
+  {
+    "id": "A105750C-650B-4936-B0B0-403C76F691FC",
+    "city_id": "213A15D2-5A1F-4CE0-8E7E-D1348295B7E4",
+    "name": "KARIMUN JAWA",
+    "initial": "K"
+  },
+  {
+    "id": "9822AA2E-AD6C-4304-80BD-2C9077FFCC7F",
+    "city_id": "213A15D2-5A1F-4CE0-8E7E-D1348295B7E4",
+    "name": "KELING",
+    "initial": "K"
+  },
+  {
+    "id": "AA54D229-E162-4C01-B69C-1BE994D795BC",
+    "city_id": "213A15D2-5A1F-4CE0-8E7E-D1348295B7E4",
+    "name": "KEMBANG",
+    "initial": "K"
+  },
+  {
+    "id": "AE3986E1-6A6E-49D2-80F3-B057B5198CBC",
+    "city_id": "213A15D2-5A1F-4CE0-8E7E-D1348295B7E4",
+    "name": "PECANGAAN",
+    "initial": "K"
+  },
+  {
+    "id": "C6E0680F-CCEC-4A00-BDC9-C3889F3F58C1",
+    "city_id": "213A15D2-5A1F-4CE0-8E7E-D1348295B7E4",
+    "name": "BATEALIT",
+    "initial": "K"
+  },
+  {
+    "id": "38E10AEB-2245-4143-9CBC-18560E4B21C5",
+    "city_id": "213A15D2-5A1F-4CE0-8E7E-D1348295B7E4",
+    "name": "KALINYAMATAN",
+    "initial": "K"
+  },
+  {
+    "id": "5DEAEB86-BE5D-4009-A31A-2DABBC9E18C2",
+    "city_id": "213A15D2-5A1F-4CE0-8E7E-D1348295B7E4",
+    "name": "KEDUNG",
+    "initial": "K"
+  },
+  {
+    "id": "6E2C9C00-4B81-42A4-A490-1CD2C205B320",
+    "city_id": "213A15D2-5A1F-4CE0-8E7E-D1348295B7E4",
+    "name": "WELAHAN",
+    "initial": "K"
+  },
+  {
+    "id": "65A37EBC-B8F5-4746-B011-0CF5858B9075",
+    "city_id": "213A15D2-5A1F-4CE0-8E7E-D1348295B7E4",
+    "name": "MAYONG",
+    "initial": "K"
+  },
+  {
+    "id": "4365E98C-AD40-4D19-B7BE-FF1A1709F73D",
+    "city_id": "213A15D2-5A1F-4CE0-8E7E-D1348295B7E4",
+    "name": "NALUMSARI",
+    "initial": "K"
+  },
+  {
+    "id": "6A8D7A8D-2F59-4D43-8E29-4EC39910EFC9",
+    "city_id": "7CDB8F33-9429-47E3-8567-AF648491C514",
+    "name": "DEMAK",
+    "initial": "K"
+  },
+  {
+    "id": "380274FC-7D8D-4A01-BC35-F0DE2BF558BB",
+    "city_id": "7CDB8F33-9429-47E3-8567-AF648491C514",
+    "name": "BONANG",
+    "initial": "K"
+  },
+  {
+    "id": "06AF0128-6B10-4CC2-A0CA-4D95785B0670",
+    "city_id": "7CDB8F33-9429-47E3-8567-AF648491C514",
+    "name": "WEDUNG",
+    "initial": "K"
+  },
+  {
+    "id": "8F07E6C0-1A6B-4834-A6C7-7DD9EF9D3256",
+    "city_id": "7CDB8F33-9429-47E3-8567-AF648491C514",
+    "name": "KARANGTENGAH",
+    "initial": "K"
+  },
+  {
+    "id": "5DF87C4A-3A1B-4818-9B92-7E96C72F330E",
+    "city_id": "7CDB8F33-9429-47E3-8567-AF648491C514",
+    "name": "SAYUNG",
+    "initial": "K"
+  },
+  {
+    "id": "6D749F4A-01DA-4064-99DD-9C02382C4766",
+    "city_id": "7CDB8F33-9429-47E3-8567-AF648491C514",
+    "name": "GUNTUR",
+    "initial": "K"
+  },
+  {
+    "id": "06A40382-871D-4CAF-B3AC-8B425E8DA582",
+    "city_id": "7CDB8F33-9429-47E3-8567-AF648491C514",
+    "name": "KARANGAWEN",
+    "initial": "K"
+  },
+  {
+    "id": "6D6062BD-92B2-4AA4-B6C5-F56DEA3CBB81",
+    "city_id": "7CDB8F33-9429-47E3-8567-AF648491C514",
+    "name": "MRANGGEN",
+    "initial": "K"
+  },
+  {
+    "id": "0CE27E27-DF31-4001-9411-A9DA88CE25F9",
+    "city_id": "7CDB8F33-9429-47E3-8567-AF648491C514",
+    "name": "WONOSALAM",
+    "initial": "K"
+  },
+  {
+    "id": "D6CE13E4-29EE-4FA2-828E-7680E2065969",
+    "city_id": "7CDB8F33-9429-47E3-8567-AF648491C514",
+    "name": "DEMPET",
+    "initial": "K"
+  },
+  {
+    "id": "F0947460-7817-43BB-8AA1-115B1589E10C",
+    "city_id": "7CDB8F33-9429-47E3-8567-AF648491C514",
+    "name": "GAJAH",
+    "initial": "K"
+  },
+  {
+    "id": "2250AFB7-16B8-4EA5-A442-2C716A966633",
+    "city_id": "7CDB8F33-9429-47E3-8567-AF648491C514",
+    "name": "KARANGANYAR",
+    "initial": "K"
+  },
+  {
+    "id": "7DF5E526-0ED0-45BB-B219-3A93D79794F6",
+    "city_id": "7CDB8F33-9429-47E3-8567-AF648491C514",
+    "name": "KEBONAGUNG",
+    "initial": "K"
+  },
+  {
+    "id": "03EAB583-0DBA-4D68-8F4B-B83154A85CEC",
+    "city_id": "7CDB8F33-9429-47E3-8567-AF648491C514",
+    "name": "MIJEN",
+    "initial": "K"
+  },
+  {
+    "id": "FD1C4A33-C51E-4DBA-825A-93ACD9BC2727",
+    "city_id": "6FA0075D-AF12-4051-BBBA-76EE74072F62",
+    "name": "SUKOLILO",
+    "initial": "K"
+  },
+  {
+    "id": "98E84674-EB26-4539-B89A-59B8D9E1A223",
+    "city_id": "6FA0075D-AF12-4051-BBBA-76EE74072F62",
+    "name": "MULYOREJO",
+    "initial": "K"
+  },
+  {
+    "id": "35C6636C-622B-472C-9986-1EAE10195067",
+    "city_id": "6FA0075D-AF12-4051-BBBA-76EE74072F62",
+    "name": "BULAK",
+    "initial": "K"
+  },
+  {
+    "id": "26EF036A-9B4C-4739-85FA-1555C12F9E12",
+    "city_id": "6FA0075D-AF12-4051-BBBA-76EE74072F62",
+    "name": "KENJERAN",
+    "initial": "K"
+  },
+  {
+    "id": "16B3650A-7B82-4DB0-840B-CAB57CA042AF",
+    "city_id": "6FA0075D-AF12-4051-BBBA-76EE74072F62",
+    "name": "TAMBAKSARI",
+    "initial": "K"
+  },
+  {
+    "id": "DB871AD0-B113-4BCE-86BC-29DF30D67D6E",
+    "city_id": "6FA0075D-AF12-4051-BBBA-76EE74072F62",
+    "name": "SIMOKERTO",
+    "initial": "K"
+  },
+  {
+    "id": "1260AED2-0B06-4A63-A092-5B1EAAE680CF",
+    "city_id": "6FA0075D-AF12-4051-BBBA-76EE74072F62",
+    "name": "SEMAMPIR",
+    "initial": "K"
+  },
+  {
+    "id": "E82FD245-6307-4851-A6FE-3A5678F9D9F6",
+    "city_id": "6FA0075D-AF12-4051-BBBA-76EE74072F62",
+    "name": "PABEAN CANTIKAN",
+    "initial": "K"
+  },
+  {
+    "id": "075C8600-8841-45D3-9C2D-A9B81DB8C8BD",
+    "city_id": "6FA0075D-AF12-4051-BBBA-76EE74072F62",
+    "name": "BUBUTAN",
+    "initial": "K"
+  },
+  {
+    "id": "3921106C-D5BC-43EA-A05A-3F24BF9838C3",
+    "city_id": "6FA0075D-AF12-4051-BBBA-76EE74072F62",
+    "name": "KREMBANGAN",
+    "initial": "K"
+  },
+  {
+    "id": "E5E5ACE3-AF83-49AE-B66D-DB255B7F6A9C",
+    "city_id": "6FA0075D-AF12-4051-BBBA-76EE74072F62",
+    "name": "ASEMROWO",
+    "initial": "K"
+  },
+  {
+    "id": "BC878ACB-D4BE-46CB-973C-468832643910",
+    "city_id": "6FA0075D-AF12-4051-BBBA-76EE74072F62",
+    "name": "TANDES",
+    "initial": "K"
+  },
+  {
+    "id": "CAAFF4B4-395A-43FB-B66B-C2572010E6FD",
+    "city_id": "6FA0075D-AF12-4051-BBBA-76EE74072F62",
+    "name": "SUKOMANUNGGAL",
+    "initial": "K"
+  },
+  {
+    "id": "C4D495BD-1469-4911-8D01-AF6CE90BF738",
+    "city_id": "6FA0075D-AF12-4051-BBBA-76EE74072F62",
+    "name": "BENOWO",
+    "initial": "K"
+  },
+  {
+    "id": "E9860F71-32C3-4874-8F66-8D745D4562B2",
+    "city_id": "6FA0075D-AF12-4051-BBBA-76EE74072F62",
+    "name": "PAKAL",
+    "initial": "K"
+  },
+  {
+    "id": "3A731BC7-063E-486A-B6E5-CC2EC269FA65",
+    "city_id": "6FA0075D-AF12-4051-BBBA-76EE74072F62",
+    "name": "LAKARSANTRI",
+    "initial": "K"
+  },
+  {
+    "id": "B49D1524-D128-46E5-B58F-5BD427386BC4",
+    "city_id": "6FA0075D-AF12-4051-BBBA-76EE74072F62",
+    "name": "SAMBIKEREP",
+    "initial": "K"
+  },
+  {
+    "id": "FA267EDB-7110-4D96-A8DD-015E6033C8B8",
+    "city_id": "6FA0075D-AF12-4051-BBBA-76EE74072F62",
+    "name": "KARANGPILANG",
+    "initial": "K"
+  },
+  {
+    "id": "220CE4F2-ABE0-4DB9-BEEF-CEC8D82757C2",
+    "city_id": "6FA0075D-AF12-4051-BBBA-76EE74072F62",
+    "name": "WIYUNG",
+    "initial": "K"
+  },
+  {
+    "id": "9885876F-9390-4448-B6EF-CDF53E85BF67",
+    "city_id": "6FA0075D-AF12-4051-BBBA-76EE74072F62",
+    "name": "DUKUHPAKIS",
+    "initial": "K"
+  },
+  {
+    "id": "0D945E48-B96C-40BF-B6D1-88D0ECF15435",
+    "city_id": "6FA0075D-AF12-4051-BBBA-76EE74072F62",
+    "name": "GAYUNGAN",
+    "initial": "K"
+  },
+  {
+    "id": "C8D6C88A-F9CD-49E7-B0D2-9C55BDD39118",
+    "city_id": "6FA0075D-AF12-4051-BBBA-76EE74072F62",
+    "name": "JAMBANGAN",
+    "initial": "K"
+  },
+  {
+    "id": "5FFCD113-3952-4FA9-A5C8-D4962857A7F7",
+    "city_id": "6FA0075D-AF12-4051-BBBA-76EE74072F62",
+    "name": "WONOCOLO",
+    "initial": "K"
+  },
+  {
+    "id": "AC1826F2-11B5-4A6E-9CBE-2B3DD2AFDF50",
+    "city_id": "6FA0075D-AF12-4051-BBBA-76EE74072F62",
+    "name": "WONOKROMO",
+    "initial": "K"
+  },
+  {
+    "id": "039C23C0-0B16-4AAF-BE21-08C2FFA27D6D",
+    "city_id": "6FA0075D-AF12-4051-BBBA-76EE74072F62",
+    "name": "SAWAHAN",
+    "initial": "K"
+  },
+  {
+    "id": "69C2D436-C073-4171-9290-116ABCAD8401",
+    "city_id": "6FA0075D-AF12-4051-BBBA-76EE74072F62",
+    "name": "TEGALSARI",
+    "initial": "K"
+  },
+  {
+    "id": "306D2C05-D870-4323-9533-4FC894E1AABF",
+    "city_id": "6FA0075D-AF12-4051-BBBA-76EE74072F62",
+    "name": "GENTENG",
+    "initial": "K"
+  },
+  {
+    "id": "F813C8CF-8ED8-429D-8B1A-732513D4FC9C",
+    "city_id": "6FA0075D-AF12-4051-BBBA-76EE74072F62",
+    "name": "GUBENG",
+    "initial": "K"
+  },
+  {
+    "id": "DC528B0E-19A1-4842-A657-665BD52A9B62",
+    "city_id": "6FA0075D-AF12-4051-BBBA-76EE74072F62",
+    "name": "TENGGILIS MEJOYO",
+    "initial": "K"
+  },
+  {
+    "id": "E58D8F39-98DD-4600-A08D-E9F8C925D11A",
+    "city_id": "6FA0075D-AF12-4051-BBBA-76EE74072F62",
+    "name": "RUNGKUT",
+    "initial": "K"
+  },
+  {
+    "id": "8431996A-E26A-43E8-AFEC-0E8AEF47456A",
+    "city_id": "6FA0075D-AF12-4051-BBBA-76EE74072F62",
+    "name": "GUNUNG ANYAR",
+    "initial": "K"
+  },
+  {
+    "id": "165BF09F-3E2D-4693-986F-84259DF2664F",
+    "city_id": "AFFDE78D-599E-4422-9309-1E6A07E685CF",
+    "name": "GRESIK",
+    "initial": "K"
+  },
+  {
+    "id": "5ADAA711-D1A6-4001-8AFE-24498C131709",
+    "city_id": "AFFDE78D-599E-4422-9309-1E6A07E685CF",
+    "name": "KEBOMAS",
+    "initial": "K"
+  },
+  {
+    "id": "3AF45FB4-B1E9-43B5-AA30-337B363032C2",
+    "city_id": "AFFDE78D-599E-4422-9309-1E6A07E685CF",
+    "name": "MANYAR",
+    "initial": "K"
+  },
+  {
+    "id": "F29BB832-0C5B-4DD0-A36D-284128CB952F",
+    "city_id": "AFFDE78D-599E-4422-9309-1E6A07E685CF",
+    "name": "CERME",
+    "initial": "K"
+  },
+  {
+    "id": "11D13F19-6623-467C-855F-D814974AA47D",
+    "city_id": "AFFDE78D-599E-4422-9309-1E6A07E685CF",
+    "name": "DRIYOREJO",
+    "initial": "K"
+  },
+  {
+    "id": "0A1AD929-306C-48D3-B25D-544E14E44C20",
+    "city_id": "95725411-976C-4742-AD26-933C8B3028B0",
+    "name": "TAMAN",
+    "initial": "K"
+  },
+  {
+    "id": "86DA5958-5B13-4C06-822E-124F173CB749",
+    "city_id": "95725411-976C-4742-AD26-933C8B3028B0",
+    "name": "SIDOARJO",
+    "initial": "K"
+  },
+  {
+    "id": "089467BB-6CC1-40F6-ACA8-BE579400FB2C",
+    "city_id": "95725411-976C-4742-AD26-933C8B3028B0",
+    "name": "SUKODONO",
+    "initial": "K"
+  },
+  {
+    "id": "5015774A-6BF2-4335-84BB-27175F55EFD1",
+    "city_id": "95725411-976C-4742-AD26-933C8B3028B0",
+    "name": "BUDURAN",
+    "initial": "K"
+  },
+  {
+    "id": "F5EEB815-B8C9-43D0-BA45-6F1F037EB49E",
+    "city_id": "95725411-976C-4742-AD26-933C8B3028B0",
+    "name": "SEDATI",
+    "initial": "K"
+  },
+  {
+    "id": "2C060ECD-6888-4F82-B329-3DD16109A675",
+    "city_id": "95725411-976C-4742-AD26-933C8B3028B0",
+    "name": "GEDANGAN",
+    "initial": "K"
+  },
+  {
+    "id": "07EAB547-F058-47C4-912D-36AADDEF29F0",
+    "city_id": "95725411-976C-4742-AD26-933C8B3028B0",
+    "name": "WARU",
+    "initial": "K"
+  },
+  {
+    "id": "5E8474EC-D3B7-49FC-8E06-56A575CC045C",
+    "city_id": "95725411-976C-4742-AD26-933C8B3028B0",
+    "name": "WONOAYU",
+    "initial": "K"
+  },
+  {
+    "id": "2B24C4A2-A441-4181-A286-A2FACA626386",
+    "city_id": "95725411-976C-4742-AD26-933C8B3028B0",
+    "name": "KRIAN",
+    "initial": "K"
+  },
+  {
+    "id": "3A594E7F-E19F-477D-A390-7CC92A2B170A",
+    "city_id": "95725411-976C-4742-AD26-933C8B3028B0",
+    "name": "BALONGBENDO",
+    "initial": "K"
+  },
+  {
+    "id": "11197511-0EE7-47E8-B7B1-D552D8B21879",
+    "city_id": "95725411-976C-4742-AD26-933C8B3028B0",
+    "name": "CANDI",
+    "initial": "K"
+  },
+  {
+    "id": "6692E841-69F3-423C-BE54-E2257E87BC9C",
+    "city_id": "95725411-976C-4742-AD26-933C8B3028B0",
+    "name": "TANGGULANGIN",
+    "initial": "K"
+  },
+  {
+    "id": "22041426-4AE1-4D3C-B07F-3E55F49E9E88",
+    "city_id": "95725411-976C-4742-AD26-933C8B3028B0",
+    "name": "TULANGAN",
+    "initial": "K"
+  },
+  {
+    "id": "FCA69A48-74BE-402B-AE87-CDE32F1E988D",
+    "city_id": "95725411-976C-4742-AD26-933C8B3028B0",
+    "name": "PORONG",
+    "initial": "K"
+  },
+  {
+    "id": "845C0BAA-DE4F-478B-803B-5713B758BE80",
+    "city_id": "F0774536-0906-413D-968D-E186A61E2FF1",
+    "name": "KRANGGAN",
+    "initial": "K"
+  },
+  {
+    "id": "B6A0327B-28EA-43D9-B04C-2B347F63A284",
+    "city_id": "F0774536-0906-413D-968D-E186A61E2FF1",
+    "name": "MAGERSARI",
+    "initial": "K"
+  },
+  {
+    "id": "BFF3FFFF-50F6-4FED-B180-8357497D8C1A",
+    "city_id": "F0774536-0906-413D-968D-E186A61E2FF1",
+    "name": "PRAJURIT KULON",
+    "initial": "K"
+  },
+  {
+    "id": "E4B754F8-88D7-4E09-B07A-995A12B2E36C",
+    "city_id": "0F7B4310-3D52-4E28-B868-97908A3F856A",
+    "name": "SOOKO",
+    "initial": "K"
+  },
+  {
+    "id": "1C6C5833-533E-4A65-8FEB-9BE51DAE8B00",
+    "city_id": "0F7B4310-3D52-4E28-B868-97908A3F856A",
+    "name": "PURI",
+    "initial": "K"
+  },
+  {
+    "id": "4EF2F769-BC07-4042-9609-53F66B3B05EE",
+    "city_id": "0F7B4310-3D52-4E28-B868-97908A3F856A",
+    "name": "MOJOANYAR",
+    "initial": "K"
+  },
+  {
+    "id": "681A9F82-8521-4480-9847-2524B10D879F",
+    "city_id": "0F7B4310-3D52-4E28-B868-97908A3F856A",
+    "name": "BANGSAL",
+    "initial": "K"
+  },
+  {
+    "id": "F6A4B9C4-D1D1-453D-8EDE-A63D7CDE9A01",
+    "city_id": "0F7B4310-3D52-4E28-B868-97908A3F856A",
+    "name": "MOJOSARI",
+    "initial": "K"
+  },
+  {
+    "id": "957051E3-4A2F-429A-A089-82ECBCFC19C1",
+    "city_id": "0F7B4310-3D52-4E28-B868-97908A3F856A",
+    "name": "PUNGGING",
+    "initial": "K"
+  },
+  {
+    "id": "FE7FDA4B-04D1-4624-8324-50DF939A9B96",
+    "city_id": "8D371C65-F44A-4399-A668-2A9248420ACE",
+    "name": "JOMBANG",
+    "initial": "K"
+  },
+  {
+    "id": "AEBE99C1-8758-4C09-9986-B29F978100DE",
+    "city_id": "8D371C65-F44A-4399-A668-2A9248420ACE",
+    "name": "TEMBELANG",
+    "initial": "K"
+  },
+  {
+    "id": "0F0F67A7-78CE-462F-A325-758851FD9A4A",
+    "city_id": "8D371C65-F44A-4399-A668-2A9248420ACE",
+    "name": "PLOSO",
+    "initial": "K"
+  },
+  {
+    "id": "C6F50920-02B3-4DF0-B496-B25A3130A478",
+    "city_id": "8D371C65-F44A-4399-A668-2A9248420ACE",
+    "name": "PLANDAAN",
+    "initial": "K"
+  },
+  {
+    "id": "5FF12773-F659-4CA0-9BA8-BBB74AD45EC9",
+    "city_id": "8D371C65-F44A-4399-A668-2A9248420ACE",
+    "name": "MEGALUH",
+    "initial": "K"
+  },
+  {
+    "id": "65A19809-FFBD-404C-AAC4-3F9BEE1D0B0D",
+    "city_id": "8D371C65-F44A-4399-A668-2A9248420ACE",
+    "name": "PERAK",
+    "initial": "K"
+  },
+  {
+    "id": "1869439B-C8E9-479A-92A9-D2E6AD7FF995",
+    "city_id": "8D371C65-F44A-4399-A668-2A9248420ACE",
+    "name": "BANDARKEDUNGMULYO",
+    "initial": "K"
+  },
+  {
+    "id": "A9CC2B60-6E33-402C-894F-22567165403D",
+    "city_id": "8D371C65-F44A-4399-A668-2A9248420ACE",
+    "name": "GUDO",
+    "initial": "K"
+  },
+  {
+    "id": "FCA0759F-F53C-4227-A77B-F5587F566753",
+    "city_id": "8D371C65-F44A-4399-A668-2A9248420ACE",
+    "name": "DIWEK",
+    "initial": "K"
+  },
+  {
+    "id": "3F94A828-F584-4D84-A726-50820AF0AA6E",
+    "city_id": "8D371C65-F44A-4399-A668-2A9248420ACE",
+    "name": "MOJOWARNO",
+    "initial": "K"
+  },
+  {
+    "id": "A1A7E5B9-64B1-4072-B073-8C5B63284FE8",
+    "city_id": "8D371C65-F44A-4399-A668-2A9248420ACE",
+    "name": "PETERONGAN",
+    "initial": "K"
+  },
+  {
+    "id": "03BE8E49-1142-4420-B16C-BDBDE0CCB420",
+    "city_id": "8D371C65-F44A-4399-A668-2A9248420ACE",
+    "name": "MOJOAGUNG",
+    "initial": "K"
+  },
+  {
+    "id": "03559129-6DF0-4FB9-B2DE-A080903FD131",
+    "city_id": "8D371C65-F44A-4399-A668-2A9248420ACE",
+    "name": "SUMOBITO",
+    "initial": "K"
+  },
+  {
+    "id": "65FE376A-7123-492F-A931-9A67E58096C9",
+    "city_id": "8D371C65-F44A-4399-A668-2A9248420ACE",
+    "name": "KESAMBEN",
+    "initial": "K"
+  },
+  {
+    "id": "004F6B24-3260-45DD-B58A-D558B197ADE6",
+    "city_id": "8D371C65-F44A-4399-A668-2A9248420ACE",
+    "name": "JOGOROTO",
+    "initial": "K"
+  },
+  {
+    "id": "96D75103-3EED-4971-BCA0-78FA465F6C43",
+    "city_id": "3AB3AF1C-4B53-4A69-9797-F6537D8E3BB1",
+    "name": "KARTOHARJO",
+    "initial": "K"
+  },
+  {
+    "id": "6B703A08-FD6F-4F7F-B875-BE1DFF9616D2",
+    "city_id": "404176B1-AA9B-4397-B0A3-7A7A03120898",
+    "name": "MEJAYAN",
+    "initial": "K"
+  },
+  {
+    "id": "581B851B-D0A2-4B8D-B0E6-11CFAECD72ED",
+    "city_id": "3AB3AF1C-4B53-4A69-9797-F6537D8E3BB1",
+    "name": "MANGUHARJO",
+    "initial": "K"
+  },
+  {
+    "id": "6833F252-80E4-49B2-B4FE-24FE23A81859",
+    "city_id": "3AB3AF1C-4B53-4A69-9797-F6537D8E3BB1",
+    "name": "TAMAN",
+    "initial": "K"
+  },
+  {
+    "id": "502ADB73-B2CD-4E44-AD23-C425D15B8BC3",
+    "city_id": "9E998628-9E91-42C2-A7AF-E73C6F3A2D20",
+    "name": "NGAWI",
+    "initial": "K"
+  },
+  {
+    "id": "2C2AC040-294F-4376-A98B-EED525889074",
+    "city_id": "9E998628-9E91-42C2-A7AF-E73C6F3A2D20",
+    "name": "PITU",
+    "initial": "K"
+  },
+  {
+    "id": "6876152F-CD83-4A6E-8038-C6AFBC662C35",
+    "city_id": "9E998628-9E91-42C2-A7AF-E73C6F3A2D20",
+    "name": "PARON",
+    "initial": "K"
+  },
+  {
+    "id": "1CFC0FC6-B524-4933-9265-C083C3D90655",
+    "city_id": "9E998628-9E91-42C2-A7AF-E73C6F3A2D20",
+    "name": "SINE",
+    "initial": "K"
+  },
+  {
+    "id": "332DBCFC-44FF-4170-A57B-62AE51DD3988",
+    "city_id": "9E998628-9E91-42C2-A7AF-E73C6F3A2D20",
+    "name": "GENENG",
+    "initial": "K"
+  },
+  {
+    "id": "24397194-4DB9-4986-840C-A0A4AB93EB23",
+    "city_id": "9E998628-9E91-42C2-A7AF-E73C6F3A2D20",
+    "name": "KASREMAN",
+    "initial": "K"
+  },
+  {
+    "id": "32AD2D8B-3DF6-47C9-80BB-A053E8EF7ABC",
+    "city_id": "68673941-2E61-4BFB-9809-28F05C6126BB",
+    "name": "PONOROGO",
+    "initial": "K"
+  },
+  {
+    "id": "51978218-1454-4FFB-831C-5443741F5206",
+    "city_id": "68673941-2E61-4BFB-9809-28F05C6126BB",
+    "name": "PUDAK",
+    "initial": "K"
+  },
+  {
+    "id": "6A98926A-40B2-47D0-98EA-0B9464CBC713",
+    "city_id": "68673941-2E61-4BFB-9809-28F05C6126BB",
+    "name": "KAUMAN",
+    "initial": "K"
+  },
+  {
+    "id": "D11E96CB-FFC6-4969-9510-6C724DF7E8DD",
+    "city_id": "68673941-2E61-4BFB-9809-28F05C6126BB",
+    "name": "SUKOREJO",
+    "initial": "K"
+  },
+  {
+    "id": "655385B1-69CA-4093-BC62-269EEFF912BD",
+    "city_id": "68673941-2E61-4BFB-9809-28F05C6126BB",
+    "name": "SAMPUNG",
+    "initial": "K"
+  },
+  {
+    "id": "2BE9DFB7-D81C-43ED-A91B-1A919F602948",
+    "city_id": "68673941-2E61-4BFB-9809-28F05C6126BB",
+    "name": "BADEGAN",
+    "initial": "K"
+  },
+  {
+    "id": "209B3421-7ABC-4566-BD38-54A8CAD7A1F2",
+    "city_id": "68673941-2E61-4BFB-9809-28F05C6126BB",
+    "name": "JAMBON",
+    "initial": "K"
+  },
+  {
+    "id": "BD3EAFB5-981A-4DEB-B493-2FA88DB52032",
+    "city_id": "68673941-2E61-4BFB-9809-28F05C6126BB",
+    "name": "BALONG",
+    "initial": "K"
+  },
+  {
+    "id": "14FCC4EE-A9F4-40EA-B667-0789083CFF8E",
+    "city_id": "68673941-2E61-4BFB-9809-28F05C6126BB",
+    "name": "BUNGKAL",
+    "initial": "K"
+  },
+  {
+    "id": "CE30DE66-5A8C-45C3-A4D9-A80C209ECC49",
+    "city_id": "68673941-2E61-4BFB-9809-28F05C6126BB",
+    "name": "SLAHUNG",
+    "initial": "K"
+  },
+  {
+    "id": "D9A9840E-763D-4864-9996-0129A90FDF72",
+    "city_id": "68673941-2E61-4BFB-9809-28F05C6126BB",
+    "name": "NGRAYUN",
+    "initial": "K"
+  },
+  {
+    "id": "82E2B5CC-8835-4F8E-8C8C-13B616C79687",
+    "city_id": "68673941-2E61-4BFB-9809-28F05C6126BB",
+    "name": "SIMAN",
+    "initial": "K"
+  },
+  {
+    "id": "8989FE41-A330-476C-B7BC-670ED39A7E80",
+    "city_id": "68673941-2E61-4BFB-9809-28F05C6126BB",
+    "name": "MLARAK",
+    "initial": "K"
+  },
+  {
+    "id": "B57AFC75-7A2F-42AB-A523-14CDC9DBCAE6",
+    "city_id": "68673941-2E61-4BFB-9809-28F05C6126BB",
+    "name": "JETIS",
+    "initial": "K"
+  },
+  {
+    "id": "09982DD9-D946-4624-8CFB-F2FC50463E23",
+    "city_id": "68673941-2E61-4BFB-9809-28F05C6126BB",
+    "name": "SAMBIT",
+    "initial": "K"
+  },
+  {
+    "id": "32002844-BFD8-4915-8FDB-CA227C3C187E",
+    "city_id": "68673941-2E61-4BFB-9809-28F05C6126BB",
+    "name": "SAWOO",
+    "initial": "K"
+  },
+  {
+    "id": "14A187AE-7D28-4EA6-AB23-60025F51576A",
+    "city_id": "68673941-2E61-4BFB-9809-28F05C6126BB",
+    "name": "PULUNG",
+    "initial": "K"
+  },
+  {
+    "id": "79AC2E92-985C-4108-8A18-19A9CED5936A",
+    "city_id": "68673941-2E61-4BFB-9809-28F05C6126BB",
+    "name": "SOOKO",
+    "initial": "K"
+  },
+  {
+    "id": "9043DDE4-0C39-4EDF-8E6D-53CECD999F89",
+    "city_id": "68673941-2E61-4BFB-9809-28F05C6126BB",
+    "name": "BABADAN",
+    "initial": "K"
+  },
+  {
+    "id": "4A304C4C-BAC0-4D23-953E-63E075FAE15B",
+    "city_id": "68673941-2E61-4BFB-9809-28F05C6126BB",
+    "name": "JENANGAN",
+    "initial": "K"
+  },
+  {
+    "id": "95A2896C-57A8-4B90-9991-4CD9AF2E6439",
+    "city_id": "68673941-2E61-4BFB-9809-28F05C6126BB",
+    "name": "NGEBEL",
+    "initial": "K"
+  },
+  {
+    "id": "8811DD9C-C849-4945-834F-C621397D1850",
+    "city_id": "5B997267-C43D-4BDC-B18C-1A9F027C1088",
+    "name": "MOJOROTO",
+    "initial": "K"
+  },
+  {
+    "id": "C1CFEAD9-116F-4BFE-933E-44CBC30CCEF9",
+    "city_id": "5B997267-C43D-4BDC-B18C-1A9F027C1088",
+    "name": "KOTA",
+    "initial": "K"
+  },
+  {
+    "id": "F772D336-5071-4741-B9C4-3E09676E5DC5",
+    "city_id": "5B997267-C43D-4BDC-B18C-1A9F027C1088",
+    "name": "PESANTREN",
+    "initial": "K"
+  },
+  {
+    "id": "1A72DA7B-5FEF-46AF-A855-7DAA2E5B58F8",
+    "city_id": "E905F127-0589-43E6-8167-650A24B9615F",
+    "name": "NGADILUWIH",
+    "initial": "K"
+  },
+  {
+    "id": "A3943864-1724-4964-90A9-57BA990C1CB7",
+    "city_id": "E905F127-0589-43E6-8167-650A24B9615F",
+    "name": "WATES",
+    "initial": "K"
+  },
+  {
+    "id": "467A536E-5806-4E4F-BA10-3ED333D50398",
+    "city_id": "E905F127-0589-43E6-8167-650A24B9615F",
+    "name": "NGASEM",
+    "initial": "K"
+  },
+  {
+    "id": "7212549F-3F07-4974-BD11-0A77E6AD4883",
+    "city_id": "E905F127-0589-43E6-8167-650A24B9615F",
+    "name": "GAMPENGREJO",
+    "initial": "K"
+  },
+  {
+    "id": "23FF5BD6-869F-4A22-BF80-E381F456EFFF",
+    "city_id": "E905F127-0589-43E6-8167-650A24B9615F",
+    "name": "PARE",
+    "initial": "K"
+  },
+  {
+    "id": "4A8AC4F1-30A0-462F-966E-8EF807431650",
+    "city_id": "4071ED6E-97DD-4DF0-9458-E810C5F252F0",
+    "name": "NGANJUK",
+    "initial": "K"
+  },
+  {
+    "id": "B27269C4-45BF-465B-BEE1-C0971AA47322",
+    "city_id": "AE039B8A-9394-4BD3-A14A-129CBA790273",
+    "name": "KLOJEN",
+    "initial": "K"
+  },
+  {
+    "id": "C52AE027-8E0A-4803-B384-B595040405E5",
+    "city_id": "AE039B8A-9394-4BD3-A14A-129CBA790273",
+    "name": "BLIMBING",
+    "initial": "K"
+  },
+  {
+    "id": "531E6B7C-2444-4D63-8D7E-746C61F80028",
+    "city_id": "AE039B8A-9394-4BD3-A14A-129CBA790273",
+    "name": "KEDUNGKANDANG",
+    "initial": "K"
+  },
+  {
+    "id": "84872453-3DDB-4FE6-AF68-ECD1529A97F8",
+    "city_id": "AE039B8A-9394-4BD3-A14A-129CBA790273",
+    "name": "LOWOKWARU",
+    "initial": "K"
+  },
+  {
+    "id": "64D99773-CA57-4C47-B7BF-7D8B63209103",
+    "city_id": "AE039B8A-9394-4BD3-A14A-129CBA790273",
+    "name": "SUKUN",
+    "initial": "K"
+  },
+  {
+    "id": "035E1787-1FFA-4C25-90CD-752A4123643C",
+    "city_id": "5485A6D4-BE51-4B06-B828-79CC857B615A",
+    "name": "DAU",
+    "initial": "K"
+  },
+  {
+    "id": "05FE33AB-9A23-45B9-96E1-9E60F9403804",
+    "city_id": "5485A6D4-BE51-4B06-B828-79CC857B615A",
+    "name": "SINGOSARI",
+    "initial": "K"
+  },
+  {
+    "id": "52DC15ED-B0E6-4A39-84DA-2429B7C12E1C",
+    "city_id": "5485A6D4-BE51-4B06-B828-79CC857B615A",
+    "name": "PAKIS",
+    "initial": "K"
+  },
+  {
+    "id": "F6DC0DAE-8B64-47A9-A361-00DB4EEE7C7E",
+    "city_id": "5485A6D4-BE51-4B06-B828-79CC857B615A",
+    "name": "PAKISAJI",
+    "initial": "K"
+  },
+  {
+    "id": "0C9554D3-C12C-47C3-9307-460C713BBE20",
+    "city_id": "5485A6D4-BE51-4B06-B828-79CC857B615A",
+    "name": "KEPANJEN",
+    "initial": "K"
+  },
+  {
+    "id": "64F789F1-7C01-4983-96C0-6B585594BD62",
+    "city_id": "5485A6D4-BE51-4B06-B828-79CC857B615A",
+    "name": "LAWANG",
+    "initial": "K"
+  },
+  {
+    "id": "2E1BB1DF-9209-4C9F-82D0-DB63DDEC3CBC",
+    "city_id": "23A977BD-24E6-45DA-AC9D-9506F14282C2",
+    "name": "BATU",
+    "initial": "K"
+  },
+  {
+    "id": "66349F4D-C6BA-4CA7-9295-C399AAA87F37",
+    "city_id": "D32B98B6-C179-47BC-8501-C5C162E96C34",
+    "name": "BATU",
+    "initial": "K"
+  },
+  {
+    "id": "54623C45-5B6A-4085-A5F0-4A9DE555EFF2",
+    "city_id": "435FF705-7F48-4A79-A49D-1C41F1B16EA9",
+    "name": "KEPANJENKIDUL",
+    "initial": "K"
+  },
+  {
+    "id": "FB3A0CA6-7208-423B-94A9-57DC19273261",
+    "city_id": "435FF705-7F48-4A79-A49D-1C41F1B16EA9",
+    "name": "SUKOREJO",
+    "initial": "K"
+  },
+  {
+    "id": "EC4709CB-15FB-4EB2-B2AE-561DDDF3C84E",
+    "city_id": "435FF705-7F48-4A79-A49D-1C41F1B16EA9",
+    "name": "SANANWETAN",
+    "initial": "K"
+  },
+  {
+    "id": "657FCAFE-3740-48EA-89F6-1E8413B37A25",
+    "city_id": "34D2C768-BA98-4EE8-B073-E42F5058CD97",
+    "name": "SANANKULON",
+    "initial": "K"
+  },
+  {
+    "id": "CD4CFC21-62C4-4F60-800C-FE0FE10CEC00",
+    "city_id": "34D2C768-BA98-4EE8-B073-E42F5058CD97",
+    "name": "SRENGAT",
+    "initial": "K"
+  },
+  {
+    "id": "91C7C395-5857-4F24-B9AE-303B40E6C288",
+    "city_id": "34D2C768-BA98-4EE8-B073-E42F5058CD97",
+    "name": "PONGGOK",
+    "initial": "K"
+  },
+  {
+    "id": "0E2FC034-60E4-469F-84A8-C6622E193F79",
+    "city_id": "34D2C768-BA98-4EE8-B073-E42F5058CD97",
+    "name": "KADEMANGAN",
+    "initial": "K"
+  },
+  {
+    "id": "37DA689D-8F14-4BD3-BCA2-094300B2E3CF",
+    "city_id": "34D2C768-BA98-4EE8-B073-E42F5058CD97",
+    "name": "KANIGORO",
+    "initial": "K"
+  },
+  {
+    "id": "3314D6E6-8349-4D90-A8EE-362519C0C680",
+    "city_id": "34D2C768-BA98-4EE8-B073-E42F5058CD97",
+    "name": "SUTOJAYAN",
+    "initial": "K"
+  },
+  {
+    "id": "7CC5DBE8-35EB-4D0D-A667-0ABD942ACCC3",
+    "city_id": "34D2C768-BA98-4EE8-B073-E42F5058CD97",
+    "name": "NGLEGOK",
+    "initial": "K"
+  },
+  {
+    "id": "8B65441E-690C-4877-8CC8-E0F8CA1A0614",
+    "city_id": "34D2C768-BA98-4EE8-B073-E42F5058CD97",
+    "name": "GARUM",
+    "initial": "K"
+  },
+  {
+    "id": "85086EFC-BA64-451A-9366-052F137508F3",
+    "city_id": "54EBFE52-ADBB-4D23-BC79-EC157F15AC98",
+    "name": "TULUNGAGUNG",
+    "initial": "K"
+  },
+  {
+    "id": "DD656C99-ED81-47A9-9D80-731565FD3138",
+    "city_id": "54EBFE52-ADBB-4D23-BC79-EC157F15AC98",
+    "name": "KEDUNGWARU",
+    "initial": "K"
+  },
+  {
+    "id": "21127931-8E88-4AA0-9C55-B1B333C2349A",
+    "city_id": "54EBFE52-ADBB-4D23-BC79-EC157F15AC98",
+    "name": "BOYOLANGU",
+    "initial": "K"
+  },
+  {
+    "id": "6E918411-A6FA-4772-98EE-C09342D7C8A6",
+    "city_id": "7231FA75-D298-4737-81D5-4C9BE9F9E851",
+    "name": "TRENGGALEK",
+    "initial": "K"
+  },
+  {
+    "id": "06745F7D-E697-446E-AC35-14903321787C",
+    "city_id": "7231FA75-D298-4737-81D5-4C9BE9F9E851",
+    "name": "TUGU",
+    "initial": "K"
+  },
+  {
+    "id": "0A12A249-D1E8-41EF-A126-BFD200E9F4AE",
+    "city_id": "7231FA75-D298-4737-81D5-4C9BE9F9E851",
+    "name": "BENDUNGAN",
+    "initial": "K"
+  },
+  {
+    "id": "387F9F8D-66EB-4FEA-A5CA-7D828CAD8652",
+    "city_id": "7231FA75-D298-4737-81D5-4C9BE9F9E851",
+    "name": "SURUH",
+    "initial": "K"
+  },
+  {
+    "id": "223F2B50-1E74-4BDA-942E-D8C259997FF0",
+    "city_id": "7231FA75-D298-4737-81D5-4C9BE9F9E851",
+    "name": "KARANGAN",
+    "initial": "K"
+  },
+  {
+    "id": "4897CC6F-59C2-4227-8075-51CC57F69921",
+    "city_id": "7231FA75-D298-4737-81D5-4C9BE9F9E851",
+    "name": "PULE",
+    "initial": "K"
+  },
+  {
+    "id": "304FF88B-1E79-4E5D-9CAA-632FA6ED87E5",
+    "city_id": "7231FA75-D298-4737-81D5-4C9BE9F9E851",
+    "name": "DONGKO",
+    "initial": "K"
+  },
+  {
+    "id": "AEEED14E-F782-43E5-AA03-7D4A2DC192D6",
+    "city_id": "7231FA75-D298-4737-81D5-4C9BE9F9E851",
+    "name": "PANGGUL",
+    "initial": "K"
+  },
+  {
+    "id": "CA1F46B9-1E41-44F0-9D07-18B0A26B2CE3",
+    "city_id": "7231FA75-D298-4737-81D5-4C9BE9F9E851",
+    "name": "MUNJUNGAN",
+    "initial": "K"
+  },
+  {
+    "id": "AC3BA510-791B-43C5-B08B-30621392CC47",
+    "city_id": "7231FA75-D298-4737-81D5-4C9BE9F9E851",
+    "name": "POGALAN",
+    "initial": "K"
+  },
+  {
+    "id": "0E5AEEC3-A5F9-4DA7-95C4-7D64B2E22B3B",
+    "city_id": "7231FA75-D298-4737-81D5-4C9BE9F9E851",
+    "name": "GANDUSARI",
+    "initial": "K"
+  },
+  {
+    "id": "D1D5419A-CD7E-4751-B93F-E5509FFBA8F9",
+    "city_id": "7231FA75-D298-4737-81D5-4C9BE9F9E851",
+    "name": "KAMPAK",
+    "initial": "K"
+  },
+  {
+    "id": "EB5865D1-DBC3-407C-BEE3-B8EF7874F85F",
+    "city_id": "7231FA75-D298-4737-81D5-4C9BE9F9E851",
+    "name": "DURENAN",
+    "initial": "K"
+  },
+  {
+    "id": "E527B37C-2A91-492B-A1A2-7D9DDE4AA174",
+    "city_id": "7231FA75-D298-4737-81D5-4C9BE9F9E851",
+    "name": "WATULIMO",
+    "initial": "K"
+  },
+  {
+    "id": "649EE545-E351-4963-8678-663ECA644C9F",
+    "city_id": "028568EE-2AFC-4639-87EA-024EB66CC472",
+    "name": "PANGGUNGREJO",
+    "initial": "K"
+  },
+  {
+    "id": "1B086CD5-21BD-47A1-99D9-05AA42B4ADFB",
+    "city_id": "028568EE-2AFC-4639-87EA-024EB66CC472",
+    "name": "PURWOREJO",
+    "initial": "K"
+  },
+  {
+    "id": "4DEEF24B-912A-43B7-950D-2833F6908A8E",
+    "city_id": "028568EE-2AFC-4639-87EA-024EB66CC472",
+    "name": "BUGUL KIDUL",
+    "initial": "K"
+  },
+  {
+    "id": "CD0E6183-53AE-428C-B9F1-9CBD8EDED0C3",
+    "city_id": "028568EE-2AFC-4639-87EA-024EB66CC472",
+    "name": "GADINGREJO",
+    "initial": "K"
+  },
+  {
+    "id": "5D5D3CEA-3AFB-4C36-98D5-387754A3B1C4",
+    "city_id": "A31A765F-3C2F-4303-94BE-68660CE533FE",
+    "name": "KRATON",
+    "initial": "K"
+  },
+  {
+    "id": "1E634D61-04DD-4B3D-9D2F-9D40D672FA56",
+    "city_id": "A31A765F-3C2F-4303-94BE-68660CE533FE",
+    "name": "REMBANG",
+    "initial": "K"
+  },
+  {
+    "id": "FD2B2ABB-C40A-4DAE-989E-60AC769E8FB4",
+    "city_id": "A31A765F-3C2F-4303-94BE-68660CE533FE",
+    "name": "BANGIL",
+    "initial": "K"
+  },
+  {
+    "id": "F767F82A-0220-4AAA-A8EE-E278BB9E440F",
+    "city_id": "A31A765F-3C2F-4303-94BE-68660CE533FE",
+    "name": "BEJI",
+    "initial": "K"
+  },
+  {
+    "id": "48F0E28C-F3E1-4592-B9C3-1B7AF5845FF0",
+    "city_id": "A31A765F-3C2F-4303-94BE-68660CE533FE",
+    "name": "GEMPOL",
+    "initial": "K"
+  },
+  {
+    "id": "D5C2A627-69B4-45BE-9772-933CF8450B84",
+    "city_id": "A31A765F-3C2F-4303-94BE-68660CE533FE",
+    "name": "PANDAAN",
+    "initial": "K"
+  },
+  {
+    "id": "E084DEB7-CCB8-4BBE-8E7B-7E06A11B0B27",
+    "city_id": "A31A765F-3C2F-4303-94BE-68660CE533FE",
+    "name": "PRIGEN",
+    "initial": "K"
+  },
+  {
+    "id": "48D8A97B-E8D0-42A0-8E45-26E38ACD6583",
+    "city_id": "A31A765F-3C2F-4303-94BE-68660CE533FE",
+    "name": "POHJENTREK",
+    "initial": "K"
+  },
+  {
+    "id": "13496735-B439-4E3B-B52B-C71A564B9F68",
+    "city_id": "A31A765F-3C2F-4303-94BE-68660CE533FE",
+    "name": "REJOSO",
+    "initial": "K"
+  },
+  {
+    "id": "8BD8F1D7-BC07-442C-865E-8D6D92F11616",
+    "city_id": "95D03F51-9531-43AB-962D-A525873443D8",
+    "name": "KANIGARAN",
+    "initial": "K"
+  },
+  {
+    "id": "8F874DA3-0EAC-4B01-B361-32A9B58C9205",
+    "city_id": "95D03F51-9531-43AB-962D-A525873443D8",
+    "name": "MAYANGAN",
+    "initial": "K"
+  },
+  {
+    "id": "2EFB1DFC-F39A-4739-A8CA-756890FE3195",
+    "city_id": "95D03F51-9531-43AB-962D-A525873443D8",
+    "name": "KADEMANGAN",
+    "initial": "K"
+  },
+  {
+    "id": "88A0CBC4-5D2D-4A24-82C3-C179C1D0EA4C",
+    "city_id": "95D03F51-9531-43AB-962D-A525873443D8",
+    "name": "KEDOPAK",
+    "initial": "K"
+  },
+  {
+    "id": "7C26E80E-D5AC-44DD-B17A-D6FE61C9F8CA",
+    "city_id": "95D03F51-9531-43AB-962D-A525873443D8",
+    "name": "WONOASIH",
+    "initial": "K"
+  },
+  {
+    "id": "7DC68DC6-6698-4268-9C1A-F7D05110108E",
+    "city_id": "70E13AC5-EF16-4A07-8ADE-3E7D8A339EEB",
+    "name": "SUMBERASIH",
+    "initial": "K"
+  },
+  {
+    "id": "F586C566-FAAD-4399-9BBF-72D7982271C2",
+    "city_id": "3FE8D476-805A-41EB-9B41-97F2BE25E44C",
+    "name": "LUMAJANG",
+    "initial": "K"
+  },
+  {
+    "id": "85A1E744-7C46-48AB-BC77-663D939C9D33",
+    "city_id": "1E3FDF29-292D-4CF6-8B58-3A4E832A9FCD",
+    "name": "PATRANG",
+    "initial": "K"
+  },
+  {
+    "id": "13F98D01-A45B-4261-B30D-3667983A2741",
+    "city_id": "1E3FDF29-292D-4CF6-8B58-3A4E832A9FCD",
+    "name": "KALISAT",
+    "initial": "K"
+  },
+  {
+    "id": "E362710A-7ED2-4A84-B5BB-6ACBC0980D61",
+    "city_id": "1E3FDF29-292D-4CF6-8B58-3A4E832A9FCD",
+    "name": "SUMBERSARI",
+    "initial": "K"
+  },
+  {
+    "id": "B59F18F8-FA28-428A-92DC-2A9CDDB7E13F",
+    "city_id": "1E3FDF29-292D-4CF6-8B58-3A4E832A9FCD",
+    "name": "KALIWATES",
+    "initial": "K"
+  },
+  {
+    "id": "B67B8DBC-230E-41D4-B86D-BE0423C9FCA6",
+    "city_id": "1E3FDF29-292D-4CF6-8B58-3A4E832A9FCD",
+    "name": "SUKORAMBI",
+    "initial": "K"
+  },
+  {
+    "id": "320EDAA5-CE38-4C09-AC78-9EEF4FF8D789",
+    "city_id": "1E3FDF29-292D-4CF6-8B58-3A4E832A9FCD",
+    "name": "RAMBIPUJI",
+    "initial": "K"
+  },
+  {
+    "id": "66EC041D-2ADB-4DFB-8A70-BD44883CC9E6",
+    "city_id": "1E3FDF29-292D-4CF6-8B58-3A4E832A9FCD",
+    "name": "PAKUSARI",
+    "initial": "K"
+  },
+  {
+    "id": "CFE72397-2467-4E7F-AD83-DC1C641A3E44",
+    "city_id": "1E3FDF29-292D-4CF6-8B58-3A4E832A9FCD",
+    "name": "ARJASA",
+    "initial": "K"
+  },
+  {
+    "id": "91F5EA7F-2E9F-4BD8-8858-37327305CE1F",
+    "city_id": "BC661744-E86F-49E4-B5B3-A26A3B8E36AA",
+    "name": "BONDOWOSO",
+    "initial": "K"
+  },
+  {
+    "id": "EA4FBD6C-737E-4917-88EE-EF38E0F6C5F8",
+    "city_id": "DC070C16-0F5C-41AB-AF8F-5F0EFD0D89D5",
+    "name": "BANYUWANGI",
+    "initial": "K"
+  },
+  {
+    "id": "4DB68556-4CEA-4969-8E77-FBE9A3C6FE44",
+    "city_id": "DC070C16-0F5C-41AB-AF8F-5F0EFD0D89D5",
+    "name": "KALIPURO",
+    "initial": "K"
+  },
+  {
+    "id": "187B87E8-5EB1-4326-8C7D-F593ACAA521A",
+    "city_id": "DC070C16-0F5C-41AB-AF8F-5F0EFD0D89D5",
+    "name": "GIRI",
+    "initial": "K"
+  },
+  {
+    "id": "B331323C-0070-4BA6-95DA-5350935B4277",
+    "city_id": "DC070C16-0F5C-41AB-AF8F-5F0EFD0D89D5",
+    "name": "GLAGAH",
+    "initial": "K"
+  },
+  {
+    "id": "05F743A2-A39D-4082-84D6-C1EE205320D8",
+    "city_id": "DC070C16-0F5C-41AB-AF8F-5F0EFD0D89D5",
+    "name": "BLIMBINGSARI",
+    "initial": "K"
+  },
+  {
+    "id": "1A01D509-029F-4BA8-8810-C585B4DD9CFE",
+    "city_id": "DC070C16-0F5C-41AB-AF8F-5F0EFD0D89D5",
+    "name": "KABAT",
+    "initial": "K"
+  },
+  {
+    "id": "DB4BE1C3-3EDD-448F-B281-40E9A9FD15CC",
+    "city_id": "DC070C16-0F5C-41AB-AF8F-5F0EFD0D89D5",
+    "name": "ROGOJAMPI",
+    "initial": "K"
+  },
+  {
+    "id": "5CC952C0-F63C-4B9C-AAF7-23A25C63BE23",
+    "city_id": "DC070C16-0F5C-41AB-AF8F-5F0EFD0D89D5",
+    "name": "GENTENG",
+    "initial": "K"
+  },
+  {
+    "id": "C0B8E5D8-DB0A-463D-8752-25A628A8D3B1",
+    "city_id": "DC070C16-0F5C-41AB-AF8F-5F0EFD0D89D5",
+    "name": "SEMPU",
+    "initial": "K"
+  },
+  {
+    "id": "33246962-0E34-4DCF-9AB4-0EBE65C3A456",
+    "city_id": "DC070C16-0F5C-41AB-AF8F-5F0EFD0D89D5",
+    "name": "SRONO",
+    "initial": "K"
+  },
+  {
+    "id": "9868F059-996B-426A-BEC9-85CEFB44088C",
+    "city_id": "DC070C16-0F5C-41AB-AF8F-5F0EFD0D89D5",
+    "name": "MUNCAR",
+    "initial": "K"
+  },
+  {
+    "id": "8355C38A-54A1-4006-9C3A-C7147677C494",
+    "city_id": "DC070C16-0F5C-41AB-AF8F-5F0EFD0D89D5",
+    "name": "CLURING",
+    "initial": "K"
+  },
+  {
+    "id": "7F9B14C6-0994-4541-AA79-4C1F87A4B8E2",
+    "city_id": "DC070C16-0F5C-41AB-AF8F-5F0EFD0D89D5",
+    "name": "GAMBIRAN",
+    "initial": "K"
+  },
+  {
+    "id": "06514C35-A60D-421A-99DE-4E64393915C2",
+    "city_id": "AF2BEFAB-955D-4059-A357-C9C0D880E474",
+    "name": "BANJARMASIN TENGAH",
+    "initial": "K"
+  },
+  {
+    "id": "61CCDAC7-8736-41D2-B6AA-7481639140D2",
+    "city_id": "AF2BEFAB-955D-4059-A357-C9C0D880E474",
+    "name": "BANJARMASIN BARAT",
+    "initial": "K"
+  },
+  {
+    "id": "0C2E7792-2B6F-48CC-9DD0-898E38733D90",
+    "city_id": "AF2BEFAB-955D-4059-A357-C9C0D880E474",
+    "name": "BANJARMASIN UTARA",
+    "initial": "K"
+  },
+  {
+    "id": "77C283A4-4C6E-4E46-895F-893C124FC6C4",
+    "city_id": "AF2BEFAB-955D-4059-A357-C9C0D880E474",
+    "name": "BANJARMASIN TIMUR",
+    "initial": "K"
+  },
+  {
+    "id": "A6414209-EDCD-4BE7-B18B-FBC7DB1C41EE",
+    "city_id": "AF2BEFAB-955D-4059-A357-C9C0D880E474",
+    "name": "BANJARMASIN SELATAN",
+    "initial": "K"
+  },
+  {
+    "id": "EA1CD717-2F06-4A61-A890-2E77A835AF0C",
+    "city_id": "D2EAD7F4-F8A6-4057-B791-2346679F8DFE",
+    "name": "SAMARINDA KOTA",
+    "initial": "K"
+  },
+  {
+    "id": "553B2CCF-4FE7-49FA-AA86-58F433CC4941",
+    "city_id": "D2EAD7F4-F8A6-4057-B791-2346679F8DFE",
+    "name": "SAMBUTAN",
+    "initial": "K"
+  },
+  {
+    "id": "5964E271-9195-4FB1-A15A-552988EC60BB",
+    "city_id": "D2EAD7F4-F8A6-4057-B791-2346679F8DFE",
+    "name": "SAMARINDA ILIR",
+    "initial": "K"
+  },
+  {
+    "id": "E47BFFB8-5498-43A4-A90D-73CDDCC4DE81",
+    "city_id": "D2EAD7F4-F8A6-4057-B791-2346679F8DFE",
+    "name": "SUNGAI PINANG",
+    "initial": "K"
+  },
+  {
+    "id": "DE56A0A4-AF59-4C50-B0D2-DC38FBA0A3FE",
+    "city_id": "D2EAD7F4-F8A6-4057-B791-2346679F8DFE",
+    "name": "SAMARINDA UTARA",
+    "initial": "K"
+  },
+  {
+    "id": "FCE1A256-09B7-4E77-A595-59168812E553",
+    "city_id": "D2EAD7F4-F8A6-4057-B791-2346679F8DFE",
+    "name": "SAMARINDA ULU",
+    "initial": "K"
+  },
+  {
+    "id": "642FB048-2CA6-4CB2-8DC7-71B99EF90C51",
+    "city_id": "D2EAD7F4-F8A6-4057-B791-2346679F8DFE",
+    "name": "SUNGAI KUNJANG",
+    "initial": "K"
+  },
+  {
+    "id": "AA4C84CC-EFBB-4EBD-8C0F-D176C903247B",
+    "city_id": "D2EAD7F4-F8A6-4057-B791-2346679F8DFE",
+    "name": "SAMARINDA SEBERANG",
+    "initial": "K"
+  },
+  {
+    "id": "1709EB43-937A-4B31-9C24-6DAB57EB299A",
+    "city_id": "D2EAD7F4-F8A6-4057-B791-2346679F8DFE",
+    "name": "LOA JANAN ILIR",
+    "initial": "K"
+  },
+  {
+    "id": "34C26B4B-706D-458E-8AD6-2FBC785FB3BE",
+    "city_id": "D2EAD7F4-F8A6-4057-B791-2346679F8DFE",
+    "name": "PALARAN",
+    "initial": "K"
+  },
+  {
+    "id": "2A3104B5-EB8E-4A8F-A341-8CA5C9760EF3",
+    "city_id": "543D97A3-0B4B-453B-8B5E-7BCE32DD5745",
+    "name": "BALIKPAPAN KOTA",
+    "initial": "K"
+  },
+  {
+    "id": "EE5186DB-6B5B-44ED-9C27-259DB7F299B7",
+    "city_id": "543D97A3-0B4B-453B-8B5E-7BCE32DD5745",
+    "name": "BALIKPAPAN SELATAN",
+    "initial": "K"
+  },
+  {
+    "id": "33170FBC-E147-4561-AD3A-B57E3C55B3A5",
+    "city_id": "543D97A3-0B4B-453B-8B5E-7BCE32DD5745",
+    "name": "BALIKPAPAN TENGAH",
+    "initial": "K"
+  },
+  {
+    "id": "5736D654-1A99-40B0-B47D-FC0FD4D130D1",
+    "city_id": "543D97A3-0B4B-453B-8B5E-7BCE32DD5745",
+    "name": "BALIKPAPAN BARAT",
+    "initial": "K"
+  },
+  {
+    "id": "9A6BF89E-637E-4A93-8E8F-ABC42DE18BF9",
+    "city_id": "543D97A3-0B4B-453B-8B5E-7BCE32DD5745",
+    "name": "BALIKPAPAN UTARA",
+    "initial": "K"
+  },
+  {
+    "id": "2970D9F7-3507-4689-A9D4-033C48117FA7",
+    "city_id": "52E37DFB-E168-43F5-8B67-0B31DE239AFF",
+    "name": "PONTIANAK KOTA",
+    "initial": "K"
+  },
+  {
+    "id": "3F81E877-7501-49BA-A785-EA6E2ADFE175",
+    "city_id": "52E37DFB-E168-43F5-8B67-0B31DE239AFF",
+    "name": "PONTIANAK BARAT",
+    "initial": "K"
+  },
+  {
+    "id": "72A56D69-617C-4FDF-9DA5-3397DDB00FF1",
+    "city_id": "52E37DFB-E168-43F5-8B67-0B31DE239AFF",
+    "name": "PONTIANAK SELATAN",
+    "initial": "K"
+  },
+  {
+    "id": "B5727D66-C586-43B3-9CD6-5053990D1B73",
+    "city_id": "52E37DFB-E168-43F5-8B67-0B31DE239AFF",
+    "name": "PONTIANAK TENGGARA",
+    "initial": "K"
+  },
+  {
+    "id": "477C29F3-3080-4411-BEE6-DE64C6032191",
+    "city_id": "52E37DFB-E168-43F5-8B67-0B31DE239AFF",
+    "name": "PONTIANAK TIMUR",
+    "initial": "K"
+  },
+  {
+    "id": "2A0262DC-47F1-458C-BFCA-832ED441AE1A",
+    "city_id": "52E37DFB-E168-43F5-8B67-0B31DE239AFF",
+    "name": "PONTIANAK UTARA",
+    "initial": "K"
+  },
+  {
+    "id": "0E9E648F-1ADD-4F18-BA1B-03684D93EA2F",
+    "city_id": "12B0EFBA-C979-4461-8538-3638EA95471C",
+    "name": "SUNGAI RAYA",
+    "initial": "K"
+  },
+  {
+    "id": "2C28E965-07D1-4861-8C6E-ACA179D9CCBC",
+    "city_id": "31780E97-10D5-48C6-9895-4DA5F2C3F5F7",
+    "name": "DENPASAR UTARA",
+    "initial": "K"
+  },
+  {
+    "id": "9C6CDBF9-4062-45FB-8F73-10FF00CF4447",
+    "city_id": "31780E97-10D5-48C6-9895-4DA5F2C3F5F7",
+    "name": "DENPASAR BARAT",
+    "initial": "K"
+  },
+  {
+    "id": "EF340231-F8C3-44EA-BD4B-C08A078295EA",
+    "city_id": "31780E97-10D5-48C6-9895-4DA5F2C3F5F7",
+    "name": "DENPASAR SELATAN",
+    "initial": "K"
+  },
+  {
+    "id": "4CF58968-8B25-4FFC-AB26-CAD9C547A214",
+    "city_id": "31780E97-10D5-48C6-9895-4DA5F2C3F5F7",
+    "name": "DENPASAR TIMUR",
+    "initial": "K"
+  },
+  {
+    "id": "131370E7-FFB6-4E46-A5F8-121EAB9295CE",
+    "city_id": "1A4B4879-F0D0-4958-9A27-40E32EA62633",
+    "name": "MENGWI",
+    "initial": "K"
+  },
+  {
+    "id": "822A13E5-89DD-45BF-BC65-299589D7B5B4",
+    "city_id": "1A4B4879-F0D0-4958-9A27-40E32EA62633",
+    "name": "KUTA",
+    "initial": "K"
+  },
+  {
+    "id": "7BE7E8D5-AAD9-48FE-88B3-F4B7A0A49360",
+    "city_id": "1A4B4879-F0D0-4958-9A27-40E32EA62633",
+    "name": "KUTA SELATAN",
+    "initial": "K"
+  },
+  {
+    "id": "A91CC8FA-8509-4E08-8303-EC6A1C46F28D",
+    "city_id": "1A4B4879-F0D0-4958-9A27-40E32EA62633",
+    "name": "KUTA UTARA",
+    "initial": "K"
+  },
+  {
+    "id": "BAB3459E-EDE8-4D86-B5DF-6BDE01673049",
+    "city_id": "D460C6FC-9F44-4D68-973A-102417822FBB",
+    "name": "GIANYAR",
+    "initial": "K"
+  },
+  {
+    "id": "D63F61A4-2236-4122-A947-29369F6A87E9",
+    "city_id": "D460C6FC-9F44-4D68-973A-102417822FBB",
+    "name": "UBUD",
+    "initial": "K"
+  },
+  {
+    "id": "BEF323F4-FF18-4DD0-B4E6-95C67349715A",
+    "city_id": "D460C6FC-9F44-4D68-973A-102417822FBB",
+    "name": "BLAHBATUH",
+    "initial": "K"
+  },
+  {
+    "id": "7368ED78-27FC-42AE-ABF7-BBA4A63DD3D7",
+    "city_id": "D460C6FC-9F44-4D68-973A-102417822FBB",
+    "name": "SUKAWATI",
+    "initial": "K"
+  },
+  {
+    "id": "EF1DEDAE-4BE7-4DC5-BC5A-EFE41D7CBD84",
+    "city_id": "817AFC84-F799-4DC8-96E2-BFEA94B7BC91",
+    "name": "UJUNG PANDANG",
+    "initial": "K"
+  },
+  {
+    "id": "DE2A1D4F-72C4-4958-A415-5CD1CB625908",
+    "city_id": "817AFC84-F799-4DC8-96E2-BFEA94B7BC91",
+    "name": "MARISO",
+    "initial": "K"
+  },
+  {
+    "id": "D775A4F9-C6EC-44A2-87DE-18343EA599B0",
+    "city_id": "817AFC84-F799-4DC8-96E2-BFEA94B7BC91",
+    "name": "MAMAJANG",
+    "initial": "K"
+  },
+  {
+    "id": "F9B1B8D8-4B58-4A99-93B5-BF40D5F0BFAF",
+    "city_id": "817AFC84-F799-4DC8-96E2-BFEA94B7BC91",
+    "name": "MAKASAR",
+    "initial": "K"
+  },
+  {
+    "id": "13D8E739-3134-4606-9495-3731ABCE926B",
+    "city_id": "817AFC84-F799-4DC8-96E2-BFEA94B7BC91",
+    "name": "BONTOALA",
+    "initial": "K"
+  },
+  {
+    "id": "D2DADEF3-19F2-4069-A8D9-CD66BB4E9706",
+    "city_id": "817AFC84-F799-4DC8-96E2-BFEA94B7BC91",
+    "name": "UJUNG TANAH",
+    "initial": "K"
+  },
+  {
+    "id": "C53DCC9D-7440-4CCF-A444-6BF570989C1A",
+    "city_id": "817AFC84-F799-4DC8-96E2-BFEA94B7BC91",
+    "name": "WAJO",
+    "initial": "K"
+  },
+  {
+    "id": "1E107E8C-93EE-4F70-8C20-FA504C37D6B2",
+    "city_id": "817AFC84-F799-4DC8-96E2-BFEA94B7BC91",
+    "name": "TALLO",
+    "initial": "K"
+  },
+  {
+    "id": "790B3D53-4ABA-40BD-BA0F-44A9493DC638",
+    "city_id": "817AFC84-F799-4DC8-96E2-BFEA94B7BC91",
+    "name": "RAPPOCINI",
+    "initial": "K"
+  },
+  {
+    "id": "F2837597-74DF-42E8-9528-2E65003B6A48",
+    "city_id": "817AFC84-F799-4DC8-96E2-BFEA94B7BC91",
+    "name": "TAMALATE",
+    "initial": "K"
+  },
+  {
+    "id": "30DCEB84-39F3-4D3B-8FA9-CAC69C870C4D",
+    "city_id": "817AFC84-F799-4DC8-96E2-BFEA94B7BC91",
+    "name": "PANAKUKKANG",
+    "initial": "K"
+  },
+  {
+    "id": "86767F33-4216-4BDC-A7B4-0EBA78D97907",
+    "city_id": "817AFC84-F799-4DC8-96E2-BFEA94B7BC91",
+    "name": "MANGGALA",
+    "initial": "K"
+  },
+  {
+    "id": "FB5FFE49-3E32-4A89-92BD-757AA31362AC",
+    "city_id": "817AFC84-F799-4DC8-96E2-BFEA94B7BC91",
+    "name": "BIRINGKANAYA",
+    "initial": "K"
+  },
+  {
+    "id": "30B5D884-533B-426B-AF32-C1097B189DD8",
+    "city_id": "817AFC84-F799-4DC8-96E2-BFEA94B7BC91",
+    "name": "TAMALANREA",
+    "initial": "K"
+  },
+  {
+    "id": "6206EA8F-72F6-40CE-93DE-BB49D7563751",
+    "city_id": "DBCE7CD4-5E3B-4511-9EF3-FDC66045B432",
+    "name": "SOMBA UPU",
+    "initial": "K"
+  },
+  {
+    "id": "CFD4998A-D344-487C-A6A1-5A51563518CB",
+    "city_id": "4A8B2357-C950-4AF3-8B7E-4670BF897D81",
+    "name": "KOTA TERNATE TENGAH",
+    "initial": "K"
+  },
+  {
+    "id": "6EC5F523-A792-477D-8050-1F6AF020EA6B",
+    "city_id": "4A8B2357-C950-4AF3-8B7E-4670BF897D81",
+    "name": "KOTA TERNATE SELATAN",
+    "initial": "K"
+  },
+  {
+    "id": "AAD66442-DD28-438F-A80A-B2EF13F987DD",
+    "city_id": "4A8B2357-C950-4AF3-8B7E-4670BF897D81",
+    "name": "KOTA TERNATE UTARA",
+    "initial": "K"
+  },
+  {
+    "id": "F6024D56-B8F5-4B91-9AD8-FD90ACAAAAC1",
+    "city_id": "4A8B2357-C950-4AF3-8B7E-4670BF897D81",
+    "name": "MOTI",
+    "initial": "K"
+  },
+  {
+    "id": "3FF0C39F-35A4-44E1-872A-269DF660634D",
+    "city_id": "4A8B2357-C950-4AF3-8B7E-4670BF897D81",
+    "name": "PULAU BATANG DUA",
+    "initial": "K"
+  },
+  {
+    "id": "DB28A126-272D-4A8B-9F2F-A4DDCE183DF8",
+    "city_id": "4A8B2357-C950-4AF3-8B7E-4670BF897D81",
+    "name": "PULAU HIRI",
+    "initial": "K"
+  },
+  {
+    "id": "F30F1B69-2390-437E-99C7-071F3CE6C6F6",
+    "city_id": "4A8B2357-C950-4AF3-8B7E-4670BF897D81",
+    "name": "PULAU TERNATE",
+    "initial": "K"
+  },
+  {
+    "id": "3B80DE5C-50B9-4848-A025-BA85F7626744",
+    "city_id": "4F7B0DE8-C876-437F-B21E-E6B0D76F299A",
+    "name": "SORONG UTARA",
+    "initial": "K"
+  },
+  {
+    "id": "F7C0C42B-C940-4A4B-BBAA-073785A039CC",
+    "city_id": "4F7B0DE8-C876-437F-B21E-E6B0D76F299A",
+    "name": "MALADUM MES",
+    "initial": "K"
+  },
+  {
+    "id": "7D166C7C-1AA8-4ADC-9881-A4E7C3840C2F",
+    "city_id": "4F7B0DE8-C876-437F-B21E-E6B0D76F299A",
+    "name": "MALAIMSIMSA",
+    "initial": "K"
+  },
+  {
+    "id": "E9E138E8-378E-4869-A82D-DCD6651574FB",
+    "city_id": "4F7B0DE8-C876-437F-B21E-E6B0D76F299A",
+    "name": "SORONG BARAT",
+    "initial": "K"
+  },
+  {
+    "id": "495AAC56-9797-4F9A-A5BD-CD7691476EF8",
+    "city_id": "4F7B0DE8-C876-437F-B21E-E6B0D76F299A",
+    "name": "SORONG KEPULAUAN",
+    "initial": "K"
+  },
+  {
+    "id": "E5DEA11B-7ADF-4A88-84D6-3647BDD92085",
+    "city_id": "4F7B0DE8-C876-437F-B21E-E6B0D76F299A",
+    "name": "SORONG KOTA",
+    "initial": "K"
+  },
+  {
+    "id": "E980C804-B87B-4A00-A954-46383C31B3B5",
+    "city_id": "4F7B0DE8-C876-437F-B21E-E6B0D76F299A",
+    "name": "SORONG MANOI",
+    "initial": "K"
+  },
+  {
+    "id": "185A06B5-35CE-4346-BBDB-592BEC62F341",
+    "city_id": "4F7B0DE8-C876-437F-B21E-E6B0D76F299A",
+    "name": "SORONG",
+    "initial": "K"
+  },
+  {
+    "id": "5ABF2D4B-929A-4172-876A-E9D9E5B890ED",
+    "city_id": "4F7B0DE8-C876-437F-B21E-E6B0D76F299A",
+    "name": "KLAURUNG",
+    "initial": "K"
+  },
+  {
+    "id": "BEB5E022-3820-4E7F-B392-E650B08A0EF2",
+    "city_id": "4F7B0DE8-C876-437F-B21E-E6B0D76F299A",
+    "name": "SORONG TIMUR",
+    "initial": "K"
+  }
+]

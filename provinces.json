@@ -1,0 +1,107 @@
+[
+  {
+    "id": "E7C6266F-B703-44F9-9DD2-55C548C27696",
+    "name": "DKI JAKARTA",
+    "initial": "P"
+  },
+  {
+    "id": "361D7207-E1CF-4BFA-AFC3-0F86FDE38BAA",
+    "name": "BANTEN",
+    "initial": "P"
+  },
+  {
+    "id": "CBBDB888-4DCF-4931-8965-A03B816A704C",
+    "name": "JAWA BARAT",
+    "initial": "P"
+  },
+  {
+    "id": "C3921177-BC60-426D-89AB-44EB0EA38DEA",
+    "name": "SUMATERA UTARA",
+    "initial": "P"
+  },
+  {
+    "id": "C676D354-0FD6-4067-8BC0-A8D337D0FAD5",
+    "name": "ACEH",
+    "initial": "P"
+  },
+  {
+    "id": "E94D9153-F201-4D7A-98AA-59A709103702",
+    "name": "SUMATERA BARAT",
+    "initial": "P"
+  },
+  {
+    "id": "3FA10CA5-10DD-43B4-9494-FE3AADB1653E",
+    "name": "RIAU",
+    "initial": "P"
+  },
+  {
+    "id": "92AF1037-0F46-4D0D-8B90-E309B9A5BB86",
+    "name": "SUMATERA SELATAN",
+    "initial": "P"
+  },
+  {
+    "id": "E5F2A92B-F913-47F3-9654-6EB35BD3C0BC",
+    "name": "LAMPUNG",
+    "initial": "P"
+  },
+  {
+    "id": "793B1BED-B7F2-4919-8D12-72D952BED65A",
+    "name": "JAMBI",
+    "initial": "P"
+  },
+  {
+    "id": "FF48F40F-8823-4A44-BD09-EE1ABA77D205",
+    "name": "BENGKULU",
+    "initial": "P"
+  },
+  {
+    "id": "826F5AE3-A988-414A-942F-E4196D44B45A",
+    "name": "JAWA TENGAH",
+    "initial": "P"
+  },
+  {
+    "id": "A82E5BEC-B3B9-4ACE-8A0A-73BE9FD1BB67",
+    "name": "DAERAH ISTIMEWA YOGYAKARTA",
+    "initial": "P"
+  },
+  {
+    "id": "984ED863-8D27-4536-8703-D6ED29CB4B09",
+    "name": "JAWA TIMUR",
+    "initial": "P"
+  },
+  {
+    "id": "DA6E3415-FE54-4F50-8E1B-26B89849663E",
+    "name": "KALIMANTAN SELATAN",
+    "initial": "P"
+  },
+  {
+    "id": "4A0C6955-A113-4449-8B6B-0764215D750D",
+    "name": "KALIMANTAN TIMUR",
+    "initial": "P"
+  },
+  {
+    "id": "B0F7ED74-B6D0-46E2-B391-44A1243B9E38",
+    "name": "KALIMANTAN BARAT",
+    "initial": "P"
+  },
+  {
+    "id": "CAC4D80E-8F89-4500-B7B2-FDA96C8E3A4E",
+    "name": "BALI",
+    "initial": "P"
+  },
+  {
+    "id": "11409D4E-50B0-41AE-98ED-70F0368DB99C",
+    "name": "SULAWESI SELATAN",
+    "initial": "P"
+  },
+  {
+    "id": "E5983D7A-E4E4-4F92-BE0E-2570D282EA09",
+    "name": "MALUKU UTARA",
+    "initial": "P"
+  },
+  {
+    "id": "E649A520-20C3-43B6-9BFE-E8EB9B8242AD",
+    "name": "PAPUA BARAT",
+    "initial": "P"
+  }
+]
